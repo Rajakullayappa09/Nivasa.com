@@ -1,0 +1,61 @@
+/* Header styles */
+.headerStyle {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #FEFCFB;
+    padding: 10px 20px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    position: sticky;
+    top: 0;
+    z-index: 1000;
+  }
+  
+  /* Logo styles */
+  .logoStyle {
+    display: flex;
+    align-items: center;
+    font-family: Arial, sans-serif;
+    font-size: 1.5rem;
+    font-weight: bold;
+    color: #333;
+    gap: 8px;
+    text-decoration: none;
+  }
+  
+  /* Navigation styles */
+  .navStyle {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+  }
+  
+  /* Navigation link styles */
+  .navLinkStyle {
+    font-size: 1rem;
+    color: #0078b3;
+    text-decoration: none;
+    font-weight: bold;
+    cursor: pointer;
+  }
+  
+  /* Login button styles */
+  .loginButtonStyle {
+    background-color: #0078b3;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    padding: 8px 16px;
+    font-size: 1rem;
+    font-weight: bold;
+    cursor: pointer;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    transition: transform 0.2s, box-shadow 0.2s;
+  }
+  
+  /* Login button hover effect */
+  .loginButtonHoverStyle {
+    transform: translateY(-2px);
+    box-shadow: 0 6px 8px rgba(0, 0, 0, 0.2);
+  }
+  

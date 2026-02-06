@@ -1,0 +1,720 @@
+{
+    "home": {
+      "heading": {
+        "line1": "Trouvez votre correspondance parfaite de l'auberge !"
+      },
+      "subtitle":
+       "Que vous voyagiez seul, en couple, en famille ou entre amis, notre plateforme propose une large gamme d'hébergements adaptés à vos préférences."
+    },
+    "exploreRoom": {
+      "servicesTitle": "SERVICES",
+      "whyChooseTitle": "Pourquoi choisir World of Hostels",
+      "whyChooseDescription": "Chez World of Hostels, nous privilégions votre confort et votre satisfaction. Voici pourquoi nous sommes le premier choix pour les voyageurs du monde entier :",
+      "serviceTitles": {
+        "accommodation": "Hébergements variés",
+        "dining": "Services de restauration en chambre",
+        "reviews": "Avis vérifiés des clients"
+      },
+      "serviceDescription": "Des vols, des séjours, aux visites, comptez sur nos produits complets."
+    },
+    "bookingcart": {
+      "propertyGallery": "Galerie de propriétés",
+      "viewAll": "Voir tout",
+      "noDataFound": "Aucune donnée trouvée",
+      "amenities": "Équipements",
+      "showonmap": "Afficher sur la carte",
+      "checkinTime": "Heure d'arrivée",
+      "checkoutTime": "Heure de départ",
+      "loadingaccommodations": "Chargement des hébergements...",
+      "viewreviews": "Voir les avis",
+      "bookingSummary": "Résumé de la réservation",
+      "checkin": "Enregistrement",
+      "checkout": "Départ",
+      "totalGuests": "Invités",
+      "reservedGuests": "Invités réservés",
+      "totalRoomCost": "Coût total de la chambre",
+      "gstCost": "Taxe GST",
+      "totalbookingcost": "Coût total de la réservation",
+      "payableAmount": "Montant payable",
+      "pendingAmount": "Montant en attente",
+      "discountAmount": "Montant de la remise",
+      "reservedguestsarefewerthantotalguests": "Les invités réservés sont moins que le nombre total d'invités !",
+      "applycoupon": "Appliquer le coupon",
+      "apply": "Appliquer",
+      "costbreakdown": "Répartition des coûts / Par jour",
+      "noofguest": "Nombre d'invités",
+      "serviceCost": "Coût du service",
+      "additionalCost": "Coût supplémentaire",
+      "noRoomsSelected": "Aucune chambre sélectionnée",
+      "rooms": "Chambres",
+      "Agree": "Accepter les termes et conditions / Politiques",
+      "termsConditions": "Termes et conditions",
+      "confirmBooking": "Confirmer la réservation",
+      "Agreedescrption": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus varius purus nec metus ultrices, eget dignissim augue lacinia. Suspendisse potenti. Donec et dui sed libero convallis aliquet sit amet eu felis. Nullam et sollicitudin dui. Etiam at orci massa.",
+      "close": "Fermer",
+      "Add":"Ajouter",
+      "night": "Nuit",
+      "Max": "Maximum",
+      "Only": "Seulement",
+      "Left": "Disponible", 
+      "Nearby": "Près",
+      "Home": "Maison",
+      "Person": "Personne",
+      "Persons": "Personnes"
+    },
+    "accommodations": {
+      "keyFeatures": "Caractéristiques principales",
+      "ourAccommodations": "Nos hébergements",
+      "roomTypes": {
+        "privateRoom": {
+          "label": "Chambres privées",
+          "description": "Découvrez la confidentialité et la tranquillité de nos chambres privées entièrement équipées, idéales pour ceux qui recherchent une retraite paisible."
+        },
+        "sharedDormitory": {
+          "label": "Dortoirs partagés",
+          "description": "Profitez de la camaraderie des dortoirs partagés, où vous pouvez vous connecter avec d'autres voyageurs et créer des amitiés durables."
+        },
+        "independentHouse": {
+          "label": "Maisons et appartements indépendants",
+          "description": "Optez pour des maisons et des appartements spacieux, idéaux pour les familles ou les groupes ayant besoin de plus d'espace et d'équipements."
+        },
+        "uniqueStays": {
+          "label": "Séjours uniques",
+          "description": "Découvrez nos hébergements uniques, y compris des cabanes charmantes et des tentes luxueuses, offrant une expérience distincte et mémorable."
+        }
+      }
+    },
+    "propertiesList": {
+      "home": "Accueil",
+      "applyFilters": "Appliquer les filtres",
+      "minPrice": "Prix minimum",
+      "maxPrice": "Prix maximum",
+      "priceRange": "Plage de prix",
+      "ratings": "Évaluations"
+    },
+    "navbar": {
+      "english": "Anglais",
+      "hindi": "Hindi",
+      "login": "Se connecter",
+      "otpDescription": "Un OTP sera envoyé à votre numéro WhatsApp",
+      "enterMobileNumber": "Entrez le numéro de mobile",
+      "mobileNumberMustBeBetween": "Le numéro de mobile doit comporter entre 10 chiffres",
+      "requestOtp": "Demander OTP",
+      "enterOtp": "Entrez l'OTP envoyé à votre WhatsApp",
+      "submitOtp": "Soumettre OTP",
+      "personalDetails": "Détails personnels",
+      "firstNamePlaceholder": "Entrez le prénom",
+      "lastNamePlaceholder": "Entrez le nom",
+      "emailPlaceholder": "Entrez votre email",
+      "genderLabel": "Entrez le sexe",
+      "pinCodePlaceholder": "Entrez votre code postal",
+      "cityPlaceholder": "Entrez votre ville",
+      "statePlaceholder": "Entrez votre état",
+      "countryPlaceholder": "Entrez votre pays",
+      "addressPlaceholder": "Entrez votre adresse",
+      "otpPlaceholder": "Entrez l'OTP (envoyé à votre compte WhatsApp)",
+      "logoutConfirmationTitle": "Êtes-vous sûr de vouloir vous déconnecter ?",
+      "logoutConfirmationMessage": "Si vous vous déconnectez, vous serez redirigé vers la page d'accueil.",
+      "cancel": "Annuler",
+      "logout": "",
+      "confirmLogout": "Confirmer la déconnexion",
+      "myProfile": "Mon profil",
+      "myBookings": "Mes réservations",
+      "back": "Retour",
+      "submit": "Soumettre"
+    },
+    "bookingForm": {
+      "goingToLabel": "Où allez-vous ?",
+      "checkInLabel": "Enregistrement",
+      "checkOutLabel": "Départ",
+      "guestsLabel": "Invités",
+      "searchButtonLabel": "Rechercher"
+    },
+    "profile": {
+      "phoneNumber": "Numéro de téléphone",
+      "email": "Email",
+      "address": "Adresse",
+      "city": "Ville",
+      "country": "Pays"
+    },
+    "footer": {
+      "company": "Entreprise",
+      "links": "Liens",
+      "contactus": "Contactez-nous",
+      "privacyPolicy": "Politique de confidentialité",
+      "termsConditions": "Termes & Conditions",
+      "home": "Accueil",
+      "copy": "2025 Clouddot Solutions Pvt Ltd. Tous droits réservés."
+    },
+    "contactUsPage": {
+      "discoverMore": "Découvrez plus, voyagez librement.",
+      "tellUshow": "Dites-nous comment nous pouvons vous aider.",
+      "starttypinghere": "Commencez à taper ici",
+      "pleaseProvideYourDetails": "Veuillez fournir vos coordonnées.",
+      "fullName": "Nom complet",
+      "email": "Adresse email",
+      "mobilenumber": "Numéro de mobile",
+      "sendMessage": "Envoyer le message"
+    },
+    "privacyPolicy": {
+      "heading": "Politique de confidentialité – World of Hostels",
+      "versionInfo": "Version : 1.0 | Date d'entrée en vigueur : [date à insérer] | Applicable dans le monde entier",
+      "sections": {
+        "introduction": {
+          "title": "Introduction :",
+          "content": "Worldofhostels (ci-après dénommé 'WDH') comprend l'importance de protéger la vie privée de nos utilisateurs et de maintenir la confidentialité des informations fournies. En tant que responsable et processeur des données, nous prenons toutes les mesures nécessaires pour garantir que vos données personnelles sont traitées de manière sécurisée."
+        },
+        "dataHandling": {
+          "content": "Cette politique de confidentialité décrit les pratiques relatives à la collecte, au stockage et au traitement de vos informations personnelles (telles que définies ci-dessous) par WDH et ses entités affiliées."
+        },
+        "scopeTitle": "Portée",
+        "scope": {
+          "paragraph1": "Cette politique de confidentialité s'applique à toute personne (« Utilisateur ») qui achète, envisage d'acheter ou demande des produits ou services offerts par WDH via l'un de nos canaux clients, y compris notre site Web, site mobile, application mobile, ou des canaux hors ligne tels que les centres d'appels et les bureaux physiques (collectivement appelés « Canaux de vente »).",
+          "paragraph2": "Aux fins de cette politique de confidentialité, « vous » ou « votre » désigne l'Utilisateur, et « nous », « notre » ou « nos » désigne Worldofhostels. Cette politique couvre notre site Web, nos sites mobiles et nos applications mobiles.",
+          "paragraph3": "En utilisant ou en accédant à notre site Web ou à tout autre Canal de vente, vous acceptez les termes définis dans cette politique de confidentialité. Si vous n'êtes pas d'accord avec cette politique, veuillez ne pas utiliser ou accéder à nos Canaux de vente."
+        }
+      },
+      "thirdPartylinksTitle": "Liens de tiers",
+      "thirdPartylinks": {
+        "paragraph1": "Cette politique de confidentialité ne s'applique pas aux sites Web tiers, applications mobiles ou plateformes externes, même si elles sont liées à notre site Web. Nous vous encourageons à consulter les politiques de confidentialité des tiers avec lesquels vous interagissez, car leurs pratiques de traitement des données peuvent différer considérablement des nôtres."
+      },
+      "internationalUsersTitle": "Utilisateurs internationaux",
+      "internationalUsers": {
+        "paragraph1": "Si vous êtes situé en dehors de l'Inde, veuillez noter que les données que vous partagez avec WDH seront principalement traitées en Inde ou dans d'autres juridictions où WDH ou ses partenaires tiers opèrent. En acceptant cette politique de confidentialité, vous consentez au traitement de vos informations personnelles tel que décrit ici, même si les lois sur la protection des données dans ces endroits diffèrent de celles de votre pays de résidence."
+      },
+      "withdrawingConsentTitle": "Le retrait du consentement peut",
+      "withdrawingConsent": {
+        "paragraph1": "Avoir un impact significatif sur notre capacité à vous servir efficacement, ce qui pourrait entraîner l'annulation de votre réservation ou son échec. Restreindre notre capacité à gérer vos réservations actuelles ou futures, ce qui pourrait affecter votre voyage ou entraîner l'annulation de services déjà arrangés. Cette politique de confidentialité fait partie de l'accord utilisateur entre vous et Worldofhostels, et tous les termes en majuscules non définis dans ce document auront le sens qui leur est attribué dans l'accord utilisateur.",
+        "paragraph2": "Si vous avez des questions concernant cette politique ou nos pratiques de traitement des données, n'hésitez pas à nous contacter directement."
+      },
+      "typeOfInformationTitle": "TYPE D'INFORMATIONS QUE NOUS COLLECTONS ET BASE LÉGALE",
+      "typeOfInformation": {
+        "paragraph1": "Les informations que nous collectons sont essentielles pour fournir les services que vous choisissez, remplir nos obligations légales et respecter nos responsabilités envers les tiers, comme indiqué dans notre accord utilisateur.",
+        "subheading": "Les informations personnelles que nous collectons comprennent, mais ne se limitent pas à, ce qui suit :"
+      },
+      "registrationInformationTitle": "Informations d'enregistrement",
+      "registrationInformation": {
+        "paragraph1": "Lorsque vous vous inscrivez ou vous abonnez à notre site Web, nous collectons des informations personnelles telles que votre nom, sexe, état civil, religion, âge, photo de profil, coordonnées (adresse email, adresse postale, numéro de téléphone), et toutes autres informations que vous fournissez, telles que votre numéro de programme de fidélité ou vos coordonnées bancaires (y compris les informations de carte de crédit/débit). Cela inclut également l'historique des paiements, les informations de facturation et les détails liés à votre mode de vie que vous partagez avec nous."
+      },
+      "otherInformationTitle": "Autres informations",
+      "otherInformation": {
+        "list": [
+          "Données transactionnelles (à l'exception des détails bancaires) concernant vos activités commerciales et comportement d'achat.",
+          "Données liées à la sécurité, telles que les noms d'utilisateur, mots de passe et adresses e-mail associées à votre compte.",
+          "Fichiers que vous stockez sur nos serveurs, y compris des images et des documents.",
+          "Informations provenant du domaine public ou des données de tiers, y compris des profils de médias sociaux (par exemple, nom, email, liste d'amis, photo de profil).",
+          "Informations concernant tout autre voyageur réservé via votre compte. Si vous réservez pour quelqu'un d'autre, vous confirmez qu'il a accepté de partager ses données avec nous."
+        ]
+      },
+      "visaServicesTitle": "Informations sur les services de visa",
+      "visaServices": {
+        "paragraph": "Si vous demandez des services liés au visa, nous collectons des copies de votre passeport, de vos relevés bancaires, des formulaires de demande remplis, des photos et tous autres documents nécessaires à l'ambassade concernée pour traiter votre visa."
+      },
+      "internationalBookingsTitle": "Conformité pour les réservations internationales",
+      "internationalBookings": {
+        "paragraph": "Pour les réservations internationales, nous traitons vos informations en conformité avec les réglementations applicables à la destination du voyage."
+      }
+    },
+    "internationalBookingsTitle": "Conformité des Réservations Internationales",
+"internationalBookings": {
+  "paragraph": "Pour les réservations internationales, il se peut que vous deviez fournir des détails tels que le PAN (Numéro Permanent de Compte), les détails du passeport, ou d'autres informations conformément aux exigences du fournisseur de services ou dans le cadre du Schéma de Remise Libéralisée (LRS) de la Banque de Réserve de l'Inde (RBI). Si vous ne fournissez pas ces informations, nous pourrions ne pas être en mesure de traiter votre réservation."
+},
+
+"contactlessCheckinTitle": "Enregistrement à l'Hôtel Sans Contact",
+"contactlessCheckin": {
+  "paragraph": "Si vous choisissez l'enregistrement sans contact à l'hôtel, nous pourrions collecter des copies de votre pièce d'identité émise par le gouvernement (Aadhaar, permis de conduire, carte électorale, etc.), un formulaire d'auto-déclaration, et toute autre information nécessaire liée aux voyages (par exemple, la date de naissance, l'origine/destination, le lieu de résidence). Statut de Vaccination Covid-19 : Si nécessaire, nous pourrions collecter votre statut de vaccination Covid-19 et le certificat, ainsi que toute autre information liée aux voyages ou autres services. Nous ne traitons pas les identifiants des bénéficiaires ou d'autres informations confidentielles sur votre certificat de vaccination."
+},
+"howWeUseTitle": "COMMENT NOUS UTILISONS VOS INFORMATIONS PERSONNELLES",
+
+"howWeUseIntro": {
+  "subTitle": "Nous utilisons les informations personnelles que nous collectons à diverses fins, notamment :"
+},
+
+"bookingTransactionalTitle": "Utilisation pour les Réservations et Transactions",
+"bookingTransactional": {
+  "paragraph": "Lors de la réservation, nous traitons vos informations personnelles, y compris les détails de paiement (numéros de carte de crédit/débit, informations bancaires, etc.), pour compléter le processus de réservation. Nous utilisons également ces informations pour confirmer les réservations, envoyer des mises à jour de réservation et gérer les interactions avec le service client."
+},
+
+"customerServiceTitle": "Service Client et Gestion de Compte",
+"customerService": {
+  "paragraph": "Si vous demandez des services liés au visa, nous collectons des copies de votre passeport, des relevés bancaires, des formulaires de demande remplis, des photos et toute autre documentation nécessaire requise par l'ambassade respective pour traiter votre visa."
+},
+"useInfo": {
+  "title": "Nous utilisons vos informations pour",
+  "list": [
+    "Confirmer et mettre à jour les réservations.",
+    "Fournir un soutien et une assistance pour vos réservations.",
+    "Envoyer des confirmations par SMS, email ou WhatsApp.",
+    "Personnaliser notre site web et notre application en fonction de vos préférences.",
+    "Prévenir la fraude et garantir la sécurité de votre compte."
+  ]
+},
+"surveysFeedbackTitle": "Enquêtes et Retour d'Information",
+"surveysFeedbackText": "Nous menons occasionnellement des enquêtes pour recueillir des avis sur nos services. La participation est volontaire, et vos réponses sont généralement anonymisées et utilisées pour améliorer notre site web, nos services et notre contenu promotionnel.",
+
+"marketingPromotionsTitle": "Marketing et Promotions",
+"marketingPromotionsText": "Pour améliorer votre expérience utilisateur et offrir des promotions personnalisées, nous pourrions utiliser vos informations pour envoyer des emails marketing ou des newsletters sur les offres de voyage, les offres spéciales et les nouveaux services. Vous pouvez vous désinscrire de ces communications à tout moment.",
+
+"rewardProgramsTitle": "Programmes de Récompenses",
+"rewardProgramsText": "De temps en temps, nous pourrions organiser des programmes de récompenses offrant des prix ou des réductions liés aux voyages. Si vous y participez, nous utilisons vos informations personnelles pour vous inscrire, suivre vos récompenses et distribuer vos prix. Vous pouvez vous désinscrire de ces programmes en nous contactant.",
+
+"thirdPartyServicesTitle": "Services de Tiers",
+"thirdPartyServicesText": "Dans certains cas, nous pourrions partager des données anonymisées ou agrégées avec des tiers pour nous aider à améliorer nos services. Par exemple, nous pourrions faire appel à des tiers pour le traitement des paiements, l'hébergement des données ou la détection de fraude. Tout partage d'informations personnelles avec des tiers sera toujours effectué conformément aux lois applicables et à votre consentement.",
+
+"fraudDetectionTitle": "Détection de Fraude et Vérification de Crédit",
+"fraudDetectionText1": "Dans certains cas, nous pourrions vérifier les informations des clients, y compris les détails de crédit, pour détecter la fraude ou évaluer la solvabilité pour certains services, comme offrir des réservations sur crédit. Nous pourrions également utiliser vos informations pour garantir l'intégrité et la sécurité de nos services.",
+"fraudDetectionText2": "En nous fournissant vos informations personnelles, vous consentez à leur utilisation telle que décrite dans cette politique de confidentialité. Si vous ne souhaitez pas partager certaines informations, nous pourrions ne pas être en mesure de traiter vos demandes ou réservations comme prévu.",
+"fraudDetectionText3": "Pour toute question ou préoccupation concernant vos données, n'hésitez pas à nous contacter.",
+
+"dataRetentionTitle": "COMBIEN DE TEMPS GARDONS-NOUS VOS INFORMATIONS PERSONNELLES ?",
+"dataRetentionText1": "Chez WorldofHostels, nous conservons vos informations personnelles aussi longtemps que cela est raisonnablement nécessaire pour remplir les objectifs décrits dans cette politique de confidentialité. Dans certains cas, nous pourrions conserver vos données pendant des périodes plus longues, notamment pour respecter des obligations légales, réglementaires, fiscales ou comptables.",
+"dataRetentionText2": "Une fois que vos données personnelles ne sont plus nécessaires, nous veillerons à les supprimer ou les stocker de manière sécurisée afin d'empêcher toute utilisation ultérieure par l'entreprise.",
+"dataRetentionText3": "Si vous souhaitez supprimer votre compte, vous pouvez le faire en utilisant ce [Lien].",
+"cookiesSessionDataTitle": "COOKIES ET DONNÉES DE SESSION",
+"cookiesTitle": "Cookies",
+"cookiesText1": "Chez WorldofHostels, nous utilisons des cookies pour personnaliser votre expérience sur notre site web et afficher des publicités pertinentes. L'utilisation de cookies est une pratique courante, similaire à celle d'autres plateformes en ligne réputées.",
+"cookiesText2": "Les cookies sont de petits fichiers stockés par votre navigateur sur le disque dur de votre appareil. Ils nous permettent d'améliorer votre expérience de navigation, comme se souvenir de vos informations de connexion (seul votre mot de passe est requis après la première connexion), et de vous présenter des offres ou des publicités personnalisées basées sur vos préférences.",
+"cookiesText3": "Nous pouvons également utiliser des cookies pour afficher des publicités sur des sites web tiers. Ces cookies nous aident à suivre l'efficacité de nos publicités et à vous montrer des services pertinents qui pourraient vous intéresser. Les entreprises de publicité tierces peuvent également utiliser des technologies comme les balises pixels pour mesurer le succès des publicités et vous proposer des offres personnalisées. Toutes les informations collectées via ces cookies sont anonymes et ne sont pas liées à votre identité personnelle.",
+"cookiesText4": "Bien que la plupart des navigateurs acceptent les cookies par défaut, vous pouvez ajuster les paramètres de votre navigateur pour contrôler la manière dont les cookies sont gérés. Cependant, bloquer les cookies de WorldofHostels pourrait impacter les fonctionnalités du site web, limitant ainsi votre capacité à profiter d'une expérience de réservation fluide. Vous pouvez également choisir de bloquer les cookies de sites spécifiques tout en permettant les cookies de sources fiables.",
+"sessionDataText": "Enregistrement Automatique des Données de Session : Chaque fois que vous visitez notre site web, certaines données de session sont automatiquement enregistrées. Cela inclut des informations telles que votre adresse IP, le système d'exploitation et le navigateur que vous utilisez, ainsi que des détails sur vos activités sur le site web (par exemple, pages visitées, durée de la visite). Nous utilisons ces données pour comprendre les préférences des utilisateurs, diagnostiquer les problèmes techniques et améliorer la performance de notre site web.",
+"sessionDataText2": "Bien que les données de session ne vous identifient pas personnellement, elles peuvent nous aider à déterminer votre Fournisseur d'Accès Internet (FAI) et votre emplacement géographique approximatif en fonction de votre adresse IP. Ces informations sont collectées de manière anonyme et sont utilisées pour améliorer votre expérience sur le site.",
+"dataSharingTitle": "AVEC QUI VOS INFORMATIONS PERSONNELLES SONT-ELLES PARTAGÉES",
+"serviceProvidersTitle": "Fournisseurs de Services et Fournisseurs",
+"serviceProvidersText": "Pour remplir votre réservation, nous pourrions partager vos informations personnelles avec des fournisseurs de services tiers, tels que des compagnies aériennes, hôtels, services de bus, locations de taxis, chemins de fer et autres fournisseurs impliqués dans la prestation des services que vous avez réservés...",
+"serviceProvidersText2": "Nous ne vendons, louons ni n'échangeons les données individuelles des clients avec des tiers. Nous partageons uniquement des informations personnelles avec nos partenaires commerciaux ou fournisseurs qui nous aident à fournir des services, des références ou des offres promotionnelles basées sur votre historique de réservation.",
+"sameGroupCompaniesTitle": "Entreprises du Même Groupe",
+"sameGroupCompaniesText": "Pour améliorer la personnalisation et l'efficacité du service, nous pourrions partager vos informations personnelles au sein de nos sociétés affiliées ou partenaires dans des conditions sécurisées...",
+"sameGroupCompaniesText2": "Si WorldofHostels est acquis par une autre entreprise, vos données personnelles pourraient être transférées au nouvel acquéreur dans le cadre de la transaction...",
+
+"businessPartnersTitle": "Partenaires Commerciaux et Fournisseurs Tiers",
+"businessPartnersText": "Nous pourrions partager des données personnelles spécifiques avec nos partenaires commerciaux ou fournisseurs tiers pour améliorer votre expérience de voyage, comme proposer des cartes de crédit co-marquées, de l'assurance voyage ou d'autres services qui bénéficient aux utilisateurs de WorldofHostels. Lorsque vous utilisez les services de nos partenaires, ces services seront régis par la politique de confidentialité propre à chaque partenaire.",
+"businessPartnersText2": "Nous pourrions également partager vos informations avec des tiers auxquels nous faisons appel pour certaines tâches en notre nom, telles que le traitement des paiements, l'hébergement de données et l'analyse des données.",
+"businessPartnersText3": "De plus, nous pourrions utiliser des données personnelles anonymisées ou agrégées à des fins de recherche, d'analyse statistique et de rapports. Ces données nous aident à améliorer nos services et pourraient être partagées avec des annonceurs, fournisseurs et partenaires commerciaux pour améliorer leurs offres. Ces données agrégées ne vous identifient pas personnellement et sont utilisées uniquement à des fins d'analyse commerciale et d'amélioration opérationnelle.",
+"businessPartnersText4": "Occasionnellement, WorldofHostels pourrait engager des tiers pour effectuer des études de marché ou des enquêtes. Dans ce cas, toute information partagée avec ces tiers est strictement utilisée pour ces projets spécifiques et protégée par des accords de confidentialité. Ils utiliseront les données uniquement à ces fins et en conformité avec les règlements applicables.",
+"disclosureTitle": "DIVULGATION D'INFORMATIONS",
+"disclosureSubtitle": "En plus de ce qui précède, nous pourrions divulguer vos informations personnelles dans les situations suivantes :",
+"disclosureList": [
+  "Comme requis par la loi, les autorités de régulation ou par ordonnance du tribunal.",
+  "Pour des fins de conformité interne, d'audit, ou pour sécuriser nos systèmes.",
+  "Pour protéger nos droits, propriétés, ou ceux de nos affiliés, employés ou clients, ou lorsque cela est nécessaire pour identifier, contacter ou prendre des mesures juridiques contre des individus causant des dommages ou violant nos droits.",
+  "Ces divulgations peuvent se produire sans que vous en soyez informé au préalable, et WorldofHostels ne sera pas responsable des dommages résultant de ces actions."
+],
+"userGeneratedContentTitle": "CONTENU GÉNÉRÉ PAR LES UTILISATEURS",
+"userGeneratedContentText": "WorldofHostels permet aux utilisateurs de partager leurs expériences via des avis, des évaluations et des questions générales de sondage. Les utilisateurs peuvent également poser des questions liées aux services offerts sur la plateforme ou répondre aux questions d'autres utilisateurs. De plus, nous pourrions vous contacter via des services tiers pour recueillir vos avis sur vos réservations récentes. Bien que la participation aux retours d'information soit entièrement volontaire, vous pourriez recevoir des notifications par email, SMS, WhatsApp ou alertes dans l'application pour vous demander de partager un avis, répondre à des questions d'utilisateurs ou participer à un sondage. Les avis peuvent être rédigés ou soumis sous forme de vidéo, et peuvent également apparaître sur d'autres plateformes de voyage.",
+"userGeneratedContentTypesTitle": "Les types de contenu généré par les utilisateurs (CGU) que nous collectons incluent :",
+"userGeneratedContentList": [
+  "Avis et évaluations",
+  "Questions et réponses",
+  "Données collectées par la foule (sondages)",
+  "Chaque utilisateur publiant un avis, une évaluation, une question ou une photo aura un profil visible par d'autres utilisateurs. Votre profil affichera des informations comme le nombre de voyages effectués, les avis rédigés, les questions répondues et les photos partagées."
+],
+  "optingOutTitle": "SE DÉSINSCRIRE DES E-MAILS PROMOTIONNELS",
+  "optingOutText": "De temps en temps, vous pouvez recevoir des e-mails promotionnels de notre part concernant des offres spéciales, des réductions, de nouveaux services et des mises à jour sur WorldofHostels. Si vous préférez ne pas recevoir ces e-mails, il vous suffit de cliquer sur le lien 'se désinscrire' ou de suivre les instructions de désinscription dans n'importe quel e-mail promotionnel.",
+  "permissionsTitle": "AUTORISATIONS REQUISES POUR NOS APPLICATIONS MOBILES",
+  "permissionsText": "Lorsque vous installez l'application WorldofHostels sur votre appareil, nous demandons certaines autorisations pour que l'application fonctionne de manière optimale. Vous ne pouvez pas personnaliser ces autorisations. Voici une liste des autorisations requises et comment nous les utilisons :",
+  "androidTitle": "Pour Android :",
+  "deviceAppHistoryTitle": "Historique de l'appareil et de l'application",
+  "deviceAppHistoryText": "Pour recueillir des informations spécifiques à l'appareil telles que le système d'exploitation, le réseau, le modèle matériel, etc., afin d'améliorer votre expérience de réservation.",
+  
+  "protectionTitle": "COMMENT NOUS PROTÉGEONS VOS INFORMATIONS PERSONNELLES",
+  "protectionText": "Toutes les transactions sur WorldofHostels sont sécurisées. Nous utilisons le chiffrement TLS (Transport Layer Security) pour protéger vos informations personnelles lors de la transmission. Notre site Web dispose de mesures de sécurité robustes pour protéger contre l'accès non autorisé ou l'utilisation abusive de vos données. Lorsque vous mettez à jour ou accédez à vos informations de compte, nous offrons un serveur sécurisé pour garantir la protection de vos informations.",
+  "withdrawalTitle": "WITHDRAWAL OF CONSENT AND PERMISSION",
+  "withdrawalText": "Vous avez le droit de retirer votre consentement pour la collecte et le traitement de vos informations personnelles à tout moment. Cependant, veuillez noter que cela peut limiter votre accès à certaines fonctionnalités ou services de WorldofHostels. Pour retirer votre consentement, vous pouvez nous contacter à l'adresse privacy@worldofhostels.com.",
+  "rightsTitle": "VOS DROITS CONCERNANT LES INFORMATIONS PERSONNELLES",
+  "rightsText": "Vous pouvez accéder et mettre à jour vos informations personnelles via votre compte utilisateur. Si vous n'avez pas de compte, vous pouvez nous contacter à l'adresse privacy@worldofhostels.com pour demander l'accès, la correction ou la suppression de vos informations (à l'exception de certains champs obligatoires).",
+  "eligibilityTitle": "ADMISSIBILITÉ À TRANSACTER AVEC WORLDOFHOSTELS",
+  "eligibilityText": "Vous devez avoir au moins 18 ans pour effectuer des transactions sur WorldofHostels et consentir au traitement de vos données personnelles.",
+  "policyChangesTitle": "CHANGEMENTS DE LA POLITIQUE DE CONFIDENTIALITÉ",
+  "policyChangesText": "Nous nous réservons le droit de mettre à jour cette politique de confidentialité si nécessaire pour répondre aux exigences légales, commerciales ou des clients. Nous informerons les utilisateurs de tout changement significatif.",
+  "contactText": "Si vous avez des préoccupations ou des questions concernant cette politique de confidentialité, veuillez nous envoyer un e-mail à privacy@worldofhostels.com. Nous ferons tout notre possible pour répondre à vos préoccupations.",
+  "permissions": [
+    { "title": "Caméra", "description": "Pour télécharger des photos pour votre profil ou des critiques d'hôtels, et enregistrer des vidéos pour des critiques vidéo." },
+    { "title": "Identité", "description": "Pour remplir automatiquement les identifiants de courriel pour une expérience sans faille, y compris la liaison avec les connexions Facebook ou Google+." },
+    { "title": "Emplacement", "description": "Pour fournir des offres basées sur la localisation, remplir automatiquement les aéroports ou les villes à proximité pour les réservations de voyage et recommander des hôtels à proximité." },
+    { "title": "SMS", "description": "Pour remplir automatiquement les mots de passe à usage unique (OTP) lors des transactions pour une expérience plus fluide." },
+    { "title": "Téléphone", "description": "Pour faciliter les appels vers les hôtels, les compagnies aériennes ou le service client." },
+    { "title": "Contacts", "description": "Pour activer les fonctionnalités sociales, telles que partager vos réservations avec des amis et envoyer des liens de parrainage." },
+    { "title": "Photo/Médias/Fichiers", "description": "Pour stocker des données cartographiques sur votre appareil pour un accès hors ligne." },
+    { "title": "Connexion Wi-Fi", "description": "Pour améliorer les performances de l'application et charger plus rapidement les cartes et les images." },
+    { "title": "ID de l'appareil et informations d'appel", "description": "Pour identifier de manière unique les utilisateurs et prévenir la fraude." },
+    { "title": "Calendrier", "description": "Pour synchroniser vos plans de voyage avec le calendrier de votre appareil." },
+    { "title": "Bluetooth", "description": "Pour une intégration fluide avec des services tiers, comme les serrures de véhicules autonomes." },
+    { "title": "Vidéo/Audio", "description": "Pour télécharger des vidéos pour les critiques et garantir une bonne qualité audio dans vos soumissions." },
+    { "title": "Numéro de téléphone", "description": "Pour optimiser l'expérience de connexion et de réservation de voyage." },
+    { "title": "IMEI/IMSI", "description": "Pour identifier les utilisateurs de manière unique et prévenir la fraude." },
+    { "title": "Informations d'abonnement", "description": "Pour optimiser les performances de l'application en fonction de votre type de réseau et vous tenir informé des statuts des trains." },
+    { "title": "Numéro de série SIM", "description": "Pour authentifier votre numéro de mobile pour l'enregistrement UPI." }
+  ],
+
+  "iosTitle": "Pour iOS :",
+  "Iospermissions": [
+    {
+      "title": "Notifications",
+      "description": "Pour envoyer des mises à jour de voyage, des offres et des informations de réservation."
+    },
+    {
+      "title": "Contacts",
+      "description": "Pour des fonctionnalités sociales telles que partager des réservations ou envoyer des liens de parrainage."
+    },
+    {
+      "title": "Emplacement",
+      "description": "Pour fournir des offres personnalisées et remplir automatiquement les emplacements à proximité lors de la réservation."
+    }
+  ],
+  "termsOfService": {
+    "termsTitle": "CONDITIONS D'UTILISATION",
+    "effectiveDate": "Date d'entrée en vigueur : 05 février 2025",
+    "applicabilityTitle": "APPLICABILITÉ",
+    "applicabilityText1": "Cet accord d'utilisateur, ainsi que les Conditions d'utilisation (ensemble appelés 'l'Accord utilisateur'), établissent les termes et conditions pour l'utilisation des services et produits offerts par World of Hostel ('WoH').",
+    "applicabilityText2": "Toute personne ('Utilisateur') qui demande ou achète des produits ou services de WoH via ses sites Web, applications mobiles, représentants, bureaux, centres d'appels, bureaux de succursales, franchisés ou agents (collectivement appelés 'Canaux de vente') accepte d'être liée par cet Accord utilisateur. Les sites Web et applications mobiles de WoH sont collectivement appelés 'le Site'.",
+    "applicabilityText3": "L'Utilisateur et WoH sont individuellement appelés une 'Partie' et collectivement les 'Parties' sous cet Accord utilisateur.",
+    "applicabilityText4": "Les 'Conditions d'utilisation' disponibles sur le site Web de WoH énoncent les termes et conditions applicables à divers services ou produits fournis par WoH. Les utilisateurs doivent se référer aux Conditions d'utilisation pertinentes pour le produit ou service spécifique qu'ils réservent. Ces Conditions d'utilisation sont contraignantes pour l'utilisateur.",
+    "eligibilityTitle": "ADMISSIBILITÉ À UTILISER",
+    "eligibilityText1": "L'Utilisateur doit avoir au moins 18 ans et posséder l'autorité légale pour conclure un accord afin d'utiliser les services de WoH. Si un utilisateur a moins de 18 ans, il ne peut pas s'inscrire ou effectuer de transactions sur le site Web.",
+    "eligibilityText2": "Si un mineur souhaite utiliser ou effectuer une transaction sur le site Web, cette utilisation doit être effectuée par une personne ayant l'âge légal pour contracter (comme un parent ou un tuteur légal). WoH se réserve le droit de résilier l'adhésion et/ou de bloquer l'accès au site Web si l'on découvre qu'un mineur ou une personne légalement incompétente s'est inscrit de manière frauduleuse.",
+    "eligibilityText3": "Avant d'utiliser le site Web, d'approcher les Canaux de vente ou d'acquérir des services de WoH, l'utilisateur doit lire et comprendre cet accord utilisateur. L'acceptation de cet accord utilisateur est réputée obligatoire lors de l'utilisation des services de WoH. Si l'utilisateur n'accepte pas une partie de cet accord, il doit s'abstenir d'accéder ou d'utiliser les services de WoH.",
+    "eligibilityText4": "Tous les droits et obligations de l'utilisateur et de WoH concernant les services ou produits facilitée par WoH sont limités à la portée de cet accord utilisateur.",
+    "contentTitle": "CONTENU",
+    "contentText1": "Tout le contenu fourni par les différents Canaux de vente, y compris mais sans s'y limiter les audios, images, logiciels, textes et icônes ('Contenu'), est détenu ou sous licence de WoH et protégé par les lois sur la propriété intellectuelle applicables. Les utilisateurs ne peuvent utiliser ce Contenu que dans la mesure expressément permise par WoH.",
+    "contentText2": "Les utilisateurs doivent suivre toutes les instructions fournies par WoH concernant l'utilisation du Contenu.",
+    "contentText3": "WoH possède et affiche divers logos, marques de service et marques déposées sur le site Web et autres Canaux de vente. L'utilisateur ne reçoit aucun droit ni licence pour utiliser ces logos, marques de service ou marques déposées. Toute utilisation non autorisée du Contenu constitue une violation des lois applicables.",
+    "websiteUsageTitle": "UTILISATION DU SITE WEB",
+    "websiteUsageText1": "Le site Web est destiné à une utilisation légale par des utilisateurs de bonne foi.",
+    "websiteUsageText2": "Les utilisateurs ne doivent pas distribuer, échanger, modifier, vendre ou transmettre du matériel provenant du site Web, y compris mais sans s'y limiter aux textes, images, audios et vidéos, à des fins commerciales ou publiques.",
+    "websiteUsageText3": "Cet accord utilisateur accorde à l'utilisateur un droit limité, non exclusif et non transférable d'utiliser le site Web conformément aux termes spécifiés. Les utilisateurs ne doivent pas interrompre ou tenter d'interrompre le fonctionnement du site Web.",
+    "websiteUsageText4": "L'accès à certaines fonctionnalités du site Web peut n'être disponible que pour les utilisateurs enregistrés. L'inscription peut exiger que les utilisateurs fournissent des informations, qui peuvent être personnelles ou optionnelles. Les utilisateurs déclarent et garantissent que toutes les informations fournies sont vraies et exactes.",
+    "websiteUsageText5": "WoH se réserve le droit de mettre fin à l'accès au site Web ou à une partie de celui-ci à tout moment sans préavis pour maintenance ou autres raisons.",
+    "websiteUsageText6": "WoH s'efforce de garantir que son site Web est exempt de virus ou de logiciels malveillants. Cependant, les utilisateurs téléchargent ou obtiennent des données à leurs risques et périls et sont seuls responsables de tout dommage à leurs appareils ou de la perte de données résultant de ces activités.",
+    "websiteUsageText7": "WoH se réserve le droit d'améliorer ou de modifier le site Web à tout moment sans préavis. Les utilisateurs peuvent signaler du contenu illégal, objectionnable ou enfreignant à l'adresse support@worldofhostel.com. Après réception d'un signalement, WoH enquêtera et prendra les mesures appropriées.",
+    "userResponsibilitiesTitle": "RESPONSABILITÉS DE L'UTILISATEUR",
+    "userResponsibilitiesText1": "Les utilisateurs",
+    "userResponsibilitiesStrong": "ne doivent pas",
+    "userResponsibilitiesText2": " héberger, afficher, télécharger, publier, transmettre ou partager du contenu sur le site Web ou l'application WoH qui :",
+    "userResponsibilitiesList1": "Appartient à une autre personne sans autorisation;",
+    "userResponsibilitiesList2": "Est obscène, pornographique ou envahissant la vie privée;",
+    "userResponsibilitiesList3": "Promet le blanchiment d'argent, les jeux d'argent ou la violence;",
+    "userResponsibilitiesList4": "Nuit aux mineurs;",
+    "userResponsibilitiesList5": "Enfreint des droits de propriété intellectuelle;",
+    "userResponsibilitiesList6": "Trompe ou induit en erreur les destinataires;",
+    "userResponsibilitiesList7": "Imite une autre personne;",
+    "userResponsibilitiesList8": "Menace la sécurité nationale ou l'ordre public;",
+    "userResponsibilitiesList9": "Contient des logiciels malveillants ou des virus;",
+    "userResponsibilitiesList10": "Enfreint toute loi applicable.",
+    "reportProcedureTitle": "PROCÉDURE POUR SIGNALER DU CONTENU OBJECTIONNABLE OU ENFREIGNANT",
+    "reportProcedureText": "Les utilisateurs peuvent signaler du contenu illégal, objectionnable ou enfreignant trouvé sur le site Web ou l'application. Les plaintes doivent être envoyées à",
+    "reportEmail": "legal@worldofhostel.com",
+    "reportContentDescriptionEnd": " et doivent inclure :",
+    "reportContentList1": "Une identification claire de la violation.",
+    "reportContentList2": "L'emplacement du matériel sur le site Web (y compris un lien si applicable).",
+    "reportContentList3": "Preuve de propriété pour les plaintes relatives à la propriété intellectuelle.",
+    "reportContentList4": "Coordonnées pour une communication ultérieure.",
+    "reportConsent": "En soumettant une plainte, le plaignant consent à ce que WoH partage les détails de la plainte avec des tiers concernés, y compris les parties accusées, pour évaluation.",
+    "reportReview": "WoH examinera les plaintes dans le délai prescrit par la législation applicable. Les utilisateurs doivent fournir toutes les informations nécessaires pour faciliter l'enquête. WoH ne sera pas responsable d'une action ou d'une omission en réponse à une plainte, ni ne garantit des résultats spécifiques pour les problèmes signalés. Tous les droits de WoH dans ces matters sont pleinement réservés.",
+    "travelAgentBookingsTitle": "RÉSERVATIONS PAR DES AGENTS DE VOYAGE",
+    "travelAgentRestrictions": "Sauf avec une inscription préalable en tant qu'agent B2B, partenaire prioritaire ou franchisé avec World of Hostel ('WoH') et une permission explicite d'utiliser le site Web à des fins commerciales, tous les agents de voyage, opérateurs de voyages, consolidateurs ou agrégateurs (collectivement appelés 'Agents de voyage') sont strictement interdits d'utiliser le site Web à toute fin commerciale ou de revente.",
+    "travelAgentConsequences": "Si de telles réservations non autorisées sont détectées, WoH se réserve le droit, sans limitation, d'annuler immédiatement toutes ces réservations sans préavis, de retenir les paiements ou de refuser tout remboursement. WoH ne sera pas responsable de toute perte ou dommage incident découlant de ces réservations. La responsabilité de toute annulation incombera exclusivement aux agents de voyage.",
+    "travelAgentDiscounts": "Toutes les réductions et offres affichées sur le site Web sont exclusivement destinées aux utilisateurs individuels effectuant des réservations légitimes et ne sont pas applicables aux agents de voyage, sauf indication expresse.",
+    "wohLiabilityTitle": "RESPONSABILITÉ LIMITÉE DE WOH",
+    "wohLiabilityDescription": "WoH agit uniquement en tant que facilitateur reliant les utilisateurs aux auberges, hébergements et autres prestataires de services ('Prestataires de services'). Sauf indication expresse, WoH n'agit pas en tant que revendeur et sa responsabilité se limite à la confirmation d'une réservation selon la sélection de l'utilisateur.",
+    "wohLiabilityExclusion": "Tout litige, problème ou plainte concernant la qualité des services, des installations ou des expériences dans les hébergements réservés sera de la seule responsabilité des Prestataires de services respectifs. WoH décline toute responsabilité pour les erreurs, omissions, violations, déclarations ou négligences de tout Prestataire de services.",
+    "wohDisclaimerTitle": "Sauf engagement explicite de WoH :",
+    "wohDisclaimerPoints": [
+      "WoH ne garantit pas le standard, la qualité ou la disponibilité des services fournis par les Prestataires de services.",
+      "WoH n'est pas responsable de toute divergence entre le service réel fourni et les descriptions figurant sur le site Web.",
+      "WoH ne sera pas responsable des modifications ou annulations effectuées par les Prestataires de services."
+    ],
+    "wohBookingAcknowledgment": "En réservant via WoH, l'utilisateur reconnaît que WoH fournit simplement une plateforme technologique pour les réservations et que le contrat final de service est conclu entre l'utilisateur et le Prestataire de services.",
+    "userResponsibilityTitle": "RESPONSABILITÉ DE L'UTILISATEUR",
+    "userResponsibilityPoints": [
+      "Les utilisateurs doivent examiner attentivement les détails de l'hébergement ou du service avant de faire une réservation. En procédant à une réservation, l'utilisateur accepte les termes énoncés dans la confirmation de réservation et le bon, ainsi que les conditions générales de cet accord.",
+      "Si un utilisateur réserve au nom d'une autre personne, il est responsable de l'informer de tous les termes, règles et restrictions applicables.",
+      "Les utilisateurs doivent se conformer à toutes les lois, réglementations et directives applicables émises par les autorités compétentes concernant leur voyage et leur séjour. WoH ne sera pas responsable des implications juridiques découlant du manquement de l'utilisateur à se conformer à ces réglementations.",
+      "WoH se réserve le droit de modifier ou de changer les fonctionnalités, les fonctionnalités ou l'étendue de ses services à tout moment sans préavis. Les services sont fournis sur une base 'tel quel' et 'selon disponibilité', et WoH décline expressément toutes garanties, qu'elles soient expresses ou implicites.",
+      "Les utilisateurs autorisent les représentants de WoH à les contacter par téléphone, message ou e-mail concernant la réservation ou toute information liée."
+    ],
+    "securityAccountTitle": "SÉCURITÉ ET INFORMATIONS SUR LE COMPTE",
+  "securityAccountPoints": [
+    "Les utilisateurs doivent maintenir la confidentialité de leurs identifiants de compte, y compris les mots de passe. WoH n'est pas responsable d'un accès non autorisé résultant du manquement de l'utilisateur à protéger ses informations de connexion. Les utilisateurs doivent immédiatement informer WoH en cas d'activité non autorisée sur leur compte.",
+    "WoH met en place des mesures de sécurité pour protéger les informations de paiement mais ne peut garantir une sécurité absolue. Il est conseillé aux utilisateurs de ne pas partager des informations sensibles telles que les numéros de carte de crédit, les CVV, les OTP ou les mots de passe avec quiconque, y compris les représentants de WoH. Toute violation de sécurité de la part de l'utilisateur n'engage pas la responsabilité de WoH.",
+    "Les données des utilisateurs peuvent être partagées avec les autorités légales si la loi l'exige à des fins d'enquête."
+  ],
+  "feesAndPaymentTitle": "FRAIS ET PAIEMENT",
+  "feesAndPaymentPoints": [
+    "En plus des frais de réservation des prestataires de services, WoH se réserve le droit de percevoir des frais de service ou de commodité. Ces frais peuvent être modifiés à la discrétion de WoH et seront affichés avant la confirmation du paiement.",
+    "En cas d'erreurs techniques ou de divergences de prix entraînant une sous-facturation, WoH se réserve le droit de réclamer le montant restant de l'utilisateur. Le non-paiement peut entraîner l'annulation de la réservation.",
+    "Les augmentations de prix dues aux taxes ou prélèvements gouvernementaux seront à la charge de l'utilisateur et peuvent être appliquées sans préavis, y compris de manière rétroactive, selon la législation applicable.",
+    "Dans le cas où une réservation ne serait pas confirmée pour une raison quelconque, WoH procédera au remboursement du montant de la réservation à l'utilisateur. Cependant, WoH n'a aucune obligation de proposer une réservation alternative. Les remboursements seront effectués selon la politique du prestataire de services, et WoH ne sera pas responsable des retards résultant des délais de traitement du remboursement par le prestataire de services.",
+    "Les utilisateurs doivent effectuer leurs paiements uniquement vers des comptes officiels de WoH. WoH ne sera pas responsable des pertes si un utilisateur transfère des fonds vers des comptes tiers non autorisés.",
+    "Les remboursements sur les réservations annulées seront crédités sur le mode de paiement d'origine utilisé par l'utilisateur. Les politiques d'annulation seront celles spécifiées sur la page de réservation ou communiquées par écrit.",
+    "WoH propose plusieurs options de paiement, y compris UPI, cartes de crédit/débit, banque en ligne, portefeuilles et facilités EMI."
+  ],
+  "mobileNumberUsageTitle": "UTILISATION DU NUMÉRO MOBILE ET DES DÉTAILS DE COMMUNICATION PAR WORLD OF HOSTEL",
+  "mobileNumberUsagePoints": [
+    "World of Hostel enverra des confirmations de réservation, des détails d'itinéraires, des annulations, des confirmations de paiement, des statuts de remboursement, des changements d'horaires ou toute autre information pertinente liée à la transaction à l'utilisateur par SMS, applications de messagerie Internet comme WhatsApp, appels vocaux, emails ou toute autre méthode de communication alternative fournie par l'utilisateur lors de la réservation.",
+    "World of Hostel peut également contacter l'utilisateur par ces canaux pour toute réservation en attente ou échouée afin de faciliter son achèvement et d'assister l'utilisateur en conséquence."
+  ],
+  "communicationConsent": "L'utilisateur consent de manière inconditionnelle à de telles communications par SMS, WhatsApp, appels vocaux, emails ou tout autre mode, en reconnaissant qu'elles sont :",
+  "communicationRequest": "Basées sur la demande et l'autorisation de l'utilisateur ;",
+  "communicationTransactional": "De nature transactionnelle et non des communications commerciales non sollicitées ;",
+  "communicationCompliance": "Conformes aux directives réglementaires pertinentes.",
+  "communicationIndemnity": "L'utilisateur indemnise World of Hostel contre toute perte ou dommage encouru en raison des actions des autorités réglementaires découlant de plaintes liées aux communications ci-dessus, y compris des erreurs dans les coordonnées fournies par l'utilisateur.",
+  "insuranceTitle": "ASSURANCE",
+  "insuranceResponsibility": "Sauf si expressément proposé par World of Hostel dans le cadre d'un service ou d'une réservation, l'obtention d'une assurance voyage est de la seule responsabilité de l'utilisateur. World of Hostel n'acceptera aucune réclamation relative à des problèmes résultant de l'absence de couverture d'assurance suffisante.",
+  "insuranceClaims": "Si une assurance est fournie dans le cadre d'une réservation, elle sera régie par les termes et conditions du fournisseur d'assurance tiers respectif. World of Hostel agit uniquement en tant qu'intermédiaire, et toutes les réclamations ou litiges doivent être adressés directement à la compagnie d'assurance. World of Hostel ne sera pas responsable du refus partiel ou total des réclamations.",
+  "visaObligationTitle": "OBLIGATION DE VISA",
+  "visaResponsibility": "Les utilisateurs effectuant des réservations internationales par le biais de World of Hostel sont seuls responsables de l'obtention de tous les visas nécessaires, y compris les visas de transit ou autres autorisations de voyage requises par le pays de destination ou les pays de transit.",
+  "visaLiability": "World of Hostel n'est pas responsable des problèmes, y compris les restrictions de voyage ou le refus d'entrée, résultant de complications liées au visa. Les remboursements, si applicables, seront traités conformément aux politiques de réservation et d'annulation des prestataires de services respectifs.",
+  "forceMajeureTitle": "FORCE MAJEURE",
+  "forceMajeureDescription1": "Dans des circonstances exceptionnelles, World of Hostel et/ou ses prestataires de services peuvent être incapables de remplir des réservations confirmées en raison d'événements échappant à leur contrôle raisonnable, y compris, mais sans s'y limiter, les catastrophes naturelles, les grèves, l'insolvabilité, les réglementations gouvernementales, les pandémies, les activités terroristes, les perturbations opérationnelles ou les défaillances techniques.",
+  "forceMajeureDescription2": "Si une telle situation est connue à l'avance, World of Hostel fera tout son possible pour proposer des options alternatives ou des remboursements lorsque cela est applicable. Toutefois, en tant qu'intermédiaire, World of Hostel ne pourra être tenu responsable des pertes encourues dues à des événements de Force Majeure. L'utilisateur doit chercher une solution directement auprès des prestataires de services respectifs.",
+  "thirdPartyTitle": "ANNONCEURS ET LIENS TIERS",
+  "thirdPartyDescription1": "Le site Web de World of Hostel peut contenir des liens vers des sites Web tiers. Ceux-ci ne sont pas contrôlés par World of Hostel, et l'entreprise n'est pas responsable de leur contenu, de leur précision ou de leur fiabilité. L'accès à ces sites Web tiers se fait aux risques de l'utilisateur.",
+  "thirdPartyDescription2": "World of Hostel n'approuve aucun annonceur ou site lié et ne pourra être tenu responsable des pertes ou des dommages résultant de la confiance accordée au contenu tiers.",
+  "rightToRefuseTitle": "DROIT DE REFUSER LE SERVICE",
+  "rightToRefuseDescription": "World of Hostel se réserve le droit de refuser toute réservation à sa seule discrétion sans obligation de fournir une raison.",
+  "accountTerminationTitle": "L'entreprise peut suspendre ou résilier le compte d'un utilisateur si :",
+  "accountTerminationBreach": "L'utilisateur enfreint les termes de cet accord ;",
+  "accountTerminationMisleadingInfo": "L'utilisateur fournit des informations inexactes, trompeuses ou non vérifiables ;",
+  "accountTerminationFraud": "L'utilisateur s'engage dans des activités frauduleuses ou illégales.",
+  "serviceRefusal": "Les prestataires de services peuvent également refuser un service aux utilisateurs en raison de préoccupations sanitaires, de raisons de sécurité, de problèmes comportementaux ou de restrictions de voyage imposées par les autorités gouvernementales. Dans de tels cas, toute réclamation, remboursement ou dommage sera traité directement entre l'utilisateur et le prestataire de services.",
+  "cancellationPolicyTitle": "POLITIQUE D'ANNULATION",
+  "cancellationPolicyInfo": "Les utilisateurs doivent fournir des informations exactes et valides lors de la réservation via World of Hostel. Si une fausse déclaration est détectée, World of Hostel se réserve le droit d'annuler la réservation sans préavis.",
+  "cancellationPolicyLiability": "Si une réservation est annulée par les autorités réglementaires, les prestataires de services, ou en raison d'activités frauduleuses suspectées, World of Hostel ne pourra être tenu responsable des pertes en résultant. Les remboursements, si applicables, seront traités conformément aux politiques d'annulation respectives.",
+  "fraudPreventionTitle": "PRÉVENTION DE LA FRAUDE ET SÉCURITÉ",
+  "fraudPreventionInfo": "Les représentants de World of Hostel ne demanderont jamais d'informations personnelles sensibles telles que les coordonnées de carte de crédit/débit, les mots de passe ou les OTP. Les utilisateurs doivent signaler toute activité suspecte immédiatement.",
+  "indemnityTitle": "PRÉVENTION DE LA FRAUDE ET SÉCURITÉ",
+  "indemnityAgreement": "L'utilisateur accepte d'indemniser et de dégager de toute responsabilité World of Hostel, ses affiliés et représentants contre toute réclamation, responsabilité ou perte découlant de :",
+  "indemnityBreach": "La violation de toute représentation ou obligation de l'utilisateur ;",
+  "indemnityLawViolation": "Les violations des lois ou réglementations applicables ;",
+  "indemnityMisuse": "L'utilisation abusive de la plateforme ou des activités frauduleuses.",
+  "covidPoliciesTitle": "POLITIQUES LIÉES AU COVID-19",
+  "covidPoliciesInfo": "En raison de l'impact continu du COVID-19, les prestataires de services peuvent annuler ou refuser des services aux utilisateurs en fonction des directives sanitaires et de sécurité. Les remboursements, si applicables, seront traités conformément aux politiques du prestataire de services.",
+  "covidCompliance": "Les utilisateurs sont responsables de respecter toutes les recommandations sanitaires imposées par le gouvernement, y compris la fourniture des déclarations de santé nécessaires, le téléchargement des applications spécifiées par le gouvernement et le respect des protocoles de sécurité lors des déplacements.",
+  "covidTerms": "Ces conditions sont conçues pour garantir une expérience de réservation fluide pour tous les utilisateurs de World of Hostel. En utilisant nos services, vous reconnaissez et acceptez ces politiques.",
+  "upiTermsTitle": "Conditions Générales de UPI de WorldofHostel",
+  "upiTpapInfo": "WorldofHostel en tant que Fournisseur d'Application Tiers (TPAP) sous UPI",
+  "upiProviderDetails": "WorldofHostel est un TPAP autorisé par la NPCI pour faciliter les paiements UPI via ses banques partenaires PSP, ICICI Bank et IndusInd Bank. En tant que TPAP, WorldofHostel permet aux clients d'utiliser les services UPI tout en garantissant la conformité avec les réglementations de la NPCI.",
+  "upiSupport": "Conformément aux accords entre WorldofHostel, ICICI Bank, IndusInd Bank et NPCI, WorldofHostel offre un support de premier niveau pour les réclamations des clients liées aux transactions UPI. Si une réclamation reste non résolue, les utilisateurs peuvent l'escalader à leur banque PSP, leur fournisseur de compte bancaire lié, à la NPCI, et enfin à l'Ombudsman Bancaire ou l'Ombudsman des plaintes numériques.",
+  "faqsTitle": "Questions Fréquentes (FAQ)",
+  "npcQuestion": "Qu'est-ce que la NPCI ?",
+  "npcAnswer": "La National Payments Corporation of India (NPCI) est une entité autorisée par la Reserve Bank of India (RBI) qui gère et régule le système de paiement UPI.",
+  "pspQuestion": "Qu'est-ce qu'une banque PSP ?",
+  "pspAnswer": "Une banque de service de paiement (PSP) est une institution bancaire autorisée à faciliter les transactions UPI. Les PSP collaborent avec les TPAP pour fournir des services UPI aux utilisateurs finaux.",
+  "tpapQuestion": "Qu'est-ce qu'un TPAP ?",
+  "tpapAnswer": "Un fournisseur d'application tiers (TPAP) est une entité qui propose des applications conformes à l'UPI permettant aux utilisateurs de réaliser des transactions UPI.",
+  "endUserQuestion": "Qui est un client utilisateur final ?",
+  "anindividualwho": "Un individu qui utilise les services UPI pour envoyer et recevoir des paiements.",
+  "title": "Rôles et responsabilités",
+  "npcTitle": "Responsabilités de la NPCI :",
+  "npcPoint1": "Possède et régule la plateforme UPI.",
+  "npcPoint2": "Établit des règles et des normes pour les participants à l'UPI.",
+  "npcPoint3": "Approuve et audite les participants à l'UPI, y compris les banques et les TPAP.",
+  "npcPoint4": "Assure la sécurité et l'efficacité du réseau UPI.",
+  "pspTitle": "Responsabilités de la Banque PSP :",
+  "pspPoint1": "Facilite l'intégration des clients et l'association des comptes pour les transactions UPI.",
+  "pspPoint2": "Assure la conformité avec les protocoles de sécurité et l'intégrité des transactions.",
+  "pspPoint3": "Réalise des audits des TPAP.",
+  "pspPoint4": "Gère les mécanismes de résolution des litiges pour les plaintes liées à UPI.",
+  "tpapTitle": "Responsabilités de TPAP (WorldofHostel) :",
+  "tpapPoint1": "Fournit une plateforme conforme à l'UPI pour les transactions en partenariat avec les banques PSP.",
+  "tpapPoint2": "Assure le respect des normes de sécurité et de protection des données.",
+  "tpapPoint3": "Stocke les données des transactions UPI exclusivement en Inde.",
+  "tpapPoint4": "Propose un mécanisme structuré de règlement des plaintes.",
+  "disputetitle": "Mécanisme de Résolution des Litiges",
+  "description": "Les utilisateurs peuvent soumettre des plaintes liées à UPI via l'application WorldofHostel, la banque PSP concernée ou la NPCI.",
+  "escalationProcessTitle": "Processus d'escalade des plaintes :",
+  "escalationSteps": [
+    {
+      "textstepmain": "Soumettre une plainte via l'application WorldofHostel ou contacter la banque PSP associée.",
+      "link": {
+        "url": "https://worldofhostel.com/support",
+        "text": "Support WorldofHostel"
+      }
+    },
+    {
+      "text": "Si la plainte n'est pas résolue, escaladez-la à la banque PSP concernée.",
+      "subLinks": [
+        {
+          "bank": "ICICI Bank",
+          "url": "https://www.icicibank.com/complaints",
+          "text": "Déposer une plainte"
+        },
+        {
+          "bank": "IndusInd Bank",
+          "url": "https://www.indusind.com/complaints",
+          "text": "Déposer une plainte"
+        }
+      ]
+
+    },
+      {
+        "text": "Si aucune résolution n'est fournie, escalader la plainte à NPCI.",
+        "link": {
+          "url": "https://www.npci.org.in/complaints",
+          "text": "Formulaire de plainte NPCI"
+        }
+      },
+        {
+
+        "text": "Si le problème reste non résolu, faites appel au Médiateur bancaire ou au Médiateur des plaintes numériques."
+        }
+      ],
+        "termsTitle1": "Termes supplémentaires",
+        "terms": [
+          {
+            "title": "Divisibilité",
+            "description": "Si une partie de ces termes est jugée invalide, les autres resteront exécutoires."
+          },
+          {
+            "title": "Compétence",
+            "description": "Ces termes sont régis par la loi indienne et relèvent des juridictions des tribunaux de Delhi."
+          },
+          {
+            "title": "Modifications",
+            "description": "WorldofHostel peut mettre à jour ces termes si nécessaire."
+          },
+          {
+            "title": "Confidentialité",
+            "description": "Les utilisateurs doivent maintenir la confidentialité de toute information sensible partagée par WorldofHostel."
+          },
+          {
+            "title": "Commentaires",
+            "description": "Les utilisateurs peuvent fournir des commentaires pour l'amélioration du service."
+          },
+          {
+            "title": "Politique de confidentialité",
+            "description": "Consulter la Politique de confidentialité de WorldofHostel disponible sur notre site web."
+          }
+        ],
+        "grievanceRedressalContact": {
+          "title": "Contact pour la résolution des plaintes",
+          "details": [
+            {
+              "label": "Email du responsable des plaintes",
+              "value": "[Fournir l'email]"
+            },
+            {
+              "label": "Heures de travail",
+              "value": "Du lundi au vendredi (9h00 – 18h00 IST)"
+            }
+          ]
+        },
+        "roleOfWorldOfHostelHotelsAndLimitationOfLiability": {
+          "title": "RÔLE DE WORLD OF HOSTEL HOTELS ET LIMITATION DE RESPONSABILITÉ",
+          "content": [
+            "World of Hostel Hotels (WOH Hotels) agit uniquement en tant que facilitateur, offrant une plateforme en ligne permettant aux utilisateurs de sélectionner et réserver différents types d'hébergements, y compris des hôtels, des auberges, des chambres d'hôtes, des maisons d'hôtes, des fermes et d'autres options d'hébergement alternatives.",
+            "Toutes les informations concernant les hébergements, y compris la classification des hôtels, les images, les types de chambres, les équipements et les installations disponibles, sont fournies par les établissements respectifs. Ces informations sont uniquement à titre indicatif. Toute divergence entre les images sur le site Web et les conditions réelles de l'hôtel doit être adressée directement à l'hôtel. WOH Hotels n'est pas responsable de telles divergences et ne sera pas impliqué dans le processus de résolution entre l'utilisateur et l'hôtel."
+          ]
+        },
+        "hotelInformationAndTerms": {
+          "title": "INFORMATIONS SUR L'HÔTEL ET CONDITIONS",
+          "content": [
+            "La confirmation de réservation d'hôtel émise par WOH Hotels est entièrement basée sur les informations de disponibilité fournies par l'hôtel. WOH Hotels ne peut être tenu responsable de tout échec de l'hôtel à accueillir un utilisateur malgré une réservation confirmée, des lacunes dans les normes de service, ou tout autre problème lié au service. Si un hôtel refuse l'enregistrement en raison de surréservation, d'erreurs techniques ou de toute autre raison, la responsabilité de WOH Hotels se limite à proposer un hébergement alternatif (sous réserve de disponibilité) ou à rembourser le montant de la réservation (si payé). Les autres litiges liés aux services doivent être résolus directement entre l'utilisateur et l'hôtel.",
+            "Les hôtels conservent le droit d'admission, et WOH Hotels n'a aucune influence sur leurs politiques d'enregistrement. Certains hôtels peuvent refuser l'enregistrement aux couples non mariés ou non liés, aux invités sans pièce d'identité appropriée, ou aux résidents locaux. Dans de tels cas, WOH Hotels n'est pas responsable et aucun remboursement ne sera effectué."
+          ]
+        },
+        "userResponsibilities": {
+          "title": "RESPONSABILITÉS DE L'UTILISATEUR",
+          "content": [
+            "Les utilisateurs sont responsables de tout dommage causé à la propriété de l'hôtel en raison de leurs actions ou de celles de leurs invités. L'étendue de ces dommages sera déterminée par l'hôtel, et WOH Hotels n'interviendra pas.",
+            "L'invité principal doit être âgé d'au moins 18 ans pour l'enregistrement. Une pièce d'identité valide et une preuve d'adresse doivent être présentées lors de l'enregistrement; en cas de non-présentation, l'hébergement peut être refusé sans remboursement.",
+            "Les horaires d'enregistrement et de départ, ainsi que tout changement de ces horaires, sont soumis aux politiques de l'hôtel. Les demandes d'enregistrement anticipé ou de départ tardif dépendent de la disponibilité et peuvent entraîner des frais supplémentaires."
+          ]
+        },
+        "additionalCharges": {
+          "title": "FRAIS SUPPLÉMENTAIRES",
+          "content": [
+            "Le montant de la réservation payé par l'utilisateur couvre uniquement le séjour. Certaines réservations peuvent inclure le petit-déjeuner ou les repas comme spécifié lors de la réservation. Tous les autres services tels que le linge, le service en chambre, Internet, l'utilisation du téléphone ou les repas et boissons supplémentaires doivent être payés directement à l'hôtel.",
+            "Les hôtels peuvent appliquer des frais de repas obligatoires pendant les périodes festives telles que Noël, le réveillon du Nouvel An ou d'autres jours fériés. Ces frais doivent être réglés directement à l'hôtel, et WOH Hotels n'a aucun contrôle sur leur application."
+          ]
+        },
+        "paymentTerms": {
+          "title": "CONDITIONS DE PAIEMENT",
+          "content": [
+            "Les réservations peuvent être effectuées sur une base 'Prépaiement' ou 'Paiement à l'hôtel', comme spécifié par l'hôtel sur la plateforme WOH Hotels."
+          ]
+        },
+        "specialOffersAndCoupons": {
+          "specialOffers": "OFFRES SPÉCIALES ET COUPONS",
+          "title": "Les conditions suivantes s'appliquent à tous les coupons fournis par World of Hostel :",
+          "points": [
+            "La responsabilité de World of Hostel se limite à l'émission du coupon après réception du paiement de l'utilisateur.",
+            "L'utilisation du coupon est entièrement de la responsabilité de l'utilisateur, et le Fournisseur d'Activité est responsable de la prestation du service.",
+            "Les coupons ont une date d'expiration spécifiée et ne peuvent pas être utilisés au-delà de cette date.",
+            "Les coupons ne sont pas échangeables contre de l'argent.",
+            "Une fois achetés, les coupons ne peuvent pas être remboursés ni annulés."
+          ],
+          "disputeInfo": "Pour toute contestation ou clarification, les utilisateurs sont invités à communiquer directement avec le Fournisseur d'Activité ou à contacter World of Hostel pour toute assistance dans le cadre de son rôle de facilitateur."
+        },
+        "responsibilitiesOfTheUsers": {
+          "title": "RESPONSABILITÉS DES UTILISATEURS",
+          "points": [
+            "Les utilisateurs doivent se conformer aux termes et conditions tant du Fournisseur d'Activité que de World of Hostel.",
+            "Les utilisateurs doivent présenter un bon de réservation/confirmation valide émis par World of Hostel pour profiter de l'Activité.",
+            "Les utilisateurs doivent porter des documents d'identification appropriés, y compris mais sans s'y limiter, une pièce d'identité, une preuve d'adresse ou un passeport (pour les Activités internationales), comme spécifié par le Fournisseur d'Activité.",
+            "Les utilisateurs peuvent être amenés à signer des renonciations, des formulaires de consentement, des déclarations de sécurité, des certificats médicaux ou d'autres documents avant de participer à une Activité, comme exigé par le Fournisseur d'Activité.",
+            "Les utilisateurs doivent adresser toute préoccupation directement au Fournisseur d'Activité après la confirmation de leur réservation.",
+            "Les utilisateurs sont responsables de s'assurer qu'ils remplissent tous les critères d'éligibilité pour l'Activité, y compris mais sans s'y limiter, les limites d'âge, les restrictions de poids, les conditions médicales ou toute autre exigence spécifique. Si un utilisateur ne répond pas aux critères, le Fournisseur d'Activité peut refuser la participation sans remboursement."
+          ]
+        },
+        "paymentsBookingsAndCancellations": {
+          "title": "PAIEMENTS, RÉSERVATIONS ET ANNULATIONS",
+          "points": [
+            "Les réservations sont soumises aux politiques d'annulation et de remboursement du Fournisseur d'Activité respectif, qui peuvent varier.",
+            "World of Hostel peut facturer des taxes, des frais de service ou des frais de commodité si applicable."
+          ]
+        },
+        "worldOfHostelLiability": {
+          "title": "World of Hostel ne sera pas responsable de :",
+          "points": [
+            "Tout dommage, perte, blessure, accident, décès, panne, changement d'horaires, annulations sans cause, informations inexactes ou défaillances de service causés par le Fournisseur d'Activité.",
+            "La santé, la sécurité ou le bien-être de l'utilisateur pendant ou après avoir bénéficié de l'Activité.",
+            "Tout service supplémentaire acheté directement par l'utilisateur auprès du Fournisseur d'Activité.",
+            "Toute information incorrecte ou trompeuse fournie par le Fournisseur d'Activité."
+          ],
+          "note": "La responsabilité maximale de World of Hostel est limitée au remboursement du montant de la réservation reçu pour l'Activité réservée."
+        },
+        "payments": {
+          "creditCardPolicy": "Certains hôtels peuvent demander aux utilisateurs de fournir une carte de crédit ou un dépôt en espèces à l'enregistrement pour couvrir les frais accessoires. Cette exigence est indépendante des paiements effectués à WOH Hotels et est entièrement à la discrétion de l'hôtel.",
+          "securityPolicy": "Pour des raisons de sécurité, les utilisateurs doivent fournir des informations de paiement valides. WOH Hotels se réserve le droit d'annuler les réservations si des informations de paiement incorrectes sont détectées.",
+          "acknowledgement": "En utilisant les services de WOH Hotels, les utilisateurs reconnaissent et acceptent les termes et conditions ci-dessus."
+        },
+        "activities": {
+          "title": "WORLD OF HOSTEL - ACTIVITÉS ET AUTRES SERVICES"
+        },
+        "definitions": {
+          "title": "DÉFINITIONS",
+          "activityDefinition": "'Activité' désigne tout service ou expérience réservé via la plateforme World of Hostel, y compris mais sans s'y limiter, les visites, les excursions, le bien-être, les sports d'aventure, les croisières, les parcs à thèmes/loisirs, les buffets, les expériences gastronomiques ou toute autre activité listée.",
+          "activityProviderDefinition": "L'entité fournissant l'Activité sera désignée comme 'Fournisseur d'Activité', qui est seule responsable de la prestation du service ou produit réservé à l'utilisateur."
+        },
+        "liability": {
+          "title": "RÔLE DE WORLD OF HOSTEL ET LIMITATION DE RESPONSABILITÉ",
+          "facilitatorRole": "World of Hostel agit uniquement en tant que facilitateur, permettant aux utilisateurs de réserver des activités via sa plateforme. La transaction réelle et la réalisation du service ont lieu entre l'utilisateur et le Fournisseur d'Activité.",
+          "noPickupService": "World of Hostel ne fournit aucun service de prise en charge ou de dépôt pour une Activité, sauf si explicitement mentionné dans la confirmation de réservation."
+        },
+        "paymentteem": [
+          {
+            "title": "Réservations prépayées",
+            "description": "Le montant total de la réservation est payé au moment de la réservation et inclut le tarif de réservation, les taxes, les frais de service et tout frais de réservation ou de commodité applicable."
+          },
+          {
+            "title": "Paiement partiel",
+            "description": "Dans certains cas, WOH Hotels peut autoriser des paiements partiels lors de la réservation, le montant restant étant dû selon les conditions de la réservation. Si des informations de paiement incorrectes sont fournies, WOH Hotels se réserve le droit d'annuler la réservation."
+          },
+          {
+            "title": "Paiement à l'hôtel",
+            "description": "Le paiement complet est effectué directement à l'hôtel à l'enregistrement. Pour les réservations internationales, les paiements peuvent être facturés en monnaie locale ou en d'autres devises désignées. Les utilisateurs doivent vérifier auprès de leurs banques les frais de change ou les frais de transaction."
+          }
+        ]
+      }
+      
+    }
+  
+
+
+
+
+
+  
+
+

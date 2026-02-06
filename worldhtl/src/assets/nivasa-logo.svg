@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 100" width="300" height="100" preserveAspectRatio="xMidYMid meet">
+  <!-- Background -->
+  <rect width="300" height="100" fill="white"/>
+  
+  <!-- Icon Circle -->
+  <circle cx="50" cy="50" r="40" fill="#2E7D32" opacity="0.95"/>
+  
+  <!-- Icon - Stylized home -->
+  <g fill="white">
+    <!-- Main structure -->
+    <path d="M 35 60 L 50 40 L 65 60 L 65 75 L 35 75 Z" fill="#fff" stroke="#2E7D32" stroke-width="0.5"/>
+    <!-- Roof -->
+    <polygon points="50,40 35,60 65,60" fill="#4CAF50"/>
+    <!-- Door -->
+    <rect x="47" y="62" width="6" height="13" fill="#2E7D32" rx="1"/>
+    <circle cx="52.5" cy="68" r="0.8" fill="#fff"/>
+    <!-- Left window -->
+    <rect x="39" y="50" width="5" height="5" fill="#2E7D32" rx="1"/>
+    <!-- Right window -->
+    <rect x="56" y="50" width="5" height="5" fill="#2E7D32" rx="1"/>
+  </g>
+  
+  <!-- Text: Nivasa -->
+  <text x="110" y="55" font-family="Arial, sans-serif" font-size="42" font-weight="bold" fill="#2E7D32" letter-spacing="2">Nivasa</text>
+  
+  <!-- Tagline -->
+  <text x="110" y="80" font-family="Arial, sans-serif" font-size="12" fill="#666" letter-spacing="0.5">Your Travel Home</text>
+</svg>

@@ -1,0 +1,728 @@
+{
+    "home": {
+      "heading": {
+        "line1": "Discover Your Perfect Stay at Nivasa"
+      },
+      "subtitle":
+       "Experience comfort and hospitality like never before. Whether you're a solo traveler, with family, or friends—Nivasa offers the perfect home away from home tailored to your journey."
+    },
+    "exploreRoom": {
+      "servicesTitle": "SERVICES",
+      "whyChooseTitle": "Why Choose Nivasa",
+      "whyChooseDescription": "At Nivasa, we prioritize your comfort and satisfaction. Here's why we are the top choice for travelers worldwide:",
+      "serviceTitles": {
+        "accommodation": "Extensive Accommodations",
+        "dining": "In-Room Dining Services",
+        "reviews": "Verified Guest Reviews"
+      },
+      "serviceDescription": "From flights, stays, to sights, just count on our complete products."
+    },
+    "bookingcart":{
+    "propertyGallery":"Property Gallery",
+    "viewAll":"View All",
+     "noDataFound": "No Data Found",
+      "amenities":"Amenities",
+      "showonmap":"Show On Map",
+      "checkinTime":"Checkin Time",
+      "checkoutTime":"Checkout Time",
+       "loadingaccommodations":"Loading accommodations...",
+       "viewreviews":"View Reviews",
+       "bookingSummary":"Booking Summary",
+       "checkin":"Check-in",
+       "checkout":"Check-out",
+        "totalGuests":"Guest",
+        "reservedGuests":"Reserved Guests",
+        "totalRoomCost":"Total Room Cost",
+        "gstCost":"GST",
+        "totalbookingcost":"Total Booking Cost",
+        "payableAmount":"Payable Amount",
+         "pendingAmount":"Pending Amount",
+          "discountAmount":"Discount Amount",
+          "reservedguestsarefewerthantotalguests":"Reserved guests are fewer than total guests!",
+          "applycoupon":"Apply Coupon",
+          "apply":"Apply",
+           "costbreakdown": "Cost Breakdown/Per Day",
+           "noofguest":"Guest",
+           "serviceCost":"Service Cost",
+            "additionalCost":"Additional Cost",
+            "noRoomsSelected":"No Rooms Selected",
+             "rooms":"Rooms",
+             "Agree":" Agree for Terms & Conditions / Policies",
+             "termsConditions":"Terms & Conditions",
+             "confirmBooking":"Confirm Booking",
+              "Agreedescrption":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus varius purus nec metus ultrices, eget dignissim augue lacinia. Suspendisse potenti. Donec et dui sed libero convallis aliquet sit amet eu felis. Nullam et sollicitudin dui. Etiam at orci massa.",
+              "close":"Close",
+              "Add":"Add",
+              "night": "night",
+              "Max": "Max",
+              "Only": "Only",
+              "Left": "Available", 
+              "Nearby": "Nearby",
+              "Home": "Home",
+              "Person": "Person",
+              "Persons": "Persons"
+
+
+
+
+
+
+  },
+    "accommodations": {
+      "keyFeatures": "Key Features",
+      "ourAccommodations": "Our Accommodations",
+      "roomTypes": {
+        "privateRoom": {
+          "label": "Private Rooms",
+          "description": "Experience the privacy and tranquility of our fully equipped private rooms, perfect for those seeking a peaceful retreat."
+        },
+        "sharedDormitory": {
+          "label": "Shared Dormitories",
+          "description": "Enjoy the camaraderie of shared dormitories, where you can connect with fellow travelers and create lasting friendships."
+        },
+        "independentHouse": {
+          "label": "Independent Houses and Apartments",
+          "description": "Opt for spacious houses and apartments, ideal for families or groups needing more space and amenities."
+        },
+        "uniqueStays": {
+          "label": "Unique Stays",
+          "description": "Discover our unique accommodations, including charming cabins and luxurious tents, offering a distinct and memorable experience."
+        }
+      }
+      },"propertiesList":{
+        "home":"Home",
+        "applyFilters":"Apply Filters",
+        "minPrice":"Min Price",
+        "maxPrice":"Max Price",
+        "priceRange":"By Price range",
+        "ratings":"By Ratings"
+
+            },
+    "navbar": {
+      "english":"English",
+      "hindi":"Hindi",
+      "login": "Login",
+      "otpDescription": "OTP will be sent to your mobile WhatsApp number",
+      "enterMobileNumber": "Enter mobile number",
+      "mobileNumberMustBeBetween":"Mobile number must be between 10 digits",
+      "requestOtp": "Request OTP",
+      "enterOtp": "Enter OTP sent to your WhatsApp",
+      "submitOtp": "Submit OTP",
+      "personalDetails": "Personal Details",
+      "firstNamePlaceholder": "Enter first name",
+      "lastNamePlaceholder": "Enter last name",
+      "emailPlaceholder": "Enter your email",
+      "genderLabel": "Enter Gender",
+      "pinCodePlaceholder": "Enter your pin code",
+      "cityPlaceholder": "Enter your city",
+      "statePlaceholder": "Enter your state",
+      "countryPlaceholder": "Enter your Country",
+      "addressPlaceholder": "Enter your address",
+      "otpPlaceholder": "Enter OTP (Shared to your WhatsApp account)",
+      "logoutConfirmationTitle": "Are you sure you want to logout?",
+      "logoutConfirmationMessage": "If you logout, you will be redirected to the homepage.",
+      "cancel": "Cancel",
+      "logout": "",
+      "confirmLogout": "Confirm Logout",
+      "myProfile": "My Profile",
+      "myBookings": "My Bookings",
+      "back":"Back",
+      "submit":"Submit"
+    },
+    "bookingForm": {
+      "goingToLabel": "Going to?",
+      "checkInLabel": "CheckIn",
+      "checkOutLabel": "CheckOut",
+      "guestsLabel": "Guests",
+      "searchButtonLabel": "Search"
+    },
+
+
+
+
+
+
+    
+    " profile": {
+      "phoneNumber": "Phone Number",
+      "email": "Email",
+      "address": "Address",
+      "city": "City",
+      "country": "Country"
+   },
+   "footer":{
+     "company": "Company",
+      "links": "Links",
+    "contactus": "Contact Us",
+    "privacyPolicy":"Privacy Policy",
+    "termsConditions":"Terms & Conditions",
+    "home":"Home",
+    "copy":"2025 Clouddot Solutions Pvt Ltd. All rights reserved."
+   },
+   "contactUsPage":{
+    "discoverMore":"Discover More, Wander Freely.",
+    "tellUshow":"Tell us how we can help.",
+    "starttypinghere":"Start typing here",
+    "pleaseProvideYourDetails" :"Please provide your details." ,
+    "fullName":"Full Name",
+    "email": "Email address",
+    "mobilenumber":"Mobile Number",
+      "sendMessage":" Send Message"
+
+  }
+,
+   "privacyPolicy": {
+    "heading": "Privacy Policy – World of Hostels",
+    "versionInfo": "Version: 1.0 | Effective Date: [date to be inserted] | Binding Across All Continents",
+    "sections": {
+      "introduction": {
+        "title": "Introduction:",
+        "content": "Worldofhostels (hereinafter referred to as 'WDH') understands the importance of safeguarding the privacy of our users and maintaining the confidentiality of the information provided. As a responsible data controller and processor, we take all necessary measures to ensure that your personal data is handled securely."
+      },
+     "dataHandling": {
+        "content": "This Privacy Policy outlines the practices for collecting, storing, and processing your personal information (as defined below) by WDH and its affiliated entities."
+      },
+      "scopeTitle":"Scope",
+        "scope": {
+          "paragraph1": "This Privacy Policy applies to any individual (\"User\") who purchases, intends to purchase, or inquires about any products or services offered by WDH via any of our customer channels, including our website, mobile site, mobile app, or offline channels such as call centers and physical offices (collectively referred to as \"Sales Channels\").",
+          "paragraph2": "For the purposes of this Privacy Policy, “you” or “your” refers to the User, and \"we,\" \"us,\" or \"our\" refers to Worldofhostels. This Policy covers our website, mobile site(s), and mobile app(s).",
+          "paragraph3": "By using or accessing our website or any other Sales Channels, you agree to the terms outlined in this Privacy Policy. If you do not agree with this policy, please refrain from using or accessing our Sales Channels."
+        }
+    },
+    "thirdPartylinksTitle": "Third-Party Links",
+    "thirdPartylinks":{
+      "paragraph1":"This Privacy Policy does not apply to third-party websites, mobile apps, or external platforms, even if they are linked to our website. We encourage you to review the privacy policies of any third parties with whom you interact, as their data practices may differ significantly from ours."
+    },
+    "internationalUsersTitle": "International Users",
+"internationalUsers": {
+  "paragraph1": " If you are located outside India, please note that the data you share with WDH will primarily be processed in India or other jurisdictions where WDH or its third-party partners operate. By agreeing to this Privacy Policy, you consent to the processing of your personal information as described herein, even if the data protection laws in these locations differ from those in your country of residence."
+},
+
+"withdrawingConsentTitle": "Withdrawing consent may",
+"withdrawingConsent": {
+  "paragraph1": "Significantly impact our ability to serve you effectively, possibly resulting in the cancellation of your booking or failure to confirm it.Restrict our ability to manage your current or future bookings, which could affect your trip or require cancellation of services already arranged.This Privacy Policy forms part of the User Agreement between you and Workdofhostels, and any capitalized terms used but not defined in this document will have the meaning assigned to them in the User Agreement.",
+
+  "paragraph2": "If you have any questions regarding this policy or our data processing practices, please contact us directly."
+},
+"typeOfInformationTitle": "TYPE OF INFORMATION WE COLLECT AND ITS LEGAL BASIS",
+"typeOfInformation": {
+  "paragraph1": "The information we collect is essential to provide the services you choose, fulfill our legal obligations, and meet our responsibilities to third parties, as outlined in our User Agreement.",
+  "subheading": "Personal Information we collect includes, but is not limited to, the following:"
+},
+"registrationInformationTitle": "Registration Information",
+"registrationInformation": {
+  "paragraph1": "When you register or subscribe to our website, we collect personal details such as your name, gender, marital status, religion, age, profile picture, contact information (email address, postal address, phone number), and any other information you provide, such as your frequent flyer number or banking details (including credit/debit card info). This also includes payment history, billing information, and lifestyle details that you share with us."
+},
+"otherInformationTitle": " Other Information",
+"otherInformation": {
+  "list": [
+    "Transactional data (excluding banking details) about your e-commerce activities and buying behavior.",
+    "Security-related data, such as usernames, passwords, and email addresses associated with your account.",
+    "Files you store on our servers, including images and documents.",
+    "Public domain information or data from third parties, including social media profiles (e.g., name, email, friend list, profile picture).",
+    "Information regarding any other traveler(s) booked through your account. If you're making a booking for someone else, you confirm that they’ve agreed to share their data with us."
+  ]
+},
+"visaServicesTitle": "Visa Services Information ",
+"visaServices": {
+  "paragraph": "If you request visa-related services, we collect copies of your passport, bank statements, filled application forms, photos, and any other necessary documentation required by the respective embassy to process your visa."
+},
+
+"internationalBookingsTitle": "International Bookings Compliance ",
+"internationalBookings": {
+  "paragraph": "For international bookings, you may be required to provide details such as PAN (Permanent Account Number), passport details, or other information as per service provider requirements or in compliance with the Liberalized Remittance Scheme (LRS) of the Reserve Bank of India (RBI). If you don’t provide this information, we may not be able to process your booking."
+},
+
+"contactlessCheckinTitle": "Contactless Hotel Check-in ",
+"contactlessCheckin": {
+  "paragraph": "If you choose contactless check-in at hotels, we may collect copies of your government-issued identification (Aadhaar, driving license, election card, etc.), a self-declaration form, and any other necessary travel-related details (e.g., date of birth, origin/destination, place of residence). Covid-19 Vaccination Status: If required, we may collect your Covid-19 vaccination status and certificate, including any related information necessary for travel or other services. We do not process beneficiary IDs or other confidential information on your vaccination certificate."
+},
+"howWeUseTitle": "HOW WE USE YOUR PERSONAL INFORMATION",
+
+"howWeUseIntro": {
+  "subTitle": " We use the personal information we collect for various purposes, including: "
+},
+
+"bookingTransactionalTitle": " Booking and Transactional Use ",
+"bookingTransactional": {
+  "paragraph": " When making a booking, we process your personal information, including payment details (credit/debit card numbers, banking info, etc.), to complete the booking process. We also use this information to confirm reservations, send booking updates, and handle customer service interactions."
+},
+
+"customerServiceTitle": "Customer Service & Account Management  ",
+"customerService": {
+  "paragraph": "If you request visa-related services, we collect copies of your passport, bank statements, filled application forms, photos, and any other necessary documentation required by the respective embassy to process your visa."
+},
+"useInfo": {
+  "title": " We use your information to ",
+  "list": [
+    "Confirm and update bookings.",
+    "Provide support and assistance with your bookings.",
+    "Send confirmations via SMS, email, or WhatsApp.",
+    "Customize our website and app based on your preferences.",
+    "Prevent fraud and ensure the security of your account."
+  ]
+},
+"surveysFeedbackTitle": "Surveys & Feedback ",
+"surveysFeedbackText": " We occasionally conduct surveys to gather feedback on our services. Participation is voluntary, and your responses are typically anonymized and used to improve our website, services, and promotional content. ",
+
+"marketingPromotionsTitle": "Marketing & Promotions ",
+"marketingPromotionsText": " To improve your user experience and offer personalized promotions, we may use your information to send marketing emails or newsletters about travel deals, special offers, and new services. You can opt out of these communications at any time.",
+
+"rewardProgramsTitle": "Reward Programs ",
+"rewardProgramsText": "From time to time, we may run reward programs offering travel-related prizes or discounts. If you participate, we use your personal information to enroll you, track your rewards, and fulfill your prizes. You may opt out of such programs by contacting us.",
+
+  "thirdPartyServicesTitle": "Third-Party Services ",
+  "thirdPartyServicesText": " In some cases, we may share anonymized or aggregated data with third parties to help us improve our services. For example, we may engage third parties for payment processing, data hosting, or fraud detection. Any sharing of personal information with third parties will always be done in accordance with applicable laws and your consent.",
+
+  "fraudDetectionTitle": "Fraud Detection & Credit Verification ",
+  "fraudDetectionText1": " In certain cases, we may verify customer information, including credit details, to detect fraud or assess creditworthiness for certain services, such as offering bookings on credit. We may also use your information to ensure the integrity and security of our services.",
+  "fraudDetectionText2": "By providing us with your personal information, you consent to its use as described in this Privacy Policy. If you do not wish to share certain information, we may be unable to process your requests or bookings as intended.",
+  "fraudDetectionText3": " For any further questions or concerns about your data, feel free to contact us.",
+
+  "dataRetentionTitle": "HOW LONG DO WE KEEP YOUR PERSONAL INFORMATION? ",
+  "dataRetentionText1": " At WorldofHostels, we retain your personal information for as long as it is reasonably necessary to fulfill the purposes outlined in this Privacy Policy. In some cases, we may retain your data for longer periods, particularly when required to comply with legal, regulatory, tax, or accounting obligations.",
+  "dataRetentionText2": " Once your personal data is no longer needed, we will ensure it is securely deleted or stored in a manner that prevents its further use by the business.",
+  "dataRetentionText3": "If you wish to delete your account, you can do so using this [Link].",
+      "cookiesSessionDataTitle": "COOKIES AND SESSION DATA",
+      "cookiesTitle": "Cookies",
+      "cookiesText1": "At WorldofHostels, we use cookies to personalize your experience on our website and to display relevant advertisements. Our use of cookies is standard practice, similar to that of other reputable online platforms.",
+      "cookiesText2": "Cookies are small files stored by your browser on your device’s hard drive. They allow us to enhance your browsing experience, such as remembering your login information (only your password is required after the initial login), and delivering personalized offers or ads based on your preferences.",
+      "cookiesText3": "We may also use cookies to display advertisements on third-party websites. These cookies help us track the effectiveness of our ads and show you relevant services that might interest you. Third-party advertising companies may also use technologies like pixel tags to measure the success of ads and serve you personalized offers. All information collected through these cookies is anonymous and does not link back to your personal identity.",
+      "cookiesText4": "While most browsers accept cookies by default, you can adjust your browser settings to control how cookies are handled. However, blocking cookies from WorldofHostels might impact the functionality of the website, potentially limiting your ability to enjoy a seamless booking experience. You may also opt to block cookies from specific websites while allowing cookies from trusted sources.",
+      "sessionDataText": "Automatic Logging of Session Data: Whenever you visit our website, certain session data is automatically logged. This includes information such as your IP address, the operating system and browser you’re using, and details about your activities on the website (e.g., pages visited, duration of visit). We use this data to understand user preferences, diagnose technical issues, and improve our website’s performance.",
+      "sessionDataText2": "While session data doesn’t identify you personally, it can help us determine your Internet Service Provider (ISP) and approximate geographic location based on your IP address. This information is collected anonymously and is used to enhance your experience on the website.",
+      "dataSharingTitle": "WITH WHOM YOUR PERSONAL INFORMATION IS SHARED",
+      "serviceProvidersTitle": "Service Providers and Suppliers",
+      "serviceProvidersText": "To fulfill your booking, we may share your personal information with third-party service providers, such as airlines, hotels, bus services, taxi rentals, railways, and other suppliers involved in delivering the services you’ve booked...",
+      "serviceProvidersText2": "We do not sell, rent, or trade individual customer data to third parties. We only share personal information with our business partners or vendors who help us provide services, referrals, or promotional offers based on your booking history.",
+      "sameGroupCompaniesTitle": "COMPANIES IN THE SAME GROUP",
+      "sameGroupCompaniesText": "To improve personalization and service efficiency, we may share your personal information within our affiliate or partner companies under secure conditions...",
+      "sameGroupCompaniesText2": "If WorldofHostels is acquired by another company, your personal data may be transferred to the acquirer as part of the transaction...",
+  
+      
+        "businessPartnersTitle": "BUSINESS PARTNERS AND THIRD-PARTY VENDORS",
+        "businessPartnersText": "We may share specific personal data with our business partners or third-party vendors to enhance your travel experience, such as offering co-branded credit cards, travel insurance, or other services that benefit WorldofHostels users. When you engage with services from our partners, those services will be governed by the partner's own privacy policies.",
+        "businessPartnersText2": "We may also share your information with third parties we engage to handle certain tasks on our behalf, such as payment processing, data hosting, and data analysis.",
+        "businessPartnersText3": "Additionally, we may use anonymous or aggregated personal data for research, statistical analysis, and reporting. This data helps us improve our services and may be shared with advertisers, suppliers, and business partners to enhance their offerings. This aggregated data does not identify you personally and is used solely for business analysis and operational improvement.",
+        "businessPartnersText4": "Occasionally, WorldofHostels may hire third parties for market research or surveys. In such cases, any information shared with these third parties is strictly used for these specific projects and protected by confidentiality agreements. They will only use the data for these purposes and in compliance with applicable regulations.",
+        "disclosureTitle": "DISCLOSURE OF INFORMATION",
+        "disclosureSubtitle": "In addition to the above, we may disclose your personal information in the following situations:",
+        "disclosureList": [
+          "As required by law, regulatory authorities, or court order.",
+          "For internal compliance, audit purposes, or to secure our systems.",
+          "To protect our rights, property, or those of our affiliates, employees, or customers, or when necessary to identify, contact, or take legal action against individuals causing harm or violating our rights.",
+          "Such disclosures may occur without your prior knowledge, and WorldofHostels will not be held liable for any damages arising from these actions."
+        ],
+        "userGeneratedContentTitle": "USER-GENERATED CONTENT",
+        "userGeneratedContentText": "WorldofHostels allows users to share their experiences through reviews, ratings, and general poll questions. Users can also post questions related to the services offered on the platform or answer questions from other users. Additionally, we may contact you through third-party services to gather feedback about your recent bookings. While participation in feedback is entirely voluntary, you may receive notifications via email, SMS, WhatsApp, or in-app alerts asking you to share a review, respond to user queries, or contribute to a poll. Reviews can be written or submitted in video format, and they may also appear on other travel-related platforms.",
+        "userGeneratedContentTypesTitle": "The types of User-Generated Content (UGC) we collect include:",
+        "userGeneratedContentList": [
+          "Reviews and Ratings",
+          "Questions and Answers",
+          "Crowd-sourced Data (polls)",
+          "Each user posting a review, rating, question, or photograph will have a profile visible to other users. Your profile will display information like the number of trips taken, reviews written, questions answered, and photos shared."
+        ],
+        "optingOutTitle": "OPTING OUT OF PROMOTIONAL EMAILS",
+        "optingOutText": "From time to time, you may receive promotional emails from us about special offers, discounts, new services, and updates on WorldofHostels. If you prefer not to receive these emails, simply click the 'unsubscribe' link or follow the opt-out instructions in any promotional email.",
+        "permissionsTitle": "PERMISSIONS REQUIRED FOR OUR MOBILE APPS",
+        "permissionsText": "When you install the WorldofHostels app on your device, we request certain permissions for the app to function optimally. You cannot customize these permissions. Below is a list of required permissions and how we use them:",
+        "androidTitle": "For Android:",
+        "deviceAppHistoryTitle": "Device & App History",
+        "deviceAppHistoryText": "To gather device-specific information like OS, network, hardware model, etc., to enhance your booking experience.",
+
+      
+  "protectionTitle": "HOW WE PROTECT YOUR PERSONAL INFORMATION",
+  "protectionText": "All transactions on WorldofHostels are secure. We use TLS (Transport Layer Security) encryption to protect your personal information during transmission. Our website has robust security measures in place to protect against unauthorized access or misuse of your data. When you update or access your account information, we offer a secure server to ensure your details are protected.",
+  "withdrawalTitle": "WITHDRAWAL OF CONSENT AND PERMISSION",
+  "withdrawalText": "You have the right to withdraw your consent for the collection and processing of your personal information at any time. However, please note that doing so may limit your access to certain features or services on WorldofHostels. To withdraw consent, you can contact us at privacy@worldofhostels.com.",
+  "rightsTitle": "YOUR RIGHTS REGARDING PERSONAL INFORMATION",
+  "rightsText": "You can access and update your personal information through your user account. If you don’t have an account, you can contact us at privacy@worldofhostels.com to request access, correction, or deletion of your information (with some mandatory fields excluded).",
+  "eligibilityTitle": "ELIGIBILITY TO TRANSACT WITH WORLDOFHOSTELS",
+  "eligibilityText": "You must be at least 18 years old to engage in transactions on WorldofHostels and to consent to the processing of your personal data.",
+  "policyChangesTitle": "CHANGES TO THE PRIVACY POLICY",
+  "policyChangesText": "We reserve the right to update this privacy policy as needed to address legal, business, or customer requirements. We will notify users of any significant changes.",
+  "contactText": "If you have concerns or questions regarding this privacy policy, please email us at privacy@worldofhostels.com. We will make every effort to address your concerns.",
+  " permissions ": [
+    { "title": "Camera", "description": "To upload photos for your profile or hotel reviews, and record videos for video reviews." },
+    { "title": "Identity", "description": "To auto-fill email IDs for a seamless experience, including linking with Facebook or Google+ logins." },
+    { "title": "Location", "description": "To provide location-based deals, auto-fill nearby airports or cities for travel bookings, and recommend nearby hotels." },
+    { "title": "SMS", "description": "To auto-fill one-time passwords (OTPs) during transactions for a smoother experience." },
+    { "title": "Phone", "description": "To facilitate calls to hotels, airlines, or customer support." },
+    { "title": "Contacts", "description": "To enable social features, such as sharing your bookings with friends and sending referral links." },
+    { "title": "Photo/Media/Files", "description": "To store map data on your device for offline access." },
+    { "title": "Wi-Fi Connection", "description": "To improve app performance and load maps and images faster." },
+    { "title": "Device ID & Call Information", "description": "To uniquely identify users and prevent fraud." },
+    { "title": "Calendar", "description": "To sync your travel plans with your device’s calendar." },
+    { "title": "Bluetooth", "description": "For seamless integration with third-party services, like self-driving vehicle locks." },
+    { "title": "Video/Audio", "description": "To upload videos for reviews and ensure good audio quality in your submissions." },
+    { "title": "Phone Number", "description": "To optimize login and travel booking experiences." },
+    { "title": "IMEI/IMSI", "description": "To identify users uniquely and prevent fraud." },
+    { "title": "Subscription Information", "description": "To optimize app performance based on your network type and keep you updated on train statuses." },
+    { "title": "SIM Serial Number", "description": "To authenticate your mobile number for UPI registration." }
+],
+ 
+ 
+"iosTitle":"For ios:",
+"Iospermissions": [
+    {
+      "title": "Notifications",
+      "description": "To send travel updates, offers, and booking information."
+    },
+    {
+      "title": "Contacts",
+      "description": "For social features like sharing bookings or sending referral links."
+    },
+    {
+      "title": "Location",
+      "description": "To provide personalized deals and auto-fill nearby locations during booking."
+    }
+  ]
+  },
+"termsOfService":{
+"termsTitle": "TERMS OF SERVICE",
+  "effectiveDate": "Effective Date: 05, February 2025",
+  "applicabilityTitle": "APPLICABILITY",
+  "applicabilityText1": "This User Agreement, along with the Terms of Service (collectively referred to as the 'User Agreement'), establishes the terms and conditions for the use of services and products offered by World of Hostel ('WoH').",
+  "applicabilityText2": "Any individual ('User') who inquires about or purchases any products or services from WoH through its websites, mobile applications, representatives, offices, call centers, branch offices, franchisees, or agents (collectively referred to as 'Sales Channels') agrees to be bound by this User Agreement. The websites and mobile applications of WoH are collectively referred to as the 'Website'.",
+  "applicabilityText3": "Both the User and WoH are individually referred to as a 'Party' and collectively as 'Parties' under this User Agreement.",
+  "applicabilityText4": "The 'Terms of Service' available on WoH's website outline the terms and conditions applicable to various services or products provided by WoH. Users must refer to the relevant Terms of Service applicable to the specific product or service they book. These Terms of Service are binding on the User.",
+  "eligibilityTitle": "ELIGIBILITY TO USE",
+  "eligibilityText1": "The User must be at least 18 years old and possess the legal authority to enter into an agreement to use the services of WoH. If a User is under 18 years of age, they are not permitted to register or transact on the Website.",
+  "eligibilityText2": "If a minor wishes to use or transact on the Website, such use must be conducted by a person of legal contracting age (such as a parent or legal guardian). WoH reserves the right to terminate membership and/or block access to the Website if it is discovered that a minor or legally incompetent individual has falsely registered.",
+  "eligibilityText3": "Before using the Website, approaching any Sales Channels, or procuring services from WoH, the User must read and understand this User Agreement. Acceptance of this User Agreement is deemed binding upon any use of WoH’s services. If the User disagrees with any part of this Agreement, they must refrain from accessing or using WoH's services.",
+  "eligibilityText4": "All rights and liabilities of the User and WoH regarding any services or products facilitated by WoH are limited to the scope of this User Agreement.",
+  "contentTitle": "CONTENT",
+  "contentText1": "All content provided through various Sales Channels, including but not limited to audio, images, software, text, and icons ('Content'), is owned or licensed by WoH and protected under applicable intellectual property laws. Users may only use this Content as expressly permitted by WoH.",
+  "contentText2": "Users must follow all instructions provided by WoH regarding the use of Content.",
+  "contentText3": "WoH owns and displays various proprietary logos, service marks, and trademarks on the Website and other Sales Channels. The User is not granted any rights or licenses to use these proprietary logos, service marks, or trademarks. Unauthorized use of the Content constitutes a violation of applicable laws.",
+  "websiteUsageTitle": "WEBSITE USAGE",
+  "websiteUsageText1": "The Website is intended for lawful use by bona fide Users.",
+  "websiteUsageText2": "Users must not distribute, exchange, modify, sell, or transmit any material from the Website, including but not limited to text, images, audio, and video, for commercial or public purposes.",
+  "websiteUsageText3": "This User Agreement grants Users a limited, non-exclusive, non-transferable right to use the Website in accordance with the specified terms. Users must not interrupt or attempt to disrupt the operation of the Website.",
+  "websiteUsageText4": "Access to certain Website features may only be available to registered Users. Registration may require Users to provide information, which may be personal or optional. Users represent and warrant that all provided information is true and accurate.",
+  "websiteUsageText5": "WoH reserves the right to terminate access to the Website or any portion of it at any time without notice for maintenance or other reasons.",
+  "websiteUsageText6": "WoH endeavors to ensure that its Website is free from viruses or malware. However, Users download or obtain data at their own risk and are solely responsible for any damage to their devices or data loss resulting from such activities.",
+  "websiteUsageText7": "WoH reserves the right to improve or modify the Website at any time without prior notice. Users may report unlawful, objectionable, or infringing content to support@worldofhostel.com. Upon receiving a report, WoH will investigate and take appropriate action.",
+  "userResponsibilitiesTitle": "USER RESPONSIBILITIES",
+  "userResponsibilitiesText1": "Users",
+  "userResponsibilitiesStrong": "must not",
+  "userResponsibilitiesText2": " host, display, upload, publish, transmit, or share any content on WoH’s Website or app that:",
+  "userResponsibilitiesList1": "Belongs to another person without authorization;",
+  "userResponsibilitiesList2": "Is obscene, pornographic, or invasive of privacy;",
+  "userResponsibilitiesList3": "Promotes money laundering, gambling, or violence;",
+  "userResponsibilitiesList4": "Harms minors;",
+  "userResponsibilitiesList5": "Infringes on intellectual property rights;",
+  "userResponsibilitiesList6": "Deceives or misleads recipients;",
+  "userResponsibilitiesList7": "Impersonates another person;",
+  "userResponsibilitiesList8": "Threatens national security or public order;",
+  "userResponsibilitiesList9": "Contains malicious software or viruses;",
+  "userResponsibilitiesList10": "Violates any applicable laws.",
+  "reportProcedureTitle": "PROCEDURE TO REPORT OBJECTIONABLE OR INFRINGING CONTENT",
+  "reportProcedureText": "Users may report unlawful, objectionable, or infringing content found on the Website or app. Complaints should be sent to",
+  "reportEmail": "legal@worldofhostel.com",
+  "reportContentDescriptionEnd": " and must include:",
+  "reportContentList1": "A clear identification of the violation.",
+  "reportContentList2": "The location of the material on the Website (including a link if applicable).",
+  "reportContentList3": "Proof of ownership for intellectual property complaints.",
+  "reportContentList4": "Contact information for further communication.",
+  "reportConsent": "By submitting a complaint, the complainant consents to WoH sharing complaint details with relevant third parties, including the accused parties, for evaluation.",
+  "reportReview": "WoH will review complaints within the timeframe prescribed by applicable law. Users must provide all necessary information to facilitate the investigation. WoH shall not be liable for any action or omission in response to a complaint, nor does it guarantee specific outcomes for reported issues. All rights of WoH in such matters are fully reserved.",
+  "travelAgentBookingsTitle": "BOOKINGS BY TRAVEL AGENTS",
+  "travelAgentRestrictions": "Except with prior registration as a B2B agent, priority partner, or franchisee with World of Hostel ('WoH') and explicit permission to use the Website for commercial purposes, all travel agents, tour operators, consolidators, or aggregators (collectively referred to as 'Travel Agents') are strictly prohibited from using the Website for any commercial or resale purpose.",
+  "travelAgentConsequences": "If such unauthorized bookings are detected, WoH reserves the right, without limitation, to immediately cancel all such bookings without prior notice, withhold payments, or deny any refunds. WoH shall not be liable for any incidental loss or damage arising from such bookings. The liability for any cancellations shall solely rest with the Travel Agents.",
+  "travelAgentDiscounts": "All discounts and offers displayed on the Website are exclusively for individual Users making legitimate bookings and are not applicable to Travel Agents unless explicitly stated.",
+  "wohLiabilityTitle": "LIMITED LIABILITY OF WOH",
+  "wohLiabilityDescription": "WoH functions solely as a facilitator connecting Users with hostels, accommodations, and other service providers ('Service Providers'). Unless explicitly stated otherwise, WoH does not act as a reseller and its liability is limited to confirming a booking as per the User’s selection.",
+  "wohLiabilityExclusion": "Any disputes, issues, or grievances regarding the quality of services, facilities, or experiences at the booked accommodations shall be the sole responsibility of the respective Service Providers. WoH assumes no liability for any errors, omissions, breaches, representations, or negligence of any Service Provider.",
+  "wohDisclaimerTitle": "Unless explicitly committed by WoH:",
+  "wohDisclaimerPoints": [
+    "WoH does not guarantee the standard, quality, or availability of services provided by Service Providers.",
+    "WoH is not responsible for any discrepancy between the actual service provided and the descriptions listed on the Website.",
+    "WoH shall not be liable for any changes or cancellations by the Service Providers."
+  ],
+  "wohBookingAcknowledgment": "By booking through WoH, the User acknowledges that WoH merely provides a technology platform for bookings and that the ultimate contract of service is between the User and the Service Provider.",
+  "userResponsibilityTitle": "USER'S RESPONSIBILITY",
+  "userResponsibilityPoints": [
+    "Users must carefully review the details of the accommodation or service before making a booking. By proceeding with a booking, the User agrees to the terms outlined in the booking confirmation and voucher, as well as the general terms and conditions of this Agreement.",
+    "If a User books on behalf of another individual, the User is responsible for informing them of all applicable terms, rules, and restrictions.",
+    "Users must adhere to all applicable laws, regulations, and guidelines issued by relevant authorities concerning their travel and stay. WoH shall not be responsible for any legal implications arising from the User’s failure to comply with such regulations.",
+    "WoH reserves the right to modify or change features, functionalities, or the scope of its services at any time without prior notice. The services are provided on an 'as is' and 'as available' basis, and WoH expressly disclaims all warranties, whether express or implied.",
+    "Users authorize WoH representatives to contact them via phone, message, or email regarding their bookings. This consent supersedes any preferences set by Users under national customer preference registers (NCPR) or any similar regulations."
+  ],
+  "securityAccountTitle": "SECURITY AND ACCOUNT INFORMATION",
+  "securityAccountPoints": [
+    "Users must maintain the confidentiality of their account credentials, including passwords. WoH is not responsible for any unauthorized access resulting from the User’s failure to safeguard their login details. Users should immediately notify WoH in case of any unauthorized account activity.",
+    "WoH implements security measures to protect payment information but cannot guarantee absolute security. Users are advised not to share sensitive details such as credit card numbers, CVV, OTPs, or passwords with anyone, including WoH representatives. Any breach at the User’s end shall not be the responsibility of WoH.",
+    "User data may be shared with legal authorities if required by law for investigation purposes."
+  ],
+  "feesAndPaymentTitle": "FEES AND PAYMENT",
+  "feesAndPaymentPoints": [
+    "In addition to the booking charges by Service Providers, WoH reserves the right to levy service or convenience fees. Such fees are subject to change at WoH’s discretion and will be displayed before payment confirmation.",
+    "In case of technical errors or pricing discrepancies leading to undercharging, WoH reserves the right to claim the balance amount from the User. Failure to pay may result in cancellation of the booking.",
+    "Price changes due to government-imposed taxes or levies shall be borne by the User and may be applied without prior notice, including retrospectively as per applicable law.",
+    "In cases where a booking is not confirmed for any reason, WoH will process a refund of the booking amount to the User. However, WoH holds no obligation to provide an alternative booking. Refunds will be processed according to the Service Provider’s policy, and WoH shall not be liable for any delays arising from the Service Provider’s refund processing timeline.",
+    "Users must make payments only to official WoH accounts. WoH shall not be responsible for any losses if a User transfers funds to unauthorized third-party accounts.",
+    "Refunds on canceled bookings will be credited to the original payment method used by the User. Cancellation policies will be as specified on the booking page or as communicated in writing.",
+    "WoH offers multiple payment options, including UPI, credit/debit cards, net banking, wallets, and EMI facilities."
+  ],
+  "mobileNumberUsageTitle": "USAGE OF THE MOBILE NUMBER & COMMUNICATION DETAILS BY WORLD OF HOSTEL",
+  "mobileNumberUsagePoints": [
+    "World of Hostel will send booking confirmations, itinerary details, cancellations, payment confirmations, refund statuses, schedule changes, or any other relevant transaction-related information to the User via SMS, internet-based messaging applications like WhatsApp, voice calls, emails, or any other alternate communication method provided by the User at the time of booking.",
+    "World of Hostel may also contact the User through these channels for any pending or failed bookings to facilitate completion and assist the User accordingly."
+  ],
+  "communicationConsent": "The User unconditionally consents to such communications via SMS, WhatsApp, voice calls, emails, or any other mode, acknowledging that they are:",
+  "communicationRequest": "Based on the User’s request and authorization;",
+  "communicationTransactional": "Transactional in nature and not unsolicited commercial communication;",
+  "communicationCompliance": "Compliant with relevant regulatory guidelines.",
+  "communicationIndemnity": "The User indemnifies World of Hostel against any losses or damages incurred due to actions taken by regulatory authorities arising from complaints related to the above communications, including errors in the contact details provided by the User.",
+  "insuranceTitle": "INSURANCE",
+  "insuranceResponsibility": "Unless explicitly offered by World of Hostel as part of a service or booking, obtaining travel insurance is the sole responsibility of the User. World of Hostel will not accept claims related to any issues arising from the lack of sufficient insurance coverage.",
+  "insuranceClaims": "If insurance is provided as part of a booking, it will be governed by the terms and conditions of the respective third-party insurance provider. World of Hostel acts only as a facilitator, and any claims or disputes must be addressed directly with the insurance company. World of Hostel will not be responsible for any partial or full denial of claims.",
+  "visaObligationTitle": "VISA OBLIGATION",
+  "visaResponsibility": "Users making international bookings through World of Hostel are solely responsible for obtaining any necessary visas, including transit visas or other travel authorizations required by the destination country or transit countries.",
+  "visaLiability": "World of Hostel is not liable for any issues, including travel restrictions or denied entry, resulting from visa-related complications. Refunds, if applicable, will be processed as per the booking and cancellation policies of the respective service providers.",
+  "forceMajeureTitle": "FORCE MAJEURE",
+  "forceMajeureDescription1": "In exceptional circumstances, World of Hostel and/or its service providers may be unable to fulfill confirmed bookings due to events beyond reasonable control, including but not limited to natural disasters, labor unrest, insolvency, government regulations, pandemics, terrorist activities, operational disruptions, or technical failures.",
+  "forceMajeureDescription2": "If prior knowledge of such an event is available, World of Hostel will make its best effort to provide alternative options or refunds where applicable. However, as a facilitator, World of Hostel is not liable for any losses incurred due to Force Majeure events. The User must seek resolution directly from the respective service providers.",
+  "thirdPartyTitle": "ADVERTISERS & THIRD-PARTY LINKS",
+  "thirdPartyDescription1": "World of Hostel’s website may contain links to third-party websites. These are not controlled by World of Hostel, and the company is not responsible for their content, accuracy, or reliability. Accessing such third-party websites is at the User’s own risk.",
+  "thirdPartyDescription2": "World of Hostel does not endorse any advertisers or linked sites and will not be held liable for any losses or damages resulting from reliance on third-party content.",
+  "rightToRefuseTitle": "RIGHT TO REFUSE SERVICE",
+  "rightToRefuseDescription": "World of Hostel reserves the right to decline any booking at its sole discretion without obligation to provide a reason.",
+  "accountTerminationTitle": "The company may suspend or terminate a User’s account if:",
+  "accountTerminationBreach": "The User breaches any terms of this agreement;",
+  "accountTerminationMisleadingInfo": "The User provides inaccurate, misleading, or unverifiable information;",
+  "accountTerminationFraud": "The User engages in fraudulent or unlawful activities.",
+  "serviceRefusal": "Service providers may also refuse service to Users based on health concerns, safety reasons, behavioral issues, or government-mandated travel restrictions. In such cases, any claims, refunds, or damages shall be handled solely between the User and the service provider.",
+  "cancellationPolicyTitle": "CANCELLATION POLICY",
+  "cancellationPolicyInfo": "Users must provide accurate and valid information when booking through World of Hostel. If any misrepresentation is detected, World of Hostel reserves the right to cancel the booking without prior notice.",
+  "cancellationPolicyLiability": "If a booking is canceled by regulatory authorities, service providers, or due to suspected fraudulent activity, World of Hostel will not be liable for any resultant losses. Refunds, if applicable, will be processed as per the respective cancellation policies.",
+  "fraudPreventionTitle": "FRAUD PREVENTION & SECURITY",
+  "fraudPreventionInfo": "World of Hostel’s representatives will never request sensitive personal information such as credit/debit card details, passwords, or OTPs. Users should report any suspicious activity immediately.",
+  "indemnityTitle": "FRAUD PREVENTION & SECURITY",
+  "indemnityAgreement": "The User agrees to indemnify and hold harmless World of Hostel, its affiliates, and representatives against any claims, liabilities, or losses arising from:",
+  "indemnityBreach": "Breach of any representation or obligation by the User;",
+  "indemnityLawViolation": "Violations of applicable laws or regulations;",
+  "indemnityMisuse": "Misuse of the platform or fraudulent activities.",
+  "covidPoliciesTitle": "COVID-19 RELATED POLICIES",
+  "covidPoliciesInfo": "Due to the ongoing impact of COVID-19, service providers may cancel or refuse service to Users based on health and safety guidelines. Refunds, if applicable, will be processed according to the policies of the service provider.",
+  "covidCompliance": "Users are responsible for complying with all government-mandated health advisories, including providing necessary health declarations, downloading government-specified applications, and adhering to safety protocols during travel.",
+  "covidTerms": "These terms are designed to ensure a smooth booking experience for all Users of World of Hostel. By using our services, you acknowledge and agree to these policies.",
+   "upiTermsTitle": "WorldofHostel UPI Terms & Conditions",
+  "upiTpapInfo": "WorldofHostel as a Third-Party Application Provider (TPAP) under UPI",
+  "upiProviderDetails": "WorldofHostel is a TPAP authorized by NPCI to facilitate UPI payments through its partner PSP banks, ICICI Bank and IndusInd Bank. As a TPAP, WorldofHostel enables customers to use UPI services while ensuring compliance with NPCI’s regulations.",
+  "upiSupport": "In accordance with agreements between WorldofHostel, ICICI Bank, IndusInd Bank, and NPCI, WorldofHostel provides first-level support for customer grievances related to UPI transactions. If a complaint remains unresolved, users may escalate it to their PSP Bank, their linked bank account provider, NPCI, and ultimately the Banking Ombudsman or the Ombudsman for Digital Complaints.",
+  "faqsTitle": "Frequently Asked Questions (FAQs)",
+  "npcQuestion": "What is NPCI?",
+  "npcAnswer": "The National Payments Corporation of India (NPCI) is an entity authorized by the Reserve Bank of India (RBI) that operates and regulates the UPI payment system.",
+  "pspQuestion": "What is a PSP Bank?",
+  "pspAnswer": "A Payment Service Provider (PSP) is a banking institution authorized to facilitate UPI transactions. PSPs partner with TPAPs to provide UPI services to end users.",
+  "tpapQuestion": "What is a TPAP?",
+  "tpapAnswer": "A Third-Party Application Provider (TPAP) is an entity that offers UPI-compliant applications to users for conducting UPI transactions.",
+ "endUserQuestion": "Who is an End-User Customer?",
+  "anindividualwho":"An individual who utilizes UPI services to send and receive payments.",
+  "title": "Roles & Responsibilities",
+  "npcTitle": "NPCI’s Responsibilities:",
+  "npcPoint1": "Owns and regulates the UPI platform.",
+  "npcPoint2": "Sets rules and standards for UPI participants.",
+  "npcPoint3": "Approves and audits UPI participants, including banks and TPAPs.",
+  "npcPoint4": "Ensures security and efficiency within the UPI network.",
+  "pspTitle": "PSP Bank’s Responsibilities:",
+  "pspPoint1": "Facilitates customer onboarding and account linking for UPI transactions.",
+  "pspPoint2": "Ensures compliance with security protocols and transaction integrity.",
+  "pspPoint3": "Conducts audits of TPAPs.",
+  "pspPoint4": "Manages dispute resolution mechanisms for UPI-related complaints.",
+  "tpapTitle": "TPAP’s Responsibilities (WorldofHostel):",
+  "tpapPoint1": "Provides a UPI-compliant platform for transactions in partnership with PSP Banks.",
+  "tpapPoint2": "Ensures adherence to security and data protection standards.",
+  "tpapPoint3": "Stores UPI transaction data exclusively in India.",
+  "tpapPoint4": "Offers a structured grievance redressal mechanism.",
+    "disputetitle": "Dispute Redressal Mechanism",
+    "description": "Users can raise UPI-related complaints through the WorldofHostel app, the respective PSP Bank, or NPCI.",
+    "escalationProcessTitle": "Complaint Escalation Process:",
+    "escalationSteps": [
+      {
+        "textstepmain": "File a complaint through the WorldofHostel app or contact the associated PSP Bank.",
+        "link": {
+          "url": "https://worldofhostel.com/support",
+          "text": "WorldofHostel Support"
+        }
+      },
+      {
+        "text": " If the complaint is not resolved, escalate it to the respective PSP Bank.",
+        "subLinks": [
+          {
+            "bank": "ICICI Bank",
+            "url": "https://www.icicibank.com/complaints",
+            "text": "File a Complaint"
+          },
+          {
+            "bank": "IndusInd Bank",
+            "url": "https://www.indusind.com/complaints",
+            "text": "File a Complaint"
+          }
+        ]
+      },
+      {
+        "text": " If no resolution is provided, escalate the complaint to NPCI.",
+        "link": {
+          "url": "https://www.npci.org.in/complaints",
+          "text": "NPCI Complaint Form"
+        }
+      },
+      {
+        "text": " If the issue remains unresolved, appeal to the Banking Ombudsman or the Digital Complaints Ombudsman."
+      }
+    ],
+    
+      "termsTitle1": "Additional Terms",
+      "terms": [
+        {
+          "title": "Severability",
+          "description": "If any part of these terms is found invalid, the rest shall remain enforceable."
+        },
+        {
+          "title": "Jurisdiction",
+          "description": "These terms are governed by Indian law and are subject to the courts in Delhi."
+        },
+        {
+          "title": "Amendments",
+          "description": "WorldofHostel may update these terms as necessary."
+        },
+        {
+          "title": "Confidentiality",
+          "description": "Users must maintain the confidentiality of any sensitive information shared by WorldofHostel."
+        },
+        {
+          "title": "Feedback",
+          "description": "Users may provide feedback for service improvement."
+        },
+        {
+          "title": "Privacy Policy",
+          "description": "Refer to the WorldofHostel Privacy Policy available on our website."
+        }
+      ],
+        "grievanceRedressalContact": {
+          "title": "Grievance Redressal Contact",
+          "details": [
+            {
+              "label": "Grievance Officer Email",
+              "value": "[Provide Email]"
+            },
+            {
+              "label": "Working Hours",
+              "value": "Monday to Friday (9:00 AM – 6:00 PM IST)"
+            }
+          ]
+        },
+        "roleOfWorldOfHostelHotelsAndLimitationOfLiability": {
+          "title": "ROLE OF WORLD OF HOSTEL HOTELS AND LIMITATION OF LIABILITY",
+          "content": [
+            "World of Hostel Hotels (WOH Hotels) acts solely as a facilitator, providing an online platform for users to select and book various accommodations, including hotels, hostels, home-stays, bed and breakfast establishments, farmhouses, and other alternative lodging options.",
+            "All information regarding accommodations, including hotel classification, images, room types, amenities, and available facilities, is provided by the respective establishments. This information is for reference only. Any discrepancies between website images and actual hotel conditions must be addressed directly with the hotel. WOH Hotels holds no responsibility for such discrepancies and will not be liable for any resolution process between the user and the hotel."
+          ]
+        },
+        "hotelInformationAndTerms": {
+          "title": "HOTEL INFORMATION AND TERMS",
+          "content": [
+            "The hotel booking confirmation issued by WOH Hotels is based entirely on the availability information provided by the hotel. WOH Hotels cannot be held responsible for any failure by the hotel to accommodate a user despite a confirmed booking, deficiencies in service standards, or any other service-related issues. If a hotel denies check-in due to overbooking, technical errors, or any other reason, WOH Hotels' liability is limited to offering an alternative accommodation (subject to availability) or refunding the booking amount (if paid). Any other service-related disputes must be resolved directly between the user and the hotel.",
+            "Hotels retain the right to admission, and WOH Hotels has no influence over their check-in policies. Some hotels may deny check-in to unmarried or unrelated couples, guests without proper identification, or local residents. In such cases, WOH Hotels is not responsible, and no refund will be provided."
+          ]
+        },
+        "userResponsibilities": {
+          "title": "USER RESPONSIBILITIES",
+          "content": [
+            "Users are liable for any damage caused to the hotel property due to their actions or those of their accompanying guests. The extent of such damage will be determined by the hotel, and WOH Hotels will not intervene.",
+            "The primary guest must be at least 18 years old for check-in. A valid identity proof and address proof must be presented at check-in; failure to do so may result in denial of accommodation without refund.",
+            "Check-in and check-out times, along with any changes to these timings, are subject to hotel policies. Early check-in or late check-out requests depend on availability and may incur additional charges."
+          ]
+        },
+        "additionalCharges": {
+          "title": "ADDITIONAL CHARGES",
+          "content": [
+            "The booking amount paid by the user covers only the stay. Some bookings may include breakfast or meals as specified at the time of booking. Any other services such as laundry, room service, internet, telephone usage, or extra food and beverages must be paid for directly at the hotel.",
+            "Hotels may impose mandatory meal surcharges during festive periods such as Christmas, New Year's Eve, or other holidays. These charges must be settled directly at the hotel, and WOH Hotels has no control over their application."
+          ]
+        },
+        "paymentTerms": {
+          "title": "PAYMENT TERMS",
+          "content": [
+            "Bookings may be made on either a 'Prepaid' or 'Pay at Hotel' basis, as specified by the hotel on the WOH Hotels platform."
+          ]
+        },
+        "specialOffersAndCoupons": {
+          "specialOffers":"SPECIAL OFFERS AND COUPONS",
+          "title": "The following terms apply to any coupons provided by World of Hostel:",
+          "points": [
+            "World of Hostel’s responsibility is limited to issuing the coupon upon receipt of payment from the User.",
+            "The redemption of the coupon is solely the User’s responsibility, and the Activity Provider is responsible for delivering the service.",
+            "Coupons have a stated expiry date and cannot be used beyond that date.",
+            "Coupons are non-redeemable for cash.",
+            "Once purchased, coupons cannot be refunded or canceled."
+          ],
+          "disputeInfo": "For any disputes or clarifications, Users are encouraged to directly communicate with the Activity Provider or contact World of Hostel for assistance within the scope of its facilitation role."
+        },
+        "responsibilitiesOfTheUsers": {
+          "title": "RESPONSIBILITIES OF THE USERS",
+          "points": [
+            "Users must comply with the terms and conditions of both the Activity Provider and World of Hostel.",
+            "Users must present a valid booking/confirmation voucher issued by World of Hostel to avail of the Activity.",
+            "Users must carry appropriate identification documents, including but not limited to an identity proof, address proof, or passport (for international Activities), as specified by the Activity Provider.",
+            "Users may be required to sign waivers, consent forms, safety declarations, medical statements, or other documents before participating in an Activity, as mandated by the Activity Provider.",
+            "Users must address any concerns directly with the Activity Provider after confirmation of their reservation.",
+            "Users are responsible for ensuring they meet all eligibility criteria for the Activity, including but not limited to age limits, weight restrictions, medical conditions, or any other specific requirements. If found ineligible, the Activity Provider may deny participation without refund."
+          ]
+        },
+        "paymentsBookingsAndCancellations": {
+          "title": "PAYMENTS, BOOKINGS, AND CANCELLATIONS",
+          "points": [
+            "Reservations are subject to the cancellation and refund policies of the respective Activity Provider, which may vary.",
+            "World of Hostel may charge applicable taxes, service fees, or convenience fees where applicable."
+          ]
+        },
+        "worldOfHostelLiability": {
+          "title": "World of Hostel shall not be responsible for:",
+          "points": [
+            "Any damage, loss, injury, accident, death, breakdown, schedule changes, cancellations without cause, inaccurate information, or service deficiencies caused by the Activity Provider.",
+            "The health, safety, or well-being of the User during or after availing of the Activity.",
+            "Any additional services purchased directly by the User from the Activity Provider.",
+            "Any incorrect or misleading information provided by the Activity Provider."
+          ],
+          "note": "The maximum liability of World of Hostel is limited to refunding the booking amount received for the reserved Activity."
+        },
+        
+        "payments": {
+          "creditCardPolicy": "Some hotels may require users to provide a credit card or cash deposit upon check-in to cover incidental expenses. This requirement is independent of any payments made to WOH Hotels and is solely at the discretion of the hotel.",
+          "securityPolicy": "For security purposes, users must provide valid payment details. WOH Hotels reserves the right to cancel bookings if incorrect payment information is detected.",
+          "acknowledgement": "By using WOH Hotels' services, users acknowledge and agree to the above terms and conditions."
+        },
+        "activities": {
+          "title": "WORLD OF HOSTEL - ACTIVITIES AND OTHER SERVICES"
+        },
+        "definitions": {
+          "title": "DEFINITIONS",
+          "activityDefinition": "'Activity' refers to any service or experience booked through the World of Hostel platform, including but not limited to day tours, sightseeing, spa & wellness, adventure sports, cruises, theme/amusement parks, buffets, dining experiences, or any other listed activity.",
+          "activityProviderDefinition": "The entity providing the Activity shall be referred to as the 'Activity Provider,' who is solely responsible for delivering the booked service or product to the User."
+        },
+        "liability": {
+          "title": "ROLE OF WORLD OF HOSTEL AND LIMITATION OF LIABILITY",
+          "facilitatorRole": "World of Hostel acts solely as a facilitator, enabling Users to book Activities through its platform. The actual transaction and service fulfillment occur between the User and the Activity Provider.",
+          "noPickupService": "World of Hostel does not provide pick-up or drop-off services for any Activity unless explicitly mentioned in the booking confirmation."
+        },
+        "paymentteem" : [
+          {
+              "title": "Prepaid Bookings",
+              "description": "The total booking amount is paid at the time of booking and includes the reservation rate, taxes, service fees, and any applicable booking or convenience fees."
+          },
+          {
+              "title": "Partial Payment",
+              "description": "In certain cases, WOH Hotels may allow partial payments at the time of booking, with the remaining amount due per the booking terms. If incorrect payment details are provided, WOH Hotels reserves the right to cancel the booking."
+          },
+          {
+              "title": "Pay at Hotel",
+              "description": "The full payment is made directly to the hotel at check-in. For international bookings, payments may be charged in local or other designated currencies. Users should check with their banks regarding foreign exchange fees or transaction charges."
+          }
+      ]
+      }
+  }
+  

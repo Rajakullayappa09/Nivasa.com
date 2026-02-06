@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 100" width="300" height="100" preserveAspectRatio="xMidYMid meet">
+  <!-- Background -->
+  <rect width="300" height="100" fill="white"/>
+  
+  <!-- Ornamental border -->
+  <rect x="10" y="15" width="280" height="70" fill="none" stroke="#B8860B" stroke-width="1.5" stroke-dasharray="4,4" rx="2"/>
+  
+  <!-- Corner decorations -->
+  <g fill="#8B4513" opacity="0.8">
+    <circle cx="16" cy="20" r="2"/>
+    <circle cx="284" cy="20" r="2"/>
+    <circle cx="16" cy="80" r="2"/>
+    <circle cx="284" cy="80" r="2"/>
+  </g>
+  
+  <!-- Decorative arch -->
+  <path d="M 35 35 Q 35 20 50 20 Q 65 20 65 35" stroke="#8B4513" stroke-width="1.5" fill="none"/>
+  <path d="M 37 35 Q 37 23 50 23 Q 63 23 63 35" stroke="#D2691E" stroke-width="1" fill="none" opacity="0.7"/>
+  
+  <!-- Decorative vertical lines -->
+  <g stroke="#B8860B" stroke-width="1" opacity="0.6">
+    <line x1="38" y1="40" x2="38" y2="55"/>
+    <line x1="50" y1="40" x2="50" y2="55"/>
+    <line x1="62" y1="40" x2="62" y2="55"/>
+  </g>
+  
+  <!-- Building shape -->
+  <g stroke="#8B4513" stroke-width="1">
+    <polygon points="40,45 40,70 60,70 60,45" fill="#F5DEB3" opacity="0.8" stroke="#8B4513" stroke-width="1"/>
+    <!-- Door -->
+    <rect x="45" y="60" width="4" height="10" fill="#8B4513" stroke="#696969" stroke-width="0.5"/>
+    <!-- Windows -->
+    <rect x="42" y="50" width="3" height="3" fill="#4CAF50" stroke="#333" stroke-width="0.5"/>
+    <rect x="55" y="50" width="3" height="3" fill="#4CAF50" stroke="#333" stroke-width="0.5"/>
+  </g>
+  
+  <!-- Main brand text -->
+  <text x="95" y="55" font-family="Georgia, serif" font-size="40" font-weight="bold" fill="#2E7D32" letter-spacing="2">Nivasa</text>
+  
+  <!-- Subtitle -->
+  <text x="95" y="78" font-family="Georgia, serif" font-size="13" fill="#8B4513" letter-spacing="0.5" opacity="0.9">Heritage Hospitality</text>
+  
+  <!-- Decorative flourishes -->
+  <g stroke="#B8860B" stroke-width="1" fill="none" opacity="0.6">
+    <line x1="78" y1="52" x2="88" y2="52"/>
+    <path d="M 75 48 L 80 52 L 75 56" stroke="#B8860B" stroke-width="1" fill="none"/>
+  </g>
+</svg>

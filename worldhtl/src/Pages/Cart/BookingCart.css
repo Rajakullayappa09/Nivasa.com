@@ -1,0 +1,127 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600&display=swap');
+
+.booking-summary-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background-color: #f4f4f4;
+    padding: 20px;
+}
+
+.table-container::-webkit-scrollbar {
+    display: none;
+}
+
+.table-container {
+    -ms-overflow-style: none;
+    /* Internet Explorer and Edge */
+    scrollbar-width: none;
+    /* Firefox */
+}
+
+.booking-summary {
+
+    max-width: 600px;
+    text-align: center;
+    width: 100%;
+    border: none;
+    font-weight: 400;
+    font-family: 'Poppins';
+}
+
+h2,
+h3 {
+    color: #333;
+    margin-bottom: 10px;
+}
+
+p {
+    font-size: 16px;
+    margin: 5px 0;
+}
+
+button {
+    background-color: #07799f;
+    color: white;
+    border: none;
+    padding: 10px 15px;
+    margin-top: 15px;
+    cursor: pointer;
+    border-radius: 5px;
+    font-size: 16px;
+}
+
+button:hover {
+    background-color: #07799f;
+}
+
+.cost-breakup {
+    margin-top: 20px;
+    text-align: start;
+}
+
+
+th,
+td {
+    padding: 6px;
+    text-align: start;
+    font-weight: 400;
+
+}
+
+
+table {
+    width: 100%;
+    font-size: 14px;
+    /* font-family: 'Poppins', sans-serif; */
+    margin-top: -10px;
+    border-radius: 10px;
+    border-collapse: separate;
+    border-spacing: 0;
+    justify-content: space-between;
+}
+
+thead {
+    border-radius: 10px;
+}
+.table-coloum{
+    text-align: end;
+}
+.breack-cost{
+    text-align: end;
+    width: 100px;
+}
+
+thead th {
+    height: 50px;
+    font-size: 14px;
+    font-weight: 500;
+    color: #3a3a3a;
+    text-align: center;
+
+    border-top-left-radius: 10px;
+}
+
+
+
+
+
+
+
+@media (max-width: 768px) {
+    .booking-summary {
+        max-width: 100%;
+        padding: 15px;
+    }
+
+    table {
+        font-size: 14px;
+    }
+
+    th,
+    td {
+        padding: 12px 12px 0px 16px;
+    }
+    
+}
