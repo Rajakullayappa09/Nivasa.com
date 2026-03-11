@@ -172,12 +172,12 @@
   }
 ,
    "privacyPolicy": {
-    "heading": "Privacy Policy – World of Hostels",
+    "heading": "Privacy Policy – Nivasa",
     "versionInfo": "Version: 1.0 | Effective Date: [date to be inserted] | Binding Across All Continents",
     "sections": {
       "introduction": {
         "title": "Introduction:",
-        "content": "Worldofhostels (hereinafter referred to as 'WDH') understands the importance of safeguarding the privacy of our users and maintaining the confidentiality of the information provided. As a responsible data controller and processor, we take all necessary measures to ensure that your personal data is handled securely."
+        "content": "Nivasa (hereinafter referred to as 'WDH') understands the importance of safeguarding the privacy of our users and maintaining the confidentiality of the information provided. As a responsible data controller and processor, we take all necessary measures to ensure that your personal data is handled securely."
       },
      "dataHandling": {
         "content": "This Privacy Policy outlines the practices for collecting, storing, and processing your personal information (as defined below) by WDH and its affiliated entities."
@@ -185,7 +185,7 @@
       "scopeTitle":"Scope",
         "scope": {
           "paragraph1": "This Privacy Policy applies to any individual (\"User\") who purchases, intends to purchase, or inquires about any products or services offered by WDH via any of our customer channels, including our website, mobile site, mobile app, or offline channels such as call centers and physical offices (collectively referred to as \"Sales Channels\").",
-          "paragraph2": "For the purposes of this Privacy Policy, “you” or “your” refers to the User, and \"we,\" \"us,\" or \"our\" refers to Worldofhostels. This Policy covers our website, mobile site(s), and mobile app(s).",
+          "paragraph2": "For the purposes of this Privacy Policy, \"you\" or \"your\" refers to the User, and \"we,\" \"us,\" or \"our\" refers to Nivasa. This Policy covers our website, mobile site(s), and mobile app(s).",
           "paragraph3": "By using or accessing our website or any other Sales Channels, you agree to the terms outlined in this Privacy Policy. If you do not agree with this policy, please refrain from using or accessing our Sales Channels."
         }
     },
@@ -280,15 +280,15 @@
   "fraudDetectionText3": " For any further questions or concerns about your data, feel free to contact us.",
 
   "dataRetentionTitle": "HOW LONG DO WE KEEP YOUR PERSONAL INFORMATION? ",
-  "dataRetentionText1": " At WorldofHostels, we retain your personal information for as long as it is reasonably necessary to fulfill the purposes outlined in this Privacy Policy. In some cases, we may retain your data for longer periods, particularly when required to comply with legal, regulatory, tax, or accounting obligations.",
+        "dataRetentionText1": " At Nivasa, we retain your personal information for as long as it is reasonably necessary to fulfill the purposes outlined in this Privacy Policy. In some cases, we may retain your data for longer periods, particularly when required to comply with legal, regulatory, tax, or accounting obligations.",
   "dataRetentionText2": " Once your personal data is no longer needed, we will ensure it is securely deleted or stored in a manner that prevents its further use by the business.",
   "dataRetentionText3": "If you wish to delete your account, you can do so using this [Link].",
       "cookiesSessionDataTitle": "COOKIES AND SESSION DATA",
       "cookiesTitle": "Cookies",
-      "cookiesText1": "At WorldofHostels, we use cookies to personalize your experience on our website and to display relevant advertisements. Our use of cookies is standard practice, similar to that of other reputable online platforms.",
+      "cookiesText1": "At Nivasa, we use cookies to personalize your experience on our website and to display relevant advertisements. Our use of cookies is standard practice, similar to that of other reputable online platforms.",
       "cookiesText2": "Cookies are small files stored by your browser on your device’s hard drive. They allow us to enhance your browsing experience, such as remembering your login information (only your password is required after the initial login), and delivering personalized offers or ads based on your preferences.",
       "cookiesText3": "We may also use cookies to display advertisements on third-party websites. These cookies help us track the effectiveness of our ads and show you relevant services that might interest you. Third-party advertising companies may also use technologies like pixel tags to measure the success of ads and serve you personalized offers. All information collected through these cookies is anonymous and does not link back to your personal identity.",
-      "cookiesText4": "While most browsers accept cookies by default, you can adjust your browser settings to control how cookies are handled. However, blocking cookies from WorldofHostels might impact the functionality of the website, potentially limiting your ability to enjoy a seamless booking experience. You may also opt to block cookies from specific websites while allowing cookies from trusted sources.",
+      "cookiesText4": "While most browsers accept cookies by default, you can adjust your browser settings to control how cookies are handled. However, blocking cookies from Nivasa might impact the functionality of the website, potentially limiting your ability to enjoy a seamless booking experience. You may also opt to block cookies from specific websites while allowing cookies from trusted sources.",
       "sessionDataText": "Automatic Logging of Session Data: Whenever you visit our website, certain session data is automatically logged. This includes information such as your IP address, the operating system and browser you’re using, and details about your activities on the website (e.g., pages visited, duration of visit). We use this data to understand user preferences, diagnose technical issues, and improve our website’s performance.",
       "sessionDataText2": "While session data doesn’t identify you personally, it can help us determine your Internet Service Provider (ISP) and approximate geographic location based on your IP address. This information is collected anonymously and is used to enhance your experience on the website.",
       "dataSharingTitle": "WITH WHOM YOUR PERSONAL INFORMATION IS SHARED",
@@ -297,24 +297,24 @@
       "serviceProvidersText2": "We do not sell, rent, or trade individual customer data to third parties. We only share personal information with our business partners or vendors who help us provide services, referrals, or promotional offers based on your booking history.",
       "sameGroupCompaniesTitle": "COMPANIES IN THE SAME GROUP",
       "sameGroupCompaniesText": "To improve personalization and service efficiency, we may share your personal information within our affiliate or partner companies under secure conditions...",
-      "sameGroupCompaniesText2": "If WorldofHostels is acquired by another company, your personal data may be transferred to the acquirer as part of the transaction...",
+      "sameGroupCompaniesText2": "If Nivasa is acquired by another company, your personal data may be transferred to the acquirer as part of the transaction...",
   
       
         "businessPartnersTitle": "BUSINESS PARTNERS AND THIRD-PARTY VENDORS",
-        "businessPartnersText": "We may share specific personal data with our business partners or third-party vendors to enhance your travel experience, such as offering co-branded credit cards, travel insurance, or other services that benefit WorldofHostels users. When you engage with services from our partners, those services will be governed by the partner's own privacy policies.",
+        "businessPartnersText": "We may share specific personal data with our business partners or third-party vendors to enhance your travel experience, such as offering co-branded credit cards, travel insurance, or other services that benefit Nivasa users. When you engage with services from our partners, those services will be governed by the partner's own privacy policies.",
         "businessPartnersText2": "We may also share your information with third parties we engage to handle certain tasks on our behalf, such as payment processing, data hosting, and data analysis.",
         "businessPartnersText3": "Additionally, we may use anonymous or aggregated personal data for research, statistical analysis, and reporting. This data helps us improve our services and may be shared with advertisers, suppliers, and business partners to enhance their offerings. This aggregated data does not identify you personally and is used solely for business analysis and operational improvement.",
-        "businessPartnersText4": "Occasionally, WorldofHostels may hire third parties for market research or surveys. In such cases, any information shared with these third parties is strictly used for these specific projects and protected by confidentiality agreements. They will only use the data for these purposes and in compliance with applicable regulations.",
+        "businessPartnersText4": "Occasionally, Nivasa may hire third parties for market research or surveys. In such cases, any information shared with these third parties is strictly used for these specific projects and protected by confidentiality agreements. They will only use the data for these purposes and in compliance with applicable regulations.",
         "disclosureTitle": "DISCLOSURE OF INFORMATION",
         "disclosureSubtitle": "In addition to the above, we may disclose your personal information in the following situations:",
         "disclosureList": [
           "As required by law, regulatory authorities, or court order.",
           "For internal compliance, audit purposes, or to secure our systems.",
           "To protect our rights, property, or those of our affiliates, employees, or customers, or when necessary to identify, contact, or take legal action against individuals causing harm or violating our rights.",
-          "Such disclosures may occur without your prior knowledge, and WorldofHostels will not be held liable for any damages arising from these actions."
+          "Such disclosures may occur without your prior knowledge, and Nivasa will not be held liable for any damages arising from these actions."
         ],
         "userGeneratedContentTitle": "USER-GENERATED CONTENT",
-        "userGeneratedContentText": "WorldofHostels allows users to share their experiences through reviews, ratings, and general poll questions. Users can also post questions related to the services offered on the platform or answer questions from other users. Additionally, we may contact you through third-party services to gather feedback about your recent bookings. While participation in feedback is entirely voluntary, you may receive notifications via email, SMS, WhatsApp, or in-app alerts asking you to share a review, respond to user queries, or contribute to a poll. Reviews can be written or submitted in video format, and they may also appear on other travel-related platforms.",
+        "userGeneratedContentText": "Nivasa allows users to share their experiences through reviews, ratings, and general poll questions. Users can also post questions related to the services offered on the platform or answer questions from other users. Additionally, we may contact you through third-party services to gather feedback about your recent bookings. While participation in feedback is entirely voluntary, you may receive notifications via email, SMS, WhatsApp, or in-app alerts asking you to share a review, respond to user queries, or contribute to a poll. Reviews can be written or submitted in video format, and they may also appear on other travel-related platforms.",
         "userGeneratedContentTypesTitle": "The types of User-Generated Content (UGC) we collect include:",
         "userGeneratedContentList": [
           "Reviews and Ratings",
@@ -323,25 +323,25 @@
           "Each user posting a review, rating, question, or photograph will have a profile visible to other users. Your profile will display information like the number of trips taken, reviews written, questions answered, and photos shared."
         ],
         "optingOutTitle": "OPTING OUT OF PROMOTIONAL EMAILS",
-        "optingOutText": "From time to time, you may receive promotional emails from us about special offers, discounts, new services, and updates on WorldofHostels. If you prefer not to receive these emails, simply click the 'unsubscribe' link or follow the opt-out instructions in any promotional email.",
+        "optingOutText": "From time to time, you may receive promotional emails from us about special offers, discounts, new services, and updates on Nivasa. If you prefer not to receive these emails, simply click the 'unsubscribe' link or follow the opt-out instructions in any promotional email.",
         "permissionsTitle": "PERMISSIONS REQUIRED FOR OUR MOBILE APPS",
-        "permissionsText": "When you install the WorldofHostels app on your device, we request certain permissions for the app to function optimally. You cannot customize these permissions. Below is a list of required permissions and how we use them:",
+        "permissionsText": "When you install the Nivasa app on your device, we request certain permissions for the app to function optimally. You cannot customize these permissions. Below is a list of required permissions and how we use them:",
         "androidTitle": "For Android:",
         "deviceAppHistoryTitle": "Device & App History",
         "deviceAppHistoryText": "To gather device-specific information like OS, network, hardware model, etc., to enhance your booking experience.",
 
       
   "protectionTitle": "HOW WE PROTECT YOUR PERSONAL INFORMATION",
-  "protectionText": "All transactions on WorldofHostels are secure. We use TLS (Transport Layer Security) encryption to protect your personal information during transmission. Our website has robust security measures in place to protect against unauthorized access or misuse of your data. When you update or access your account information, we offer a secure server to ensure your details are protected.",
+  "protectionText": "All transactions on Nivasa are secure. We use TLS (Transport Layer Security) encryption to protect your personal information during transmission. Our website has robust security measures in place to protect against unauthorized access or misuse of your data. When you update or access your account information, we offer a secure server to ensure your details are protected.",
   "withdrawalTitle": "WITHDRAWAL OF CONSENT AND PERMISSION",
-  "withdrawalText": "You have the right to withdraw your consent for the collection and processing of your personal information at any time. However, please note that doing so may limit your access to certain features or services on WorldofHostels. To withdraw consent, you can contact us at privacy@worldofhostels.com.",
+  "withdrawalText": "You have the right to withdraw your consent for the collection and processing of your personal information at any time. However, please note that doing so may limit your access to certain features or services on Nivasa. To withdraw consent, you can contact us at privacy@nivasa.com.",
   "rightsTitle": "YOUR RIGHTS REGARDING PERSONAL INFORMATION",
-  "rightsText": "You can access and update your personal information through your user account. If you don’t have an account, you can contact us at privacy@worldofhostels.com to request access, correction, or deletion of your information (with some mandatory fields excluded).",
-  "eligibilityTitle": "ELIGIBILITY TO TRANSACT WITH WORLDOFHOSTELS",
-  "eligibilityText": "You must be at least 18 years old to engage in transactions on WorldofHostels and to consent to the processing of your personal data.",
+  "rightsText": "You can access and update your personal information through your user account. If you don’t have an account, you can contact us at privacy@nivasa.com to request access, correction, or deletion of your information (with some mandatory fields excluded).",
+  "eligibilityTitle": "ELIGIBILITY TO TRANSACT WITH Nivasa",
+  "eligibilityText": "You must be at least 18 years old to engage in transactions on Nivasa and to consent to the processing of your personal data.",
   "policyChangesTitle": "CHANGES TO THE PRIVACY POLICY",
   "policyChangesText": "We reserve the right to update this privacy policy as needed to address legal, business, or customer requirements. We will notify users of any significant changes.",
-  "contactText": "If you have concerns or questions regarding this privacy policy, please email us at privacy@worldofhostels.com. We will make every effort to address your concerns.",
+  "contactText": "If you have concerns or questions regarding this privacy policy, please email us at privacy@nivasa.com. We will make every effort to address your concerns.",
   " permissions ": [
     { "title": "Camera", "description": "To upload photos for your profile or hotel reviews, and record videos for video reviews." },
     { "title": "Identity", "description": "To auto-fill email IDs for a seamless experience, including linking with Facebook or Google+ logins." },
@@ -382,7 +382,7 @@
 "termsTitle": "TERMS OF SERVICE",
   "effectiveDate": "Effective Date: 05, February 2025",
   "applicabilityTitle": "APPLICABILITY",
-  "applicabilityText1": "This User Agreement, along with the Terms of Service (collectively referred to as the 'User Agreement'), establishes the terms and conditions for the use of services and products offered by World of Hostel ('WoH').",
+  "applicabilityText1": "This User Agreement, along with the Terms of Service (collectively referred to as the 'User Agreement'), establishes the terms and conditions for the use of services and products offered by Nivasa ('WoH').",
   "applicabilityText2": "Any individual ('User') who inquires about or purchases any products or services from WoH through its websites, mobile applications, representatives, offices, call centers, branch offices, franchisees, or agents (collectively referred to as 'Sales Channels') agrees to be bound by this User Agreement. The websites and mobile applications of WoH are collectively referred to as the 'Website'.",
   "applicabilityText3": "Both the User and WoH are individually referred to as a 'Party' and collectively as 'Parties' under this User Agreement.",
   "applicabilityText4": "The 'Terms of Service' available on WoH's website outline the terms and conditions applicable to various services or products provided by WoH. Users must refer to the relevant Terms of Service applicable to the specific product or service they book. These Terms of Service are binding on the User.",
@@ -402,7 +402,7 @@
   "websiteUsageText4": "Access to certain Website features may only be available to registered Users. Registration may require Users to provide information, which may be personal or optional. Users represent and warrant that all provided information is true and accurate.",
   "websiteUsageText5": "WoH reserves the right to terminate access to the Website or any portion of it at any time without notice for maintenance or other reasons.",
   "websiteUsageText6": "WoH endeavors to ensure that its Website is free from viruses or malware. However, Users download or obtain data at their own risk and are solely responsible for any damage to their devices or data loss resulting from such activities.",
-  "websiteUsageText7": "WoH reserves the right to improve or modify the Website at any time without prior notice. Users may report unlawful, objectionable, or infringing content to support@worldofhostel.com. Upon receiving a report, WoH will investigate and take appropriate action.",
+  "websiteUsageText7": "WoH reserves the right to improve or modify the Website at any time without prior notice. Users may report unlawful, objectionable, or infringing content to support@nivasa.com. Upon receiving a report, WoH will investigate and take appropriate action.",
   "userResponsibilitiesTitle": "USER RESPONSIBILITIES",
   "userResponsibilitiesText1": "Users",
   "userResponsibilitiesStrong": "must not",
@@ -419,7 +419,7 @@
   "userResponsibilitiesList10": "Violates any applicable laws.",
   "reportProcedureTitle": "PROCEDURE TO REPORT OBJECTIONABLE OR INFRINGING CONTENT",
   "reportProcedureText": "Users may report unlawful, objectionable, or infringing content found on the Website or app. Complaints should be sent to",
-  "reportEmail": "legal@worldofhostel.com",
+  "reportEmail": "legal@nivasa.com",
   "reportContentDescriptionEnd": " and must include:",
   "reportContentList1": "A clear identification of the violation.",
   "reportContentList2": "The location of the material on the Website (including a link if applicable).",
@@ -428,7 +428,7 @@
   "reportConsent": "By submitting a complaint, the complainant consents to WoH sharing complaint details with relevant third parties, including the accused parties, for evaluation.",
   "reportReview": "WoH will review complaints within the timeframe prescribed by applicable law. Users must provide all necessary information to facilitate the investigation. WoH shall not be liable for any action or omission in response to a complaint, nor does it guarantee specific outcomes for reported issues. All rights of WoH in such matters are fully reserved.",
   "travelAgentBookingsTitle": "BOOKINGS BY TRAVEL AGENTS",
-  "travelAgentRestrictions": "Except with prior registration as a B2B agent, priority partner, or franchisee with World of Hostel ('WoH') and explicit permission to use the Website for commercial purposes, all travel agents, tour operators, consolidators, or aggregators (collectively referred to as 'Travel Agents') are strictly prohibited from using the Website for any commercial or resale purpose.",
+  "travelAgentRestrictions": "Except with prior registration as a B2B agent, priority partner, or franchisee with Nivasa ('WoH') and explicit permission to use the Website for commercial purposes, all travel agents, tour operators, consolidators, or aggregators (collectively referred to as 'Travel Agents') are strictly prohibited from using the Website for any commercial or resale purpose.",
   "travelAgentConsequences": "If such unauthorized bookings are detected, WoH reserves the right, without limitation, to immediately cancel all such bookings without prior notice, withhold payments, or deny any refunds. WoH shall not be liable for any incidental loss or damage arising from such bookings. The liability for any cancellations shall solely rest with the Travel Agents.",
   "travelAgentDiscounts": "All discounts and offers displayed on the Website are exclusively for individual Users making legitimate bookings and are not applicable to Travel Agents unless explicitly stated.",
   "wohLiabilityTitle": "LIMITED LIABILITY OF WOH",
@@ -465,53 +465,53 @@
     "Refunds on canceled bookings will be credited to the original payment method used by the User. Cancellation policies will be as specified on the booking page or as communicated in writing.",
     "WoH offers multiple payment options, including UPI, credit/debit cards, net banking, wallets, and EMI facilities."
   ],
-  "mobileNumberUsageTitle": "USAGE OF THE MOBILE NUMBER & COMMUNICATION DETAILS BY WORLD OF HOSTEL",
+  "mobileNumberUsageTitle": "USAGE OF THE MOBILE NUMBER & COMMUNICATION DETAILS BY Nivasa",
   "mobileNumberUsagePoints": [
-    "World of Hostel will send booking confirmations, itinerary details, cancellations, payment confirmations, refund statuses, schedule changes, or any other relevant transaction-related information to the User via SMS, internet-based messaging applications like WhatsApp, voice calls, emails, or any other alternate communication method provided by the User at the time of booking.",
-    "World of Hostel may also contact the User through these channels for any pending or failed bookings to facilitate completion and assist the User accordingly."
+    "Nivasa will send booking confirmations, itinerary details, cancellations, payment confirmations, refund statuses, schedule changes, or any other relevant transaction-related information to the User via SMS, internet-based messaging applications like WhatsApp, voice calls, emails, or any other alternate communication method provided by the User at the time of booking.",
+    "Nivasa may also contact the User through these channels for any pending or failed bookings to facilitate completion and assist the User accordingly."
   ],
   "communicationConsent": "The User unconditionally consents to such communications via SMS, WhatsApp, voice calls, emails, or any other mode, acknowledging that they are:",
   "communicationRequest": "Based on the User’s request and authorization;",
   "communicationTransactional": "Transactional in nature and not unsolicited commercial communication;",
   "communicationCompliance": "Compliant with relevant regulatory guidelines.",
-  "communicationIndemnity": "The User indemnifies World of Hostel against any losses or damages incurred due to actions taken by regulatory authorities arising from complaints related to the above communications, including errors in the contact details provided by the User.",
+  "communicationIndemnity": "The User indemnifies Nivasa against any losses or damages incurred due to actions taken by regulatory authorities arising from complaints related to the above communications, including errors in the contact details provided by the User.",
   "insuranceTitle": "INSURANCE",
-  "insuranceResponsibility": "Unless explicitly offered by World of Hostel as part of a service or booking, obtaining travel insurance is the sole responsibility of the User. World of Hostel will not accept claims related to any issues arising from the lack of sufficient insurance coverage.",
-  "insuranceClaims": "If insurance is provided as part of a booking, it will be governed by the terms and conditions of the respective third-party insurance provider. World of Hostel acts only as a facilitator, and any claims or disputes must be addressed directly with the insurance company. World of Hostel will not be responsible for any partial or full denial of claims.",
+  "insuranceResponsibility": "Unless explicitly offered by Nivasa as part of a service or booking, obtaining travel insurance is the sole responsibility of the User. Nivasa will not accept claims related to any issues arising from the lack of sufficient insurance coverage.",
+  "insuranceClaims": "If insurance is provided as part of a booking, it will be governed by the terms and conditions of the respective third-party insurance provider. Nivasa acts only as a facilitator, and any claims or disputes must be addressed directly with the insurance company. Nivasa will not be responsible for any partial or full denial of claims.",
   "visaObligationTitle": "VISA OBLIGATION",
-  "visaResponsibility": "Users making international bookings through World of Hostel are solely responsible for obtaining any necessary visas, including transit visas or other travel authorizations required by the destination country or transit countries.",
-  "visaLiability": "World of Hostel is not liable for any issues, including travel restrictions or denied entry, resulting from visa-related complications. Refunds, if applicable, will be processed as per the booking and cancellation policies of the respective service providers.",
+  "visaResponsibility": "Users making international bookings through Nivasa are solely responsible for obtaining any necessary visas, including transit visas or other travel authorizations required by the destination country or transit countries.",
+  "visaLiability": "Nivasa is not liable for any issues, including travel restrictions or denied entry, resulting from visa-related complications. Refunds, if applicable, will be processed as per the booking and cancellation policies of the respective service providers.",
   "forceMajeureTitle": "FORCE MAJEURE",
-  "forceMajeureDescription1": "In exceptional circumstances, World of Hostel and/or its service providers may be unable to fulfill confirmed bookings due to events beyond reasonable control, including but not limited to natural disasters, labor unrest, insolvency, government regulations, pandemics, terrorist activities, operational disruptions, or technical failures.",
-  "forceMajeureDescription2": "If prior knowledge of such an event is available, World of Hostel will make its best effort to provide alternative options or refunds where applicable. However, as a facilitator, World of Hostel is not liable for any losses incurred due to Force Majeure events. The User must seek resolution directly from the respective service providers.",
+  "forceMajeureDescription1": "In exceptional circumstances, Nivasa and/or its service providers may be unable to fulfill confirmed bookings due to events beyond reasonable control, including but not limited to natural disasters, labor unrest, insolvency, government regulations, pandemics, terrorist activities, operational disruptions, or technical failures.",
+  "forceMajeureDescription2": "If prior knowledge of such an event is available, Nivasa will make its best effort to provide alternative options or refunds where applicable. However, as a facilitator, Nivasa is not liable for any losses incurred due to Force Majeure events. The User must seek resolution directly from the respective service providers.",
   "thirdPartyTitle": "ADVERTISERS & THIRD-PARTY LINKS",
-  "thirdPartyDescription1": "World of Hostel’s website may contain links to third-party websites. These are not controlled by World of Hostel, and the company is not responsible for their content, accuracy, or reliability. Accessing such third-party websites is at the User’s own risk.",
-  "thirdPartyDescription2": "World of Hostel does not endorse any advertisers or linked sites and will not be held liable for any losses or damages resulting from reliance on third-party content.",
+  "thirdPartyDescription1": "Nivasa’s website may contain links to third-party websites. These are not controlled by Nivasa, and the company is not responsible for their content, accuracy, or reliability. Accessing such third-party websites is at the User’s own risk.",
+  "thirdPartyDescription2": "Nivasa does not endorse any advertisers or linked sites and will not be held liable for any losses or damages resulting from reliance on third-party content.",
   "rightToRefuseTitle": "RIGHT TO REFUSE SERVICE",
-  "rightToRefuseDescription": "World of Hostel reserves the right to decline any booking at its sole discretion without obligation to provide a reason.",
+  "rightToRefuseDescription": "Nivasa reserves the right to decline any booking at its sole discretion without obligation to provide a reason.",
   "accountTerminationTitle": "The company may suspend or terminate a User’s account if:",
   "accountTerminationBreach": "The User breaches any terms of this agreement;",
   "accountTerminationMisleadingInfo": "The User provides inaccurate, misleading, or unverifiable information;",
   "accountTerminationFraud": "The User engages in fraudulent or unlawful activities.",
   "serviceRefusal": "Service providers may also refuse service to Users based on health concerns, safety reasons, behavioral issues, or government-mandated travel restrictions. In such cases, any claims, refunds, or damages shall be handled solely between the User and the service provider.",
   "cancellationPolicyTitle": "CANCELLATION POLICY",
-  "cancellationPolicyInfo": "Users must provide accurate and valid information when booking through World of Hostel. If any misrepresentation is detected, World of Hostel reserves the right to cancel the booking without prior notice.",
-  "cancellationPolicyLiability": "If a booking is canceled by regulatory authorities, service providers, or due to suspected fraudulent activity, World of Hostel will not be liable for any resultant losses. Refunds, if applicable, will be processed as per the respective cancellation policies.",
+  "cancellationPolicyInfo": "Users must provide accurate and valid information when booking through Nivasa. If any misrepresentation is detected, Nivasa reserves the right to cancel the booking without prior notice.",
+  "cancellationPolicyLiability": "If a booking is canceled by regulatory authorities, service providers, or due to suspected fraudulent activity, Nivasa will not be liable for any resultant losses. Refunds, if applicable, will be processed as per the respective cancellation policies.",
   "fraudPreventionTitle": "FRAUD PREVENTION & SECURITY",
-  "fraudPreventionInfo": "World of Hostel’s representatives will never request sensitive personal information such as credit/debit card details, passwords, or OTPs. Users should report any suspicious activity immediately.",
+  "fraudPreventionInfo": "Nivasa’s representatives will never request sensitive personal information such as credit/debit card details, passwords, or OTPs. Users should report any suspicious activity immediately.",
   "indemnityTitle": "FRAUD PREVENTION & SECURITY",
-  "indemnityAgreement": "The User agrees to indemnify and hold harmless World of Hostel, its affiliates, and representatives against any claims, liabilities, or losses arising from:",
+  "indemnityAgreement": "The User agrees to indemnify and hold harmless Nivasa, its affiliates, and representatives against any claims, liabilities, or losses arising from:",
   "indemnityBreach": "Breach of any representation or obligation by the User;",
   "indemnityLawViolation": "Violations of applicable laws or regulations;",
   "indemnityMisuse": "Misuse of the platform or fraudulent activities.",
   "covidPoliciesTitle": "COVID-19 RELATED POLICIES",
   "covidPoliciesInfo": "Due to the ongoing impact of COVID-19, service providers may cancel or refuse service to Users based on health and safety guidelines. Refunds, if applicable, will be processed according to the policies of the service provider.",
   "covidCompliance": "Users are responsible for complying with all government-mandated health advisories, including providing necessary health declarations, downloading government-specified applications, and adhering to safety protocols during travel.",
-  "covidTerms": "These terms are designed to ensure a smooth booking experience for all Users of World of Hostel. By using our services, you acknowledge and agree to these policies.",
-   "upiTermsTitle": "WorldofHostel UPI Terms & Conditions",
-  "upiTpapInfo": "WorldofHostel as a Third-Party Application Provider (TPAP) under UPI",
-  "upiProviderDetails": "WorldofHostel is a TPAP authorized by NPCI to facilitate UPI payments through its partner PSP banks, ICICI Bank and IndusInd Bank. As a TPAP, WorldofHostel enables customers to use UPI services while ensuring compliance with NPCI’s regulations.",
-  "upiSupport": "In accordance with agreements between WorldofHostel, ICICI Bank, IndusInd Bank, and NPCI, WorldofHostel provides first-level support for customer grievances related to UPI transactions. If a complaint remains unresolved, users may escalate it to their PSP Bank, their linked bank account provider, NPCI, and ultimately the Banking Ombudsman or the Ombudsman for Digital Complaints.",
+  "covidTerms": "These terms are designed to ensure a smooth booking experience for all Users of Nivasa. By using our services, you acknowledge and agree to these policies.",
+   "upiTermsTitle": "Nivasa UPI Terms & Conditions",
+  "upiTpapInfo": "Nivasa as a Third-Party Application Provider (TPAP) under UPI",
+  "upiProviderDetails": "Nivasa is a TPAP authorized by NPCI to facilitate UPI payments through its partner PSP banks, ICICI Bank and IndusInd Bank. As a TPAP, Nivasa enables customers to use UPI services while ensuring compliance with NPCI’s regulations.",
+  "upiSupport": "In accordance with agreements between Nivasa, ICICI Bank, IndusInd Bank, and NPCI, Nivasa provides first-level support for customer grievances related to UPI transactions. If a complaint remains unresolved, users may escalate it to their PSP Bank, their linked bank account provider, NPCI, and ultimately the Banking Ombudsman or the Ombudsman for Digital Complaints.",
   "faqsTitle": "Frequently Asked Questions (FAQs)",
   "npcQuestion": "What is NPCI?",
   "npcAnswer": "The National Payments Corporation of India (NPCI) is an entity authorized by the Reserve Bank of India (RBI) that operates and regulates the UPI payment system.",
@@ -532,20 +532,20 @@
   "pspPoint2": "Ensures compliance with security protocols and transaction integrity.",
   "pspPoint3": "Conducts audits of TPAPs.",
   "pspPoint4": "Manages dispute resolution mechanisms for UPI-related complaints.",
-  "tpapTitle": "TPAP’s Responsibilities (WorldofHostel):",
+  "tpapTitle": "TPAP’s Responsibilities (Nivasa):",
   "tpapPoint1": "Provides a UPI-compliant platform for transactions in partnership with PSP Banks.",
   "tpapPoint2": "Ensures adherence to security and data protection standards.",
   "tpapPoint3": "Stores UPI transaction data exclusively in India.",
   "tpapPoint4": "Offers a structured grievance redressal mechanism.",
     "disputetitle": "Dispute Redressal Mechanism",
-    "description": "Users can raise UPI-related complaints through the WorldofHostel app, the respective PSP Bank, or NPCI.",
+    "description": "Users can raise UPI-related complaints through the Nivasa app, the respective PSP Bank, or NPCI.",
     "escalationProcessTitle": "Complaint Escalation Process:",
     "escalationSteps": [
       {
-        "textstepmain": "File a complaint through the WorldofHostel app or contact the associated PSP Bank.",
+        "textstepmain": "File a complaint through the Nivasa app or contact the associated PSP Bank.",
         "link": {
-          "url": "https://worldofhostel.com/support",
-          "text": "WorldofHostel Support"
+          "url": "https://nivasa.com/support",
+          "text": "Nivasa Support"
         }
       },
       {
@@ -587,11 +587,11 @@
         },
         {
           "title": "Amendments",
-          "description": "WorldofHostel may update these terms as necessary."
+          "description": "Nivasa may update these terms as necessary."
         },
         {
           "title": "Confidentiality",
-          "description": "Users must maintain the confidentiality of any sensitive information shared by WorldofHostel."
+          "description": "Users must maintain the confidentiality of any sensitive information shared by Nivasa."
         },
         {
           "title": "Feedback",
@@ -599,7 +599,7 @@
         },
         {
           "title": "Privacy Policy",
-          "description": "Refer to the WorldofHostel Privacy Policy available on our website."
+          "description": "Refer to the Nivasa Privacy Policy available on our website."
         }
       ],
         "grievanceRedressalContact": {
@@ -615,10 +615,10 @@
             }
           ]
         },
-        "roleOfWorldOfHostelHotelsAndLimitationOfLiability": {
-          "title": "ROLE OF WORLD OF HOSTEL HOTELS AND LIMITATION OF LIABILITY",
+        "roleOfNivasaHotelsAndLimitationOfLiability": {
+          "title": "ROLE OF Nivasa HOTELS AND LIMITATION OF LIABILITY",
           "content": [
-            "World of Hostel Hotels (WOH Hotels) acts solely as a facilitator, providing an online platform for users to select and book various accommodations, including hotels, hostels, home-stays, bed and breakfast establishments, farmhouses, and other alternative lodging options.",
+            "Nivasa Hotels (WOH Hotels) acts solely as a facilitator, providing an online platform for users to select and book various accommodations, including hotels, hostels, home-stays, bed and breakfast establishments, farmhouses, and other alternative lodging options.",
             "All information regarding accommodations, including hotel classification, images, room types, amenities, and available facilities, is provided by the respective establishments. This information is for reference only. Any discrepancies between website images and actual hotel conditions must be addressed directly with the hotel. WOH Hotels holds no responsibility for such discrepancies and will not be liable for any resolution process between the user and the hotel."
           ]
         },
@@ -652,21 +652,21 @@
         },
         "specialOffersAndCoupons": {
           "specialOffers":"SPECIAL OFFERS AND COUPONS",
-          "title": "The following terms apply to any coupons provided by World of Hostel:",
+          "title": "The following terms apply to any coupons provided by Nivasa:",
           "points": [
-            "World of Hostel’s responsibility is limited to issuing the coupon upon receipt of payment from the User.",
+            "Nivasa’s responsibility is limited to issuing the coupon upon receipt of payment from the User.",
             "The redemption of the coupon is solely the User’s responsibility, and the Activity Provider is responsible for delivering the service.",
             "Coupons have a stated expiry date and cannot be used beyond that date.",
             "Coupons are non-redeemable for cash.",
             "Once purchased, coupons cannot be refunded or canceled."
           ],
-          "disputeInfo": "For any disputes or clarifications, Users are encouraged to directly communicate with the Activity Provider or contact World of Hostel for assistance within the scope of its facilitation role."
+          "disputeInfo": "For any disputes or clarifications, Users are encouraged to directly communicate with the Activity Provider or contact Nivasa for assistance within the scope of its facilitation role."
         },
         "responsibilitiesOfTheUsers": {
           "title": "RESPONSIBILITIES OF THE USERS",
           "points": [
-            "Users must comply with the terms and conditions of both the Activity Provider and World of Hostel.",
-            "Users must present a valid booking/confirmation voucher issued by World of Hostel to avail of the Activity.",
+            "Users must comply with the terms and conditions of both the Activity Provider and Nivasa.",
+            "Users must present a valid booking/confirmation voucher issued by Nivasa to avail of the Activity.",
             "Users must carry appropriate identification documents, including but not limited to an identity proof, address proof, or passport (for international Activities), as specified by the Activity Provider.",
             "Users may be required to sign waivers, consent forms, safety declarations, medical statements, or other documents before participating in an Activity, as mandated by the Activity Provider.",
             "Users must address any concerns directly with the Activity Provider after confirmation of their reservation.",
@@ -677,18 +677,18 @@
           "title": "PAYMENTS, BOOKINGS, AND CANCELLATIONS",
           "points": [
             "Reservations are subject to the cancellation and refund policies of the respective Activity Provider, which may vary.",
-            "World of Hostel may charge applicable taxes, service fees, or convenience fees where applicable."
+            "Nivasa may charge applicable taxes, service fees, or convenience fees where applicable."
           ]
         },
-        "worldOfHostelLiability": {
-          "title": "World of Hostel shall not be responsible for:",
+        "NivasaLiability": {
+          "title": "Nivasa shall not be responsible for:",
           "points": [
             "Any damage, loss, injury, accident, death, breakdown, schedule changes, cancellations without cause, inaccurate information, or service deficiencies caused by the Activity Provider.",
             "The health, safety, or well-being of the User during or after availing of the Activity.",
             "Any additional services purchased directly by the User from the Activity Provider.",
             "Any incorrect or misleading information provided by the Activity Provider."
           ],
-          "note": "The maximum liability of World of Hostel is limited to refunding the booking amount received for the reserved Activity."
+          "note": "The maximum liability of Nivasa is limited to refunding the booking amount received for the reserved Activity."
         },
         
         "payments": {
@@ -697,17 +697,17 @@
           "acknowledgement": "By using WOH Hotels' services, users acknowledge and agree to the above terms and conditions."
         },
         "activities": {
-          "title": "WORLD OF HOSTEL - ACTIVITIES AND OTHER SERVICES"
+          "title": "Nivasa - ACTIVITIES AND OTHER SERVICES"
         },
         "definitions": {
           "title": "DEFINITIONS",
-          "activityDefinition": "'Activity' refers to any service or experience booked through the World of Hostel platform, including but not limited to day tours, sightseeing, spa & wellness, adventure sports, cruises, theme/amusement parks, buffets, dining experiences, or any other listed activity.",
+          "activityDefinition": "'Activity' refers to any service or experience booked through the Nivasa platform, including but not limited to day tours, sightseeing, spa & wellness, adventure sports, cruises, theme/amusement parks, buffets, dining experiences, or any other listed activity.",
           "activityProviderDefinition": "The entity providing the Activity shall be referred to as the 'Activity Provider,' who is solely responsible for delivering the booked service or product to the User."
         },
         "liability": {
-          "title": "ROLE OF WORLD OF HOSTEL AND LIMITATION OF LIABILITY",
-          "facilitatorRole": "World of Hostel acts solely as a facilitator, enabling Users to book Activities through its platform. The actual transaction and service fulfillment occur between the User and the Activity Provider.",
-          "noPickupService": "World of Hostel does not provide pick-up or drop-off services for any Activity unless explicitly mentioned in the booking confirmation."
+          "title": "ROLE OF Nivasa AND LIMITATION OF LIABILITY",
+          "facilitatorRole": "Nivasa acts solely as a facilitator, enabling Users to book Activities through its platform. The actual transaction and service fulfillment occur between the User and the Activity Provider.",
+          "noPickupService": "Nivasa does not provide pick-up or drop-off services for any Activity unless explicitly mentioned in the booking confirmation."
         },
         "paymentteem" : [
           {
@@ -726,3 +726,4 @@
       }
   }
   
+

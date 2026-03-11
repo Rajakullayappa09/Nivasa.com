@@ -101,7 +101,7 @@ const Booking = () => {
       checkout_date: toDate,
       total_guests: totalguests,
       no_of_kids: 0,
-      booking_source: "WorldOfHostels",
+      booking_source: "Nivasa",
       booking_commission: 0,
       count_of_accommodation: 1,
       accommodation_ids: [accommodation_id],

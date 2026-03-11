@@ -16,10 +16,10 @@ const TermsOfService = () => {
 
     const escalationSteps = languageLabels?.termsOfService?.escalationSteps || [
         {
-          textstepmain: "File a complaint through the WorldofHostel app or contact the associated PSP Bank.",
+          textstepmain: "File a complaint through the Nivasa app or contact the associated PSP Bank.",
           link: {
-            url: "https://worldofhostel.com/support",
-            text: "WorldofHostel Support",
+            url: "https://nivasa.com/support",
+            text: "Nivasa Support",
           },
         },
         {
@@ -61,12 +61,12 @@ const TermsOfService = () => {
         },
         {
           title: "Amendments",
-          description: "WorldofHostel may update these terms as necessary.",
+          description: "Nivasa may update these terms as necessary.",
         },
         {
           title: "Confidentiality",
           description:
-            "Users must maintain the confidentiality of any sensitive information shared by WorldofHostel.",
+            "Users must maintain the confidentiality of any sensitive information shared by Nivasa.",
         },
         {
           title: "Feedback",
@@ -75,7 +75,7 @@ const TermsOfService = () => {
         {
           title: "Privacy Policy",
           description:
-            "Refer to the WorldofHostel Privacy Policy available on our website.",
+            "Refer to the Nivasa Privacy Policy available on our website.",
         },
       ];
 
@@ -165,7 +165,7 @@ const TermsOfService = () => {
         </h3>
         <p style={styles.paragraph}>
           {languageLabels?.termsOfService?.applicabilityText1 ||
-            "This User Agreement, along with the Terms of Service (collectively referred to as the 'User Agreement'), establishes the terms and conditions for the use of services and products offered by World of Hostel ('WoH')."}
+            "This User Agreement, along with the Terms of Service (collectively referred to as the 'User Agreement'), establishes the terms and conditions for the use of services and products offered by Nivasa ('WoH')."}
         </p>
         <p style={styles.paragraph}>
           {languageLabels?.termsOfService?.applicabilityText2 ||
@@ -271,7 +271,7 @@ const TermsOfService = () => {
 
 <p style={styles.paragraph}>
   {languageLabels?.termsOfService?.websiteUsageText7 ||
-    "WoH reserves the right to improve or modify the Website at any time without prior notice. Users may report unlawful, objectionable, or infringing content to support@worldofhostel.com. Upon receiving a report, WoH will investigate and take appropriate action."}
+    "WoH reserves the right to improve or modify the Website at any time without prior notice. Users may report unlawful, objectionable, or infringing content to support@nivasa.com. Upon receiving a report, WoH will investigate and take appropriate action."}
 </p>
 
  
@@ -306,8 +306,8 @@ const TermsOfService = () => {
             <p style={styles.paragraph}>
                 {languageLabels?.termsOfService?.reportProcedureText ||
                     "Users may report unlawful, objectionable, or infringing content found on the Website or app. Complaints should be sent to "}
-                <a href="mailto:legal@worldofhostel.com" className="text-blue-600 underline">
-                    legal@worldofhostel.com
+                <a href="mailto:legal@nivasa.com" className="text-blue-600 underline">
+                    legal@nivasa.com
                 </a>{" "}
                 {languageLabels?.termsOfService?.reportContentDescriptionEnd || " and must include:"}
             </p>
@@ -331,7 +331,7 @@ const TermsOfService = () => {
             </h3>
             <p style={styles.paragraph}>
                 {languageLabels?.termsOfService?.travelAgentRestrictions ||
-                    "Except with prior registration as a B2B agent, priority partner, or franchisee with World of Hostel (“WoH”) and explicit permission to use the Website for commercial purposes, all travel agents, tour operators, consolidators, or aggregators (collectively referred to as “Travel Agents”) are strictly prohibited from using the Website for any commercial or resale purpose. If such unauthorized bookings are detected, WoH reserves the right, without limitation, to immediately cancel all such bookings without prior notice, withhold payments, or deny any refunds. WoH shall not be liable for any incidental loss or damage arising from such bookings. The liability for any cancellations shall solely rest with the Travel Agents."}
+                    "Except with prior registration as a B2B agent, priority partner, or franchisee with Nivasa (\"WoH\") and explicit permission to use the Website for commercial purposes, all travel agents, tour operators, consolidators, or aggregators (collectively referred to as \"Travel Agents\") are strictly prohibited from using the Website for any commercial or resale purpose. If such unauthorized bookings are detected, WoH reserves the right, without limitation, to immediately cancel all such bookings without prior notice, withhold payments, or deny any refunds. WoH shall not be liable for any incidental loss or damage arising from such bookings. The liability for any cancellations shall solely rest with the Travel Agents."}
             </p>
             <p style={styles.paragraph}>
                 {languageLabels?.termsOfService?.travelAgentDiscounts ||
@@ -396,7 +396,7 @@ const TermsOfService = () => {
 ))}
 
 <h3 style={styles.heading}>
-    {languageLabels?.termsOfService?.mobileNumberUsageTitle || "USO DEL NÚMERO DE TELÉFONO MÓVIL Y DETALLES DE COMUNICACIÓN POR WORLD OF HOSTEL"}
+    {languageLabels?.termsOfService?.mobileNumberUsageTitle || "USO DEL NÚMERO DE TELÉFONO MÓVIL Y DETALLES DE COMUNICACIÓN POR NIVASA"}
 </h3>
 {(languageLabels?.termsOfService?.mobileNumberUsagePoints || []).map((point, index) => (
     <p key={index} style={styles.paragraph}>{point}</p>
@@ -412,7 +412,7 @@ const TermsOfService = () => {
 </ul>
 
 <p style={styles.paragraph}>
-  {languageLabels?.termsOfService?.communicationIndemnity || "The User indemnifies World of Hostel against any losses or damages incurred due to actions taken by regulatory authorities arising from complaints related to the above communications, including errors in the contact details provided by the User."}
+  {languageLabels?.termsOfService?.communicationIndemnity || "The User indemnifies Nivasa against any losses or damages incurred due to actions taken by regulatory authorities arising from complaints related to the above communications, including errors in the contact details provided by the User."}
 </p>
 
 <h3 style={styles.heading}>
@@ -420,11 +420,11 @@ const TermsOfService = () => {
 </h3>
 
 <p style={styles.paragraph}>
-  {languageLabels?.termsOfService?.insuranceResponsibility || "Unless explicitly offered by World of Hostel as part of a service or booking, obtaining travel insurance is the sole responsibility of the User. World of Hostel will not accept claims related to any issues arising from the lack of sufficient insurance coverage."}
+  {languageLabels?.termsOfService?.insuranceResponsibility || "Unless explicitly offered by Nivasa as part of a service or booking, obtaining travel insurance is the sole responsibility of the User. Nivasa will not accept claims related to any issues arising from the lack of sufficient insurance coverage."}
 </p>
 
 <p style={styles.paragraph}>
-  {languageLabels?.termsOfService?.insuranceClaims || "If insurance is provided as part of a booking, it will be governed by the terms and conditions of the respective third-party insurance provider. World of Hostel acts only as a facilitator, and any claims or disputes must be addressed directly with the insurance company. World of Hostel will not be responsible for any partial or full denial of claims."}
+  {languageLabels?.termsOfService?.insuranceClaims || "If insurance is provided as part of a booking, it will be governed by the terms and conditions of the respective third-party insurance provider. Nivasa acts only as a facilitator, and any claims or disputes must be addressed directly with the insurance company. Nivasa will not be responsible for any partial or full denial of claims."}
 </p>
 
 <h3 style={styles.heading}>
@@ -432,11 +432,11 @@ const TermsOfService = () => {
 </h3>
 
 <p style={styles.paragraph}>
-  {languageLabels?.termsOfService?.visaResponsibility || "Users making international bookings through World of Hostel are solely responsible for obtaining any necessary visas, including transit visas or other travel authorizations required by the destination country or transit countries."}
+  {languageLabels?.termsOfService?.visaResponsibility || "Users making international bookings through Nivasa are solely responsible for obtaining any necessary visas, including transit visas or other travel authorizations required by the destination country or transit countries."}
 </p>
 
 <p style={styles.paragraph}>
-  {languageLabels?.termsOfService?.visaLiability || "World of Hostel is not liable for any issues, including travel restrictions or denied entry, resulting from visa-related complications. Refunds, if applicable, will be processed as per the booking and cancellation policies of the respective service providers."}
+  {languageLabels?.termsOfService?.visaLiability || "Nivasa is not liable for any issues, including travel restrictions or denied entry, resulting from visa-related complications. Refunds, if applicable, will be processed as per the booking and cancellation policies of the respective service providers."}
 </p>
 
 <h3 style={styles.heading}>
@@ -445,12 +445,12 @@ const TermsOfService = () => {
 
 <p style={styles.paragraph}>
   {languageLabels?.termsOfService?.forceMajeureDescription1 || 
-    "In exceptional circumstances, World of Hostel and/or its service providers may be unable to fulfill confirmed bookings due to events beyond reasonable control, including but not limited to natural disasters, labor unrest, insolvency, government regulations, pandemics, terrorist activities, operational disruptions, or technical failures."}
+    "In exceptional circumstances, Nivasa and/or its service providers may be unable to fulfill confirmed bookings due to events beyond reasonable control, including but not limited to natural disasters, labor unrest, insolvency, government regulations, pandemics, terrorist activities, operational disruptions, or technical failures."}
 </p>
 
 <p style={styles.paragraph}>
   {languageLabels?.termsOfService?.forceMajeureDescription2 || 
-    "If prior knowledge of such an event is available, World of Hostel will make its best effort to provide alternative options or refunds where applicable. However, as a facilitator, World of Hostel is not liable for any losses incurred due to Force Majeure events. The User must seek resolution directly from the respective service providers."}
+    "If prior knowledge of such an event is available, Nivasa will make its best effort to provide alternative options or refunds where applicable. However, as a facilitator, Nivasa is not liable for any losses incurred due to Force Majeure events. The User must seek resolution directly from the respective service providers."}
 </p>
 
 <h3 style={styles.heading}>
@@ -459,12 +459,12 @@ const TermsOfService = () => {
 
 <p style={styles.paragraph}>
   {languageLabels?.termsOfService?.thirdPartyDescription1 || 
-    "World of Hostel’s website may contain links to third-party websites. These are not controlled by World of Hostel, and the company is not responsible for their content, accuracy, or reliability. Accessing such third-party websites is at the User’s own risk."}
+    "Nivasa's website may contain links to third-party websites. These are not controlled by Nivasa, and the company is not responsible for their content, accuracy, or reliability. Accessing such third-party websites is at the User's own risk."}
 </p>
 
 <p style={styles.paragraph}>
   {languageLabels?.termsOfService?.thirdPartyDescription2 || 
-    "World of Hostel does not endorse any advertisers or linked sites and will not be held liable for any losses or damages resulting from reliance on third-party content."}
+    "Nivasa does not endorse any advertisers or linked sites and will not be held liable for any losses or damages resulting from reliance on third-party content."}
 </p>
 
 <h3 style={styles.heading}>
@@ -473,7 +473,7 @@ const TermsOfService = () => {
 
 <p style={styles.paragraph}>
   {languageLabels?.termsOfService?.rightToRefuseDescription || 
-    "World of Hostel reserves the right to decline any booking at its sole discretion without obligation to provide a reason."}
+    "Nivasa reserves the right to decline any booking at its sole discretion without obligation to provide a reason."}
 </p>
 <h5 style={{
   fontSize: "16px",
@@ -505,12 +505,12 @@ const TermsOfService = () => {
 
 <p style={styles.paragraph}>
   {languageLabels?.termsOfService?.cancellationPolicyInfo || 
-    "Users must provide accurate and valid information when booking through World of Hostel. If any misrepresentation is detected, World of Hostel reserves the right to cancel the booking without prior notice."}
+    "Users must provide accurate and valid information when booking through Nivasa. If any misrepresentation is detected, Nivasa reserves the right to cancel the booking without prior notice."}
 </p>
 
 <p style={styles.paragraph}>
   {languageLabels?.termsOfService?.cancellationPolicyLiability || 
-    "If a booking is canceled by regulatory authorities, service providers, or due to suspected fraudulent activity, World of Hostel will not be liable for any resultant losses. Refunds, if applicable, will be processed as per the respective cancellation policies."}
+    "If a booking is canceled by regulatory authorities, service providers, or due to suspected fraudulent activity, Nivasa will not be liable for any resultant losses. Refunds, if applicable, will be processed as per the respective cancellation policies."}
 </p>
 <h3 style={styles.heading}>
   {languageLabels?.termsOfService?.fraudPreventionTitle || "FRAUD PREVENTION & SECURITY"}
@@ -524,7 +524,7 @@ const TermsOfService = () => {
   width: '100%'
 }}>
   {languageLabels?.termsOfService?.fraudPreventionInfo || 
-  "World of Hostel’s representatives will never request sensitive personal information such as credit/debit card details, passwords, or OTPs. Users should report any suspicious activity immediately."}
+  "Nivasa's representatives will never request sensitive personal information such as credit/debit card details, passwords, or OTPs. Users should report any suspicious activity immediately."}
 </p>
 
 <h3 style={styles.heading}>
@@ -538,7 +538,7 @@ const TermsOfService = () => {
   width: '100%'
 }}>
   {languageLabels?.termsOfService?.indemnityAgreement || 
-  "The User agrees to indemnify and hold harmless World of Hostel, its affiliates, and representatives against any claims, liabilities, or losses arising from:"}
+  "The User agrees to indemnify and hold harmless Nivasa, its affiliates, and representatives against any claims, liabilities, or losses arising from:"}
 </h5>
 
 <ul style={styles.paragraph}>
@@ -571,26 +571,26 @@ const TermsOfService = () => {
 
 <p style={styles.paragraph}>
   {languageLabels?.termsOfService?.covidTerms || 
-  "These terms are designed to ensure a smooth booking experience for all Users of World of Hostel. By using our services, you acknowledge and agree to these policies."}
+  "These terms are designed to ensure a smooth booking experience for all Users of Nivasa. By using our services, you acknowledge and agree to these policies."}
 </p>
 
 <p style={styles.paragraph}>
-  {languageLabels?.termsOfService?.upiTermsTitle || "WorldofHostel UPI Terms & Conditions"}
+  {languageLabels?.termsOfService?.upiTermsTitle || "Nivasa UPI Terms & Conditions"}
 </p>
 
 <p style={styles.paragraph}>
   {languageLabels?.termsOfService?.upiTpapInfo || 
-  "WorldofHostel as a Third-Party Application Provider (TPAP) under UPI"}
+  "Nivasa as a Third-Party Application Provider (TPAP) under UPI"}
 </p>
 
 <p style={styles.paragraph}>
   {languageLabels?.termsOfService?.upiProviderDetails || 
-  "WorldofHostel is a TPAP authorized by NPCI to facilitate UPI payments through its partner PSP banks, ICICI Bank and IndusInd Bank. As a TPAP, WorldofHostel enables customers to use UPI services while ensuring compliance with NPCI’s regulations."}
+  "Nivasa is a TPAP authorized by NPCI to facilitate UPI payments through its partner PSP banks, ICICI Bank and IndusInd Bank. As a TPAP, Nivasa enables customers to use UPI services while ensuring compliance with NPCI's regulations."}
 </p>
 
 <p style={styles.paragraph}>
   {languageLabels?.termsOfService?.upiSupport || 
-  "In accordance with agreements between WorldofHostel, ICICI Bank, IndusInd Bank, and NPCI, WorldofHostel provides first-level support for customer grievances related to UPI transactions. If a complaint remains unresolved, users may escalate it to their PSP Bank, their linked bank account provider, NPCI, and ultimately the Banking Ombudsman or the Ombudsman for Digital Complaints."}
+  "In accordance with agreements between Nivasa, ICICI Bank, IndusInd Bank, and NPCI, Nivasa provides first-level support for customer grievances related to UPI transactions. If a complaint remains unresolved, users may escalate it to their PSP Bank, their linked bank account provider, NPCI, and ultimately the Banking Ombudsman or the Ombudsman for Digital Complaints."}}
 </p>
 
 <h3 style={{ fontSize: "20px", fontWeight: "bold", marginBottom: "10px" }}>
@@ -655,7 +655,7 @@ const TermsOfService = () => {
                 <li>{languageLabels?.termsOfService?.pspPoint4 || "Manages dispute resolution mechanisms for UPI-related complaints."}</li>
             </ul>
             <h5 style={{ fontSize: "16px", lineHeight: "1.6", marginTop: "5px", width: "100%" }}>
-                {languageLabels?.termsOfService?.tpapTitle || "TPAP’s Responsibilities (WorldofHostel):"}
+                {languageLabels?.termsOfService?.tpapTitle || "TPAP's Responsibilities (Nivasa):"}
             </h5>
             <ul style={{ fontSize: "16px", color: "#555", lineHeight: "1.6", marginBottom: "10px" }}>
                 <li>{languageLabels?.termsOfService?.tpapPoint1 || "Provides a UPI-compliant platform for transactions in partnership with PSP Banks."}</li>
@@ -667,7 +667,7 @@ const TermsOfService = () => {
         {languageLabels?.termsOfService?.disputetitle || "Dispute Redressal Mechanism"}
       </h3>
       <p style={{ fontSize: "16px", lineHeight: "1.6", marginBottom: "10px" }}>
-        {languageLabels?.termsOfService?.description || "Users can raise UPI-related complaints through the WorldofHostel app, the respective PSP Bank, or NPCI."}
+        {languageLabels?.termsOfService?.description || "Users can raise UPI-related complaints through the Nivasa app, the respective PSP Bank, or NPCI."}
       </p>
       <h5 style={{ fontSize: "16px", fontWeight: "bold", marginBottom: "10px" }}>
         {languageLabels?.termsOfService?.escalationProcessTitle || "Complaint Escalation Process:"}
@@ -734,10 +734,10 @@ const TermsOfService = () => {
 </ul>
 
 <h3 style={styles.heading}>
-  {languageLabels?.termsOfService?.roleOfWorldOfHostelHotelsAndLimitationOfLiability?.title || "ROLE OF WORLD OF HOSTEL HOTELS AND LIMITATION OF LIABILITY"}
+  {languageLabels?.termsOfService?.roleOfWorldOfHostelHotelsAndLimitationOfLiability?.title || "ROLE OF NIVASA HOTELS AND LIMITATION OF LIABILITY"}
 </h3>
 <p style={styles.paragraph}>
-  {languageLabels?.termsOfService?.roleOfWorldOfHostelHotelsAndLimitationOfLiability?.content[0] || "World of Hostel Hotels (WOH Hotels) acts solely as a facilitator, providing an online platform for users to select and book various accommodations, including hotels, hostels, home-stays, bed and breakfast establishments, farmhouses, and other alternative lodging options."}
+  {languageLabels?.termsOfService?.roleOfWorldOfHostelHotelsAndLimitationOfLiability?.content[0] || "Nivasa Hotels (Nivasa Hotels) acts solely as a facilitator, providing an online platform for users to select and book various accommodations, including hotels, hostels, home-stays, bed and breakfast establishments, farmhouses, and other alternative lodging options."}
 </p>
 <p style={styles.paragraph}>
   {languageLabels?.termsOfService?.roleOfWorldOfHostelHotelsAndLimitationOfLiability?.content[1] || "All information regarding accommodations, including hotel classification, images, room types, amenities, and available facilities, is provided by the respective establishments. This information is for reference only. Any discrepancies between website images and actual hotel conditions must be addressed directly with the hotel. WOH Hotels holds no responsibility for such discrepancies and will not be liable for any resolution process between the user and the hotel."}
@@ -807,7 +807,7 @@ const TermsOfService = () => {
 </p>
 
 <h3 style={styles.heading}>
-    {languageLabels?.termsOfService?.activities?.title || "WORLD OF HOSTEL - ACTIVITIES AND OTHER SERVICES"}
+    {languageLabels?.termsOfService?.activities?.title || "NIVASA - ACTIVITIES AND OTHER SERVICES"}
 </h3>
 
 <h3 style={styles.heading}>
@@ -816,7 +816,7 @@ const TermsOfService = () => {
 
 <p style={styles.paragraph}>
     {languageLabels?.termsOfService?.definitions?.activityDefinition || 
-    "'Activity' refers to any service or experience booked through the World of Hostel platform, including but not limited to day tours, sightseeing, spa & wellness, adventure sports, cruises, theme/amusement parks, buffets, dining experiences, or any other listed activity."}
+    "'Activity' refers to any service or experience booked through the Nivasa platform, including but not limited to day tours, sightseeing, spa & wellness, adventure sports, cruises, theme/amusement parks, buffets, dining experiences, or any other listed activity."}
 </p>
 
 <p style={styles.paragraph}>
@@ -825,17 +825,17 @@ const TermsOfService = () => {
 </p>
 
 <h3 style={styles.heading}>
-    {languageLabels?.termsOfService?.liability?.title || "ROLE OF WORLD OF HOSTEL AND LIMITATION OF LIABILITY"}
+    {languageLabels?.termsOfService?.liability?.title || "ROLE OF NIVASA AND LIMITATION OF LIABILITY"}
 </h3>
 
 <p style={styles.paragraph}>
     {languageLabels?.termsOfService?.liability?.facilitatorRole || 
-    "World of Hostel acts solely as a facilitator, enabling Users to book Activities through its platform. The actual transaction and service fulfillment occur between the User and the Activity Provider."}
+    "Nivasa acts solely as a facilitator, enabling Users to book Activities through its platform. The actual transaction and service fulfillment occur between the User and the Activity Provider."}
 </p>
 
 <p style={styles.paragraph}>
     {languageLabels?.termsOfService?.liability?.noPickupService || 
-    "World of Hostel does not provide pick-up or drop-off services for any Activity unless explicitly mentioned in the booking confirmation."}
+    "Nivasa does not provide pick-up or drop-off services for any Activity unless explicitly mentioned in the booking confirmation."}
 </p>
 
 <h5 style={{
@@ -844,7 +844,7 @@ const TermsOfService = () => {
     marginTop: "5px",
     width: '100%'
 }}>
-    {languageLabels?.termsOfService?.worldOfHostelLiability?.title || "World of Hostel shall not be responsible for:"}
+    {languageLabels?.termsOfService?.worldOfHostelLiability?.title || "Nivasa shall not be responsible for:"}
 </h5>
 <ul style={styles.paragraph}>
     <li>{languageLabels?.termsOfService?.worldOfHostelLiability?.points[0] || "Any damage, loss, injury, accident, death, breakdown, schedule changes, cancellations without cause, inaccurate information, or service deficiencies caused by the Activity Provider."}</li>
@@ -853,15 +853,15 @@ const TermsOfService = () => {
     <li>{languageLabels?.termsOfService?.worldOfHostelLiability?.points[3] || "Any incorrect or misleading information provided by the Activity Provider."}</li>
 </ul>
 <p style={styles.paragraph}>
-    {languageLabels?.termsOfService?.worldOfHostelLiability?.note || "The maximum liability of World of Hostel is limited to refunding the booking amount received for the reserved Activity."}
+    {languageLabels?.termsOfService?.worldOfHostelLiability?.note || "The maximum liability of Nivasa is limited to refunding the booking amount received for the reserved Activity."}}
 </p>    
 <h3 style={styles.heading}>
     {languageLabels?.termsOfService?.responsibilitiesOfTheUsers?.title || "RESPONSIBILITIES OF THE USERS"}
 </h3>
 
 <ul style={styles.paragraph}>
-    <li>{languageLabels?.termsOfService?.responsibilitiesOfTheUsers?.points?.[0] || "Users must comply with the terms and conditions of both the Activity Provider and World of Hostel."}</li>
-    <li>{languageLabels?.termsOfService?.responsibilitiesOfTheUsers?.points?.[1] || "Users must present a valid booking/confirmation voucher issued by World of Hostel to avail of the Activity."}</li>
+    <li>{languageLabels?.termsOfService?.responsibilitiesOfTheUsers?.points?.[0] || "Users must comply with the terms and conditions of both the Activity Provider and Nivasa."}</li>
+    <li>{languageLabels?.termsOfService?.responsibilitiesOfTheUsers?.points?.[1] || "Users must present a valid booking/confirmation voucher issued by Nivasa to avail of the Activity."}</li>
     <li>{languageLabels?.termsOfService?.responsibilitiesOfTheUsers?.points?.[2] || "Users must carry appropriate identification documents, including but not limited to an identity proof, address proof, or passport (for international Activities), as specified by the Activity Provider."}</li>
     <li>{languageLabels?.termsOfService?.responsibilitiesOfTheUsers?.points?.[3] || "Users may be required to sign waivers, consent forms, safety declarations, medical statements, or other documents before participating in an Activity, as mandated by the Activity Provider."}</li>
     <li>{languageLabels?.termsOfService?.responsibilitiesOfTheUsers?.points?.[4] || "Users must address any concerns directly with the Activity Provider after confirmation of their reservation."}</li>
@@ -874,22 +874,22 @@ const TermsOfService = () => {
 
 <ul style={styles.paragraph}>
     <li>{languageLabels?.termsOfService?.paymentsBookingsAndCancellations?.points?.[0] || "Reservations are subject to the cancellation and refund policies of the respective Activity Provider, which may vary."}</li>
-    <li>{languageLabels?.termsOfService?.paymentsBookingsAndCancellations?.points?.[1] || "World of Hostel may charge applicable taxes, service fees, or convenience fees where applicable."}</li>
+    <li>{languageLabels?.termsOfService?.paymentsBookingsAndCancellations?.points?.[1] || "Nivasa may charge applicable taxes, service fees, or convenience fees where applicable."}</li>
 </ul>
 
 <h3 style={styles.heading}>{languageLabels?. termsOfService?.specialOffersAndCoupons?.specialOffers}</h3>
 <h5 style={{ fontSize: "16px", lineHeight: "1.6", marginTop: "5px", width: "100%" }}>
-    {languageLabels?.termsOfService?.specialOffersAndCoupons?.title || "The following terms apply to any coupons provided by World of Hostel:"}
+    {languageLabels?.termsOfService?.specialOffersAndCoupons?.title || "The following terms apply to any coupons provided by Nivasa:"}
 </h5>
 <ul style={styles.paragraph}>
-    <li>{languageLabels?.termsOfService?.specialOffersAndCoupons?.points[0] || "World of Hostel’s responsibility is limited to issuing the coupon upon receipt of payment from the User."}</li>
+    <li>{languageLabels?.termsOfService?.specialOffersAndCoupons?.points[0] || "Nivasa's responsibility is limited to issuing the coupon upon receipt of payment from the User."}</li>
     <li>{languageLabels?.termsOfService?.specialOffersAndCoupons?.points[1] || "The redemption of the coupon is solely the User’s responsibility, and the Activity Provider is responsible for delivering the service."}</li>
     <li>{languageLabels?.termsOfService?.specialOffersAndCoupons?.points[2] || "Coupons have a stated expiry date and cannot be used beyond that date."}</li>
     <li>{languageLabels?.termsOfService?.specialOffersAndCoupons?.points[3] || "Coupons are non-redeemable for cash."}</li>
     <li>{languageLabels?.termsOfService?.specialOffersAndCoupons?.points[4] || "Once purchased, coupons cannot be refunded or canceled."}</li>
 </ul>
 <p style={styles.paragraph}>
-    {languageLabels?.termsOfService?.specialOffersAndCoupons?.disputeInfo || "For any disputes or clarifications, Users are encouraged to directly communicate with the Activity Provider or contact World of Hostel for assistance within the scope of its facilitation role."}
+    {languageLabels?.termsOfService?.specialOffersAndCoupons?.disputeInfo || "For any disputes or clarifications, Users are encouraged to directly communicate with the Activity Provider or contact Nivasa for assistance within the scope of its facilitation role."}
 </p>
  </div>
     );

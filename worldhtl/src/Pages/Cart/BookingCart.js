@@ -675,7 +675,7 @@ const BookingCart = () => {
       // checkin_time: checkinTime,
       total_guests: guests,
       no_of_kids: 0,
-      booking_source: "WorldOfHostels",
+      booking_source: "Nivasa",
       booking_commission: bookingData.Payable_Amount,
       count_of_accommodation: 1,
       accommodation_ids: accommodationIds,

@@ -87,7 +87,7 @@ const PrivacyPolicy = () => {
     return (
         <div style={{ width: "100%", padding: "50px 0px 0px 40px ", }}>
             <h2 style={{ fontSize: "24px", fontWeight: 700, textTransform: "uppercase", marginBottom: "10px", color: '#1C1C1C', }} >
-                {languageLabels?.privacyPolicy?.heading || 'Privacy Policy – World of hostels'}     </h2>
+                {languageLabels?.privacyPolicy?.heading || 'Privacy Policy – Nivasa'}     </h2>
             <p style={{ fontSize: "16px", color: "#5E6282", marginBottom: "20px", fontWeight: 500 }}>
                 <strong>   {languageLabels?.privacyPolicy?.versionInfo || 'Version: 1.0 | Effective Date: [date to be insert ] | Binding Across All Continents</strong '} </strong>
             </p>
@@ -97,7 +97,7 @@ const PrivacyPolicy = () => {
       </h3>
       <p style={styles.paragraph}>
         {languageLabels?.privacyPolicy?.sections?.introduction?.content ||
-          "Worldofhostels (hereinafter referred to as 'WDH') understands the importance of safeguarding the privacy of our users and maintaining the confidentiality of the information provided. As a responsible data controller and processor, we take every measure to ensure that your personal data is handled securely."}
+          "Nivasa (hereinafter referred to as 'WDH') understands the importance of safeguarding the privacy of our users and maintaining the confidentiality of the information provided. As a responsible data controller and processor, we take every measure to ensure that your personal data is handled securely."}
       </p>
       <p style={styles.paragraph}>
         {languageLabels?.privacyPolicy?.sections?.dataHandling?.content ||
@@ -294,7 +294,7 @@ const PrivacyPolicy = () => {
 </h3>
 <p style={styles.paragraph}>
   {languageLabels?.privacyPolicy?.dataRetentionText1 ||
-    "At WorldofHostels, we retain your personal information for as long as it is reasonably necessary to fulfill the purposes outlined in this Privacy Policy. In some cases, we may retain your data for longer periods, particularly when required to comply with legal, regulatory, tax, or accounting obligations."}
+    "At Nivasa, we retain your personal information for as long as it is reasonably necessary to fulfill the purposes outlined in this Privacy Policy. In some cases, we may retain your data for longer periods, particularly when required to comply with legal, regulatory, tax, or accounting obligations."}
 </p>
 
 <p style={styles.paragraph}>
@@ -319,7 +319,7 @@ const PrivacyPolicy = () => {
 </h3>
 <p style={styles.paragraph}>
   {languageLabels?.privacyPolicy?.cookiesText1 ||
-    "At WorldofHostels, we use cookies to personalize your experience on our website and to display relevant advertisements. Our use of cookies is standard practice, similar to that of other reputable online platforms."}
+    "At Nivasa, we use cookies to personalize your experience on our website and to display relevant advertisements. Our use of cookies is standard practice, similar to that of other reputable online platforms."}
 </p>
 
 <p style={styles.paragraph}>
@@ -334,7 +334,7 @@ const PrivacyPolicy = () => {
 
 <p style={styles.paragraph}>
   {languageLabels?.privacyPolicy?.cookiesText4 ||
-    "While most browsers accept cookies by default, you can adjust your browser settings to control how cookies are handled. However, blocking cookies from WorldofHostels might impact the functionality of the website, potentially limiting your ability to enjoy a seamless booking experience. You may also opt to block cookies from specific websites while allowing cookies from trusted sources."}
+    "While most browsers accept cookies by default, you can adjust your browser settings to control how cookies are handled. However, blocking cookies from Nivasa might impact the functionality of the website, potentially limiting your ability to enjoy a seamless booking experience. You may also opt to block cookies from specific websites while allowing cookies from trusted sources."}
 </p>
 
 <p style={styles.paragraph}>
@@ -356,7 +356,7 @@ const PrivacyPolicy = () => {
 </h3>
 <p style={styles.paragraph}>
   {languageLabels?.privacyPolicy?.serviceProvidersText ||
-    "To fulfill your booking, we may share your personal information with third-party service providers, such as airlines, hotels, bus services, taxi rentals, railways, and other suppliers involved in delivering the services you’ve booked. By making a reservation through WorldofHostels, you authorize us to share your information with these service providers. However, please note that we do not authorize these suppliers to use your data for purposes beyond fulfilling their role in your booking. Since these suppliers act as independent data controllers, WorldofHostels cannot be held responsible for their handling of your data. We recommend reviewing the privacy policies of the respective service providers to understand how they manage your personal information."}
+    "To fulfill your booking, we may share your personal information with third-party service providers, such as airlines, hotels, bus services, taxi rentals, railways, and other suppliers involved in delivering the services you've booked. By making a reservation through Nivasa, you authorize us to share your information with these service providers. However, please note that we do not authorize these suppliers to use your data for purposes beyond fulfilling their role in your booking. Since these suppliers act as independent data controllers, Nivasa cannot be held responsible for their handling of your data. We recommend reviewing the privacy policies of the respective service providers to understand how they manage your personal information."}
 </p>
 
 <p style={styles.paragraph}>
@@ -374,14 +374,14 @@ const PrivacyPolicy = () => {
 
 <p style={styles.paragraph}>
   {languageLabels?.privacyPolicy?.sameGroupCompaniesText2 ||
-    "If WorldofHostels is acquired by another company, your personal data may be transferred to the acquirer as part of the transaction. Similarly, if we undergo business restructuring, expansion, or transfer part of our operations, your information may be transferred to the new business entity or part of the business unit involved."}
+    "If Nivasa is acquired by another company, your personal data may be transferred to the acquirer as part of the transaction. Similarly, if we undergo business restructuring, expansion, or transfer part of our operations, your information may be transferred to the new business entity or part of the business unit involved."}
 </p>
 <h3 style={styles.heading}>
   {languageLabels?.privacyPolicy?.businessPartnersTitle || "BUSINESS PARTNERS AND THIRD-PARTY VENDORS"} :
 </h3>
 <p style={styles.paragraph}>
   {languageLabels?.privacyPolicy?.businessPartnersText ||
-    "We may share specific personal data with our business partners or third-party vendors to enhance your travel experience, such as offering co-branded credit cards, travel insurance, or other services that benefit WorldofHostels users. When you engage with services from our partners, those services will be governed by the partner's own privacy policies."}
+    "We may share specific personal data with our business partners or third-party vendors to enhance your travel experience, such as offering co-branded credit cards, travel insurance, or other services that benefit Nivasa users. When you engage with services from our partners, those services will be governed by the partner's own privacy policies."}
 </p>
 
 <p style={styles.paragraph}>
@@ -396,7 +396,7 @@ const PrivacyPolicy = () => {
 
 <p style={styles.paragraph}>
   {languageLabels?.privacyPolicy?.businessPartnersText4 ||
-    "Occasionally, WorldofHostels may hire third parties for market research or surveys. In such cases, any information shared with these third parties is strictly used for these specific projects and protected by confidentiality agreements. They will only use the data for these purposes and in compliance with applicable regulations."}
+    "Occasionally, Nivasa may hire third parties for market research or surveys. In such cases, any information shared with these third parties is strictly used for these specific projects and protected by confidentiality agreements. They will only use the data for these purposes and in compliance with applicable regulations."}
 </p>
 
 <h3 style={styles.heading}>
@@ -413,7 +413,7 @@ const PrivacyPolicy = () => {
     "As required by law, regulatory authorities, or court order.",
     "For internal compliance, audit purposes, or to secure our systems.",
     "To protect our rights, property, or those of our affiliates, employees, or customers, or when necessary to identify, contact, or take legal action against individuals causing harm or violating our rights.",
-    "Such disclosures may occur without your prior knowledge, and WorldofHostels will not be held liable for any damages arising from these actions."
+    "Such disclosures may occur without your prior knowledge, and Nivasa will not be held liable for any damages arising from these actions."
   ]).map((item, index) => (
     <li key={index}>{item}</li>
   ))}
@@ -425,7 +425,7 @@ const PrivacyPolicy = () => {
 </h3>
 <p style={styles.paragraph}>
   {languageLabels?.privacyPolicy?.userGeneratedContentText ||
-    "WorldofHostels allows users to share their experiences through reviews, ratings, and general poll questions. Users can also post questions related to the services offered on the platform or answer questions from other users. Additionally, we may contact you through third-party services to gather feedback about your recent bookings. While participation in feedback is entirely voluntary, you may receive notifications via email, SMS, WhatsApp, or in-app alerts asking you to share a review, respond to user queries, or contribute to a poll. Reviews can be written or submitted in video format, and they may also appear on other travel-related platforms."}
+    "Nivasa allows users to share their experiences through reviews, ratings, and general poll questions. Users can also post questions related to the services offered on the platform or answer questions from other users. Additionally, we may contact you through third-party services to gather feedback about your recent bookings. While participation in feedback is entirely voluntary, you may receive notifications via email, SMS, WhatsApp, or in-app alerts asking you to share a review, respond to user queries, or contribute to a poll. Reviews can be written or submitted in video format, and they may also appear on other travel-related platforms."}
 </p>
 
 <h3 style={styles.heading}>
@@ -450,7 +450,7 @@ const PrivacyPolicy = () => {
 
 <p style={styles.paragraph}>
   {languageLabels?.privacyPolicy?.optingOutText ||
-    "From time to time, you may receive promotional emails from us about special offers, discounts, new services, and updates on WorldofHostels. If you prefer not to receive these emails, simply click the 'unsubscribe' link or follow the opt-out instructions in any promotional email."}
+    "From time to time, you may receive promotional emails from us about special offers, discounts, new services, and updates on Nivasa. If you prefer not to receive these emails, simply click the 'unsubscribe' link or follow the opt-out instructions in any promotional email."}
 </p>
 
 <h3 style={styles.heading}>
@@ -459,7 +459,7 @@ const PrivacyPolicy = () => {
 
 <p style={styles.paragraph}>
   {languageLabels?.privacyPolicy?.permissionsText ||
-    "When you install the WorldofHostels app on your device, we request certain permissions for the app to function optimally. You cannot customize these permissions. Below is a list of required permissions and how we use them:"}
+    "When you install the Nivasa app on your device, we request certain permissions for the app to function optimally. You cannot customize these permissions. Below is a list of required permissions and how we use them:"}
 </p>
 
 <h3 style={styles.heading}>
@@ -503,7 +503,7 @@ const PrivacyPolicy = () => {
 
 <p style={styles.paragraph}>
   {languageLabels?.privacyPolicy?.protectionText ||
-    "All transactions on WorldofHostels are secure. We use TLS (Transport Layer Security) encryption to protect your personal information during transmission. Our website has robust security measures in place to protect against unauthorized access or misuse of your data. When you update or access your account information, we offer a secure server to ensure your details are protected."}
+    "All transactions on Nivasa are secure. We use TLS (Transport Layer Security) encryption to protect your personal information during transmission. Our website has robust security measures in place to protect against unauthorized access or misuse of your data. When you update or access your account information, we offer a secure server to ensure your details are protected."}
 </p>
 
 <h3 style={styles.heading}>
@@ -512,7 +512,7 @@ const PrivacyPolicy = () => {
 
 <p style={styles.paragraph}>
   {languageLabels?.privacyPolicy?.withdrawalText ||
-    "You have the right to withdraw your consent for the collection and processing of your personal information at any time. However, please note that doing so may limit your access to certain features or services on WorldofHostels. To withdraw consent, you can contact us at privacy@worldofhostels.com."}
+    "You have the right to withdraw your consent for the collection and processing of your personal information at any time. However, please note that doing so may limit your access to certain features or services on Nivasa. To withdraw consent, you can contact us at privacy@nivasa.com."}
 </p>
 
 <h3 style={styles.heading}>
@@ -521,16 +521,16 @@ const PrivacyPolicy = () => {
 
 <p style={styles.paragraph}>
   {languageLabels?.privacyPolicy?.rightsText ||
-    "You can access and update your personal information through your user account. If you don’t have an account, you can contact us at privacy@worldofhostels.com to request access, correction, or deletion of your information (with some mandatory fields excluded)."}
+    "You can access and update your personal information through your user account. If you don't have an account, you can contact us at privacy@nivasa.com to request access, correction, or deletion of your information (with some mandatory fields excluded)."}
 </p>
 
 <h3 style={styles.heading}>
-  {languageLabels?.privacyPolicy?.eligibilityTitle || "ELIGIBILITY TO TRANSACT WITH WORLDOFHOSTELS"}
+  {languageLabels?.privacyPolicy?.eligibilityTitle || "ELIGIBILITY TO TRANSACT WITH NIVASA"}
 </h3>
 
 <p style={styles.paragraph}>
   {languageLabels?.privacyPolicy?.eligibilityText ||
-    "You must be at least 18 years old to engage in transactions on WorldofHostels and to consent to the processing of your personal data."}
+    "You must be at least 18 years old to engage in transactions on Nivasa and to consent to the processing of your personal data."}
 </p>
 
 <h3 style={styles.heading}>
@@ -544,7 +544,7 @@ const PrivacyPolicy = () => {
 
 <p style={styles.paragraph}>
   {languageLabels?.privacyPolicy?.contactText ||
-    "If you have concerns or questions regarding this privacy policy, please email us at privacy@worldofhostels.com. We will make every effort to address your concerns."}
+    "If you have concerns or questions regarding this privacy policy, please email us at privacy@nivasa.com. We will make every effort to address your concerns."}
 </p>
 
 

@@ -1,8 +1,8 @@
 const config = {
-    // BASE_URL: "https://dev-api.worldofhostels.com",
+    // BASE_URL: "https://dev-api.nivasa.com",
 
 
-   BASE_URL: "https://api.worldofhostels.com",
+   BASE_URL: "https://api.nivasa.com",
 
     // BASE_URL: "http://127.0.0.1:8000",
 

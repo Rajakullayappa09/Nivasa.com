@@ -113,7 +113,7 @@ const BookingForm = () => {
     useEffect(() => {
         if (destination.length >= 2 && !apiCalled && submittedCityRef.current !== destination && !userSelected) {
             axios
-                .get(`https://api.worldofhostels.com/listing/getAllCities?city_name=${destination}`)
+                .get(`https://api.nivasa.com/listing/getAllCities?city_name=${destination}`)
                 .then((response) => {
                     setCities(response.data.city || []);
                     setShowDropdown(true);

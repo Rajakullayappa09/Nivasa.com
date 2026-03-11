@@ -29,21 +29,21 @@ const FooterContainer = () => {
     };
 
     const handleInstagramClick = () => {
-        window.open('https://www.instagram.com/worl.dofhostel367/', '_blank');
+        window.open('https://www.instagram.com/nivasa/', '_blank');
     };
 
     const handleWhatsAppClick = () => {
         window.open('https://wa.me/1234567890', '_blank'); // Replace with actual WhatsApp number or link
     };
     const handleYouTubeClick = () => {
-        window.open('https://www.youtube.com/channel/UCe3ZUqGRtMLc4SZbOb8m0rw worldofhostel@123#', '_blank'); // Replace with actual WhatsApp number or link
+        window.open('https://www.youtube.com/channel/UC_Nivasa_Channel', '_blank'); // Replace with actual YouTube channel
     };
     
     const handleLinkedinClick = () => {
         window.open('https://www.linkedin.com/in/kiran-kumar-915179350/', '_blank'); // Replace with actual WhatsApp number or link
     };
     const handleTwitterClick = () => {
-        window.open('https://x.com/Worldofhostelx', '_blank'); // Replace with actual WhatsApp number or link
+        window.open('https://x.com/Nivasax', '_blank'); // Replace with actual Twitter handle
     };
 
     return (
@@ -97,8 +97,7 @@ const FooterContainer = () => {
                 </div>
             </div>
 
-            <div className="footer-email">
-            </div>
+           
         </div>
     );
 };

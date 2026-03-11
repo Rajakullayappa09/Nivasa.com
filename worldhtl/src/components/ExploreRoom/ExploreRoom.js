@@ -96,7 +96,7 @@
 //             margin: "20px 0",
 //           }}
 //         >
-//           Why Choose World of Hostels
+//           Why Choose Nivasa
 //         </h3>
 //         {screenWidth > 768 && (
 //           <p
@@ -108,7 +108,7 @@
 //               margin: "10px 0 40px",
 //             }}
 //           >
-//             At World of Hostels, we prioritize your comfort and satisfaction. Here’s
+//             At Nivasa, we prioritize your comfort and satisfaction. Here's
 //             why we are the top choice for travelers worldwide:
 //           </p>
 //         )}
@@ -354,7 +354,7 @@ const ExploreRoom = () => {
           }}
         >
 
-          {languageLabels?.exploreRoom?.whyChooseTitle || "Why Choose World of Hostels"}
+          {languageLabels?.exploreRoom?.whyChooseTitle || "Why Choose Nivasa"}
         </h3>
 
         {screenWidth > 768 && (
@@ -375,7 +375,7 @@ const ExploreRoom = () => {
             }}
           >
 
-            {languageLabels?.exploreRoom?.whyChooseDescription || "At World of Hostels, we prioritize your comfort and satisfaction. Here's why we are the top choice for travelers worldwide:"}
+            {languageLabels?.exploreRoom?.whyChooseDescription || "At Nivasa, we prioritize your comfort and satisfaction. Here's why we are the top choice for travelers worldwide:"}
           </p>
 
         )}
