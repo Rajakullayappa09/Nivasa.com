@@ -1,0 +1,32 @@
+pipeline {
+    agent any
+    
+    
+        
+        stage('Build') {
+            steps {
+                echo 'Building application...'
+                // Add your build commands here
+                // sh 'mvn clean compile'  // for Maven
+                // sh 'npm install'        // for Node.js
+            }
+        }
+        
+        stage('Test') {
+            steps {
+                echo 'Running tests...'
+                // sh 'mvn test'           // for Maven
+                // sh 'npm test'            // for Node.js
+            }
+        }
+        
+        stage('Deploy') {
+            steps {
+                echo 'Deploying application...'
+                // Add your deployment commands
+            }
+        }
+    }
+    
+   
+}
